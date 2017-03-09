@@ -1,6 +1,7 @@
 ---
 layout: default
 updated: "May 18, 2016"
+roman: "XIV"
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan, in Ann Arbor, MI. This year's conference will be held May 19--21, 2016.
 
@@ -22,8 +23,8 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 (with contact information in order of decreasing likelihood of success)
 
-- Bill Worzel [slack](https://gptp2016.slack.com/messages/@billw/)
-- Bill Tozier [slack](https://gptp2016.slack.com/messages/@bill_tozier/) [twitter](https://twitter.com/vaguery)
+- Bill Worzel [slack](https://gptp-workshop.slack.com/messages/@billw/)
+- Bill Tozier [slack](https://gptp-workshop.slack.com/messages/@bill_tozier/) [twitter](https://twitter.com/vaguery)
 - Brian W. Goldman (not attending)
 - Rick Riolo (not attending)
 

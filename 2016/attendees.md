@@ -1,6 +1,7 @@
 ---
 layout: default
 updated: "May 18, 2016"
+roman: "XIV"
 ---
 
 # Participants
@@ -48,6 +49,4 @@ updated: "May 18, 2016"
 - [Ting Hu](http://www.mun.ca/computerscience/people/tingh.php), Memorial University, Newfoundland
 - [Uriel Lopez](http://tree-lab.org/index.php/people-2?layout=contacts), Tree-Lab
 - [Leonardo Trujillo](https://sites.google.com/site/leonardotrujillogp/), Tree-Lab
-- [Stephan M. Winkler](http://heal.heuristiclab.com/team/winkler), Heuristic & Evolutionary Algorithms Laboratory, University of Upper Austria 
-
-
+- [Stephan M. Winkler](http://heal.heuristiclab.com/team/winkler), Heuristic & Evolutionary Algorithms Laboratory, University of Upper Austria

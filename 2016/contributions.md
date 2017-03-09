@@ -1,6 +1,7 @@
 ---
 layout: default
 updated: "June 1, 2016"
+roman: "XIV"
 ---
 
 ## Important Dates
@@ -31,29 +32,29 @@ The detailed schedule will be published as soon as feasible. If you are a Presen
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
 - 9:30a **Keynote: Joanna Masel**
-  
+
   "Evolution of molecular error rates, and the consequences for robustness, evolvability, and the _de novo_ emergence of new protein-coding genes from junk DNA"
 - 10:30a _Break_
 - 10:45a **Michael Affenzeller**
-  
+
   "Population Dynamics in Symbolic Regression Using Standard GP, GP with Offspring Selection, and ALPS"
 - 11:30a **Armand R. Burks**
-  
+
   "An Investigation of Hybrid Structural and Behavioral Diversity Methods in Genetic Programming"
 - 12:15p _Discussion_
 - 12:30p _Lunch In Room_
 - 1:30p **Erik Hemberg**
-  
+
   "Investigating Multi population Competitive Coevolution for Anticipating of Tax Evasion"
 - 2:15p **Moshe Sipper**
-  
+
   "Evolving Artificial General Intelligence for Video Controllers"
 - 3:00p _Discussion and Break_
 - 3:30p **Nic McPhee**
-  
+
   "A Detailed Analysis of a PushGP Run"
 - 4:30p **Lee Spector and colleagues**
-  
+
   "Linear Genomes for Structured Programs (Plush)
 - 5:15p _Discussion_
 - 5:30p _End of Session_
@@ -62,49 +63,49 @@ The detailed schedule will be published as soon as feasible. If you are a Presen
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
 - 9:30a **Keynote: Stephanie Forrest**
-  
+
   "Software: Evolution, Robustness, and Diversity (also, the Mutation Cliff)"
 - 10:30a _Break_
 - 10:45a **Wolfgang Banzhaf**
-  
+
   "Neutrality, Robustness, and Evolvability in Genetic Programming"
 - 11:30a **Emigdio Z-Flores**
-  
+
   "Numerical local search in genetic programming"
 - 12:15p _Discussion_
 - 12:30p _Lunch in Room_
 - 1:30p Michael Korns
-  
+
   "An Evolutionary Algorithm for Big Data Multi-class Classification Problem"
 - 2:15p **Babak Hodjat**
-  
+
   "PRETSL: Distributed Probabilistic Rule Evolution for Time-Series Classification"
 - 3:00p _Discussion and Break_
 - 3:30p **Krzysztof Krawiec**
-  
+
   "Discovering Relational Structure in Program Synthesis Problems with Analogical Reasoning"
 - 4:30p **Gisele Pappa**
-  
+
   "Strategies for dispersing individuals in the semantic space"
 - 5:15p _Discussion and Group Photo_
 - 5:30p _End Of Session_
-   
- 
+
+
 #### Saturday 21 May
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
 - 9:30a **Keynote: Cosma Shalizi**
-  
+
   "Bayesian Learning, Evolutionary Search, and Information Theory"
 - 10:30a _Break_
 - 10:45a **Steven Gustafson**
-  
+
   "Assisting Asset Model Development with Evolutionary Augmentation"
 - 11:30a **Randy Olson & Jason Moore**
-  
+
   "Identifying and Harnessing the Building Blocks of Machine Learning Pipelines for Sensible Initialization of a Data Science Automation Tool"
 - 12:15p _Discussion, Wrap-up_
-- 12:30p _Lunch In Room_ 
+- 12:30p _Lunch In Room_
 - 1:30p _End_
 
 ## Proceedings Volume
