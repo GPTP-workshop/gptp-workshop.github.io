@@ -23,8 +23,8 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 (with contact information in order of decreasing likelihood of success)
 
-- Bill Worzel [slack](https://gptp-workshop.slack.com/messages/@billw/)
-- Bill Tozier [slack](https://gptp-workshop.slack.com/messages/@bill_tozier/) [twitter](https://twitter.com/vaguery)
+- Bill Worzel [slack](https://gptp-workshops.slack.com/messages/@billw/)
+- Bill Tozier [slack](https://gptp-workshops.slack.com/messages/@bill_tozier/) [twitter](https://twitter.com/vaguery)
 - Brian W. Goldman (not attending)
 - Rick Riolo (not attending)
 
@@ -34,7 +34,7 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ### Social Media
 
-- An invitation-only [Slack channel](http://gptp-workshop.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
+- An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
 - Twitter hashtag: [`#gptp2016`](https://twitter.com/search?f=tweets&q=%23gptp2016) (click to search for recent items)
 
 
