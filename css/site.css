@@ -1,0 +1,89 @@
+html { font-size: 22px; }
+
+body {
+  font-size: 1rem;
+  padding-top: 70px;
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  color: #230305;
+  width:100%;
+}
+
+h2 {
+  margin-top:2em;
+  font-style: italic;
+}
+
+h3 {
+  margin-top: 2em;
+  font-weight: bold;
+}
+
+
+h4 {
+  margin-top: 2em;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+h3:before {
+  content: "§ ";
+}
+
+.address {
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  background-color: #DDD;
+  max-width: 20em;
+}
+
+small {
+  font-size: 0.75rem;
+  color: #777;
+  padding-bottom: 2rem;
+}
+
+.dateline {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+p {
+  max-width: 30em;
+}
+
+li {
+  max-width: 30em;
+}
+
+#nav-div * {
+  font-size: 1em;
+}
+
+
+a:link {
+  color: #D5401A;
+}
+
+a:visited {
+  color: #AA1D11;
+}
+
+a:hover {
+  color: #E17818;
+}
+
+a:active {
+  color: #E1AD7E;
+  background-color: #D5401A;
+}
+
+a.btn-primary {
+  color: #FFF;
+}
+
+::selection {
+  background: palegoldenrod; /* Safari */
+  }
+
+::-moz-selection {
+  background: palegoldenrod; /* Firefox */
+}
