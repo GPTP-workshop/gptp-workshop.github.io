@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "March 9, 2017"
+updated: "March 10, 2017"
 roman: "XV"
 dates: "May 18–20, 2017"
 ---
@@ -9,10 +9,10 @@ dates: "May 18–20, 2017"
 
 ## Organizers
 
-- [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/), Michigan State University
-- [Randal Olson](http://www.randalolson.com), University of Pennsylvania [Institute for Biomedical Informatics](http://upibi.org)
-- [Rick Riolo](https://lsa.umich.edu/cscs/people/affiliated-faculty/rlriolo.html), Center for the Study of Complex Systems, University of Michigan
+- [Dr. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/), Michigan State University
+- [Dr. Randal Olson](http://www.randalolson.com), University of Pennsylvania [Institute for Biomedical Informatics](http://upibi.org)
 - [Bill Tozier](http://vaguery.github.io) [no particular affiliation]
+- [Dr. Rick Riolo](https://lsa.umich.edu/cscs/people/affiliated-faculty/rlriolo.html), Center for the Study of Complex Systems, University of Michigan
 
 ## Keynote Speakers
 
