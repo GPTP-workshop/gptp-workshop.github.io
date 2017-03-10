@@ -16,6 +16,8 @@ The following hotels are conveniently close to the workshop venue.
 Ann Arbor, MI 48104
 {: .address}
 
+Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years.
+
 ### [Residence Inn by Marriott Ann Arbor Downtown](http://www.marriott.com/hotels/travel/arbdt-residence-inn-ann-arbor-downtown)
 
 120 W Huron St. \\
@@ -32,7 +34,7 @@ Brand new hotel. Breakfast included.
 Ann Arbor, MI  48109-1265
 {: .address}
 
-*Very* close to the workshop venue.
+*Very* close to the workshop venue. A University of Michigan facility, not typically listed on tourist guides.
 
 ## Satellite Locations (require a bus or car ride)
 
@@ -44,7 +46,7 @@ Ann Arbor, Michigan 48103
 
 Full kitchen and workspace in every room. Easy walk to several restaurants. Far enough away from the conference venue that you will _definitely_ need to drive or take the bus. There is a bus line right outside the front door that drops you on campus.
 
-(These are often _much_ cheaper accommodations than downtown venues)
+(Despite the additional features and slight inconvenience of extra travel, these are often _much_ cheaper accommodations than downtown venues)
 
 ### [Microtel Inn & Suites](http://microtelinn.com)
 
@@ -78,6 +80,6 @@ Near Briarwood Mall.
 Ann Arbor 48103
 {: .address}
 
-(West edge of Ann Arbor)
+(West edge of Ann Arbor, almost outside of town)
 
 No shuttle, will have to cab or rental car in to venue.
