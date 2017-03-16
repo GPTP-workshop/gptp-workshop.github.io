@@ -7,7 +7,9 @@ dates: "May 18–20, 2017"
 
 ## Important Dates
 
-- TBD
+- **May 1, 2017:** First drafts of book chapters should be submitted. These need not be formatted, but should be more substantial than an abstract and suitable for preliminary review by your colleagues.
+- **May 3, 2017:** Review assignments will be provided.
+- **May 18-20, 2017:** Workshop, presentations, and discussions
 
 
 ## Presentations
