@@ -8,13 +8,13 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ## Important Dates
 
-- **MMMM DD, 2017:** First drafts of book chapters should be submitted. These need not be formatted, but should be more substantial than an abstract and suitable for preliminary review by your colleagues.
-- **MMMM DD, 2017:** Review assignments will be given.
-- **May 18, 2016:** Workshop, presentations, discussions
-- **May 20, 2016:** Publisher copyright waivers must be signed and submitted _by the end of the workshop_.
-- **MMMM DD, 2017:** Revised versions of papers, suitable for copy-editing. [See "Proceedings Volume"](contributions.html#proceedings-volume) for all the info you'll need.
-- **MMMM DD, 2017:** Final reviews of copy-edited versions will be done.
-- **MMMM DD, 2017:** Book submitted to publisher.
+- **May 1, 2017:** First drafts of book chapters should be submitted. These need not be formatted, but should be more substantial than an abstract and suitable for preliminary review by your colleagues.
+- **May 3, 2017:** Review assignments will be provided.
+- **May 18-20, 2017:** Workshop, presentations, and discussions
+- **May 20, 2017:** Publisher copyright waivers must be signed and submitted _by the end of the workshop_.
+- **TBD:** Revised versions of papers, suitable for copy-editing. [See "Proceedings Volume"](contributions.html#proceedings-volume) for all the info you'll need.
+- **TBD:** Final reviews of copy-edited versions will be done.
+- **TBD:** Book submitted to publisher.
 
 ## Contacts
 
