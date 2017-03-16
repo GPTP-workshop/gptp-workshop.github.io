@@ -48,6 +48,7 @@ Note: This venue is _definitely not walkable_. You will need to drive in.
 
 3500 S State St \\
 Ann Arbor, MI 48108
+{.address}
 
 Also _not walkable_. Near Briarwood Mall in the south end of town. Newly renovated. Ten rooms at $129/night. `GPTP 2017`
 
