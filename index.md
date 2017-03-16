@@ -1,8 +1,8 @@
 ---
 layout: default
-updated: "March 9, 2017"
+updated: "March 10, 2017"
 roman: "XV"
-dates: "May 18–20, 2017"
+dates: "May 18-20, 2017"
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan, in Ann Arbor, MI. This year's conference will be held {{page.dates}}.
 
@@ -20,9 +20,9 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ### Organizers for GPTP {{page.roman}}
 
-- Bill Tozier [slack](https://gptp-workshops.slack.com/messages/@bill_tozier/) [twitter](https://twitter.com/vaguery)
-- Dr. Randal Olson [slack](https://gptp-workshops.slack.com/messages/@randal_olson/)
-- Dr. Wolfgang Banzhaf [slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
+- Bill Tozier [Twitter](https://twitter.com/vaguery) [Slack](https://gptp-workshops.slack.com/messages/@bill_tozier/)
+- Dr. Randal Olson [Email](http://randalolson.com/contact) [Twitter](https://twitter.com/randal_olson) [Slack](https://gptp-workshops.slack.com/messages/@randal_olson/)
+- Dr. Wolfgang Banzhaf [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
 - Rick Riolo (not attending)
 
 ### Center for the Study of Complex Systems
