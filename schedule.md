@@ -5,7 +5,7 @@ roman: "XV"
 dates: "May 18–20, 2017"
 ---
 
-## Detailed schedule and titles
+## Detailed schedule and presentation titles
 
 ### Thursday 18 May, 2017
 
