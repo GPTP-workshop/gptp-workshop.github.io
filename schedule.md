@@ -28,7 +28,7 @@ dates: "May 18–20, 2017"
 ### Friday 19 May, 2017
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
-- 9:30a **Keynote by Ken Stanley**
+- 9:30a **Keynote by Kenneth Stanley**: "New Directions in Open-Ended Evolution"
 - 10:30a _Break_
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
