@@ -16,7 +16,7 @@ dates: "May 18–20, 2017"
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
 - 12:15p _Discussion_
-- 12:30p _Lunch In Room_
+- 12:30p _Lunch in Room_
 - 1:30p **[speaker TBD]**
 - 2:15p **[speaker TBD]**
 - 3:00p _Discussion and Break_
@@ -39,8 +39,8 @@ dates: "May 18–20, 2017"
 - 3:00p _Discussion and Break_
 - 3:30p **[speaker TBD]**
 - 4:15p **[speaker TBD]**
-- 5:00p _Discussion and Group Photo_
-- 5:30p _End Of Session_
+- 5:00p _Discussion and group photo_
+- 5:30p _End of Session_
 
 ### Saturday 20 May, 2017
 - 8:30a _Coffee, juice, pastries, fruit_
@@ -49,6 +49,6 @@ dates: "May 18–20, 2017"
 - 10:30a _Break_
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
-- 12:15p _Discussion, Wrap-up_
-- 12:30p _Lunch In Room_
-- 1:30p _End_
+- 12:15p _Discussion and Wrap-up_
+- 12:30p _Lunch in Room_
+- 1:30p _End of Workshop_
