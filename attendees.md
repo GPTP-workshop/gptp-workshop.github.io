@@ -36,6 +36,22 @@ dates: "May 18–20, 2017"
 - [Lee Spector](http://faculty.hampshire.edu/lspector/), [Computational Intelligence Lab](http://faculty.hampshire.edu/lspector/ici.html), Hampshire College
 - [Ryan Urbanowicz](http://ryanurbanowicz.com/), [Institute for Biomedical Informatics](http://upibi.org), University of Pennsylvania
 
-## Coauthors and Correspondents
+## Co-authors and Correspondents
 
 - [Michael Affenzeller](http://heal.heuristiclab.com/team/affenzeller), [HEAL group](http://heal.heuristiclab.com/team/burlacu), University of Applied Sciences Upper Austria
+- [Emily Dolson](http://cse.msu.edu/~dolsonem/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
+- Ariel Hernandez Ramirez, [TREE-LAB](http://www.tree-lab.org/), Tijuana Institute of Technology
+- [William La Cava](http://www.williamlacava.com/), [Institute for Biomedical Informatics](http://upibi.org), University of Pennsylvania
+- Victor Raul Lopez Lopez, [TREE-LAB](http://www.tree-lab.org/), Tijuana Institute of Technology
+- [Nic McPhee](http://facultypages.morris.umn.edu/~mcphee/), University of Minnesota-Morris
+- Anselmo Pontes, [BEACON Center](https://www3.beacon-center.org/), Michigan State University
+- [Bill Punch](http://www.cse.msu.edu/~punch/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
+- [Saul Shanabrook](https://about.me/shanabrook), [Computational Intelligence Lab](http://faculty.hampshire.edu/lspector/ici.html), Hampshire College
+- [Leigh Sheneman](http://www.leighsheneman.com/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
+- [Moshe Sipper](http://www.moshesipper.com/), [Institute for Biomedical Informatics](http://upibi.org), University of Pennsylvania
+- [Kai Staats](https://overthesun.com/kai-staats/), [Over the Sun Productions](https://overthesun.com/)
+- Sarah Anne Troise, Washington and Lee University
+- [Anya Vostinar](https://sites.google.com/site/anyaevostinar/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
+- [Richard Wardin](https://www.linkedin.com/in/richard-wardin-4064037a/)
+- [Stephan Winkler](http://heal.heuristiclab.com/team/winkler), [HEAL group](http://heal.heuristiclab.com/team/burlacu), University of Applied Sciences Upper Austria
+- [Bill Worzel](https://www.linkedin.com/in/bill-worzel-4b39b412/), [Fog Lifter](http://www.fog-lifter.com/)
