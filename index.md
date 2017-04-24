@@ -1,10 +1,10 @@
 ---
 layout: default
-updated: "March 10, 2017"
+updated: "April 24, 2017"
 roman: "XV"
 dates: "May 18-20, 2017"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan, in Ann Arbor, MI. This year's conference will be held {{page.dates}}.
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan in Ann Arbor, MI. This year's conference will be held {{page.dates}}.
 
 ## Important Dates
 
@@ -20,14 +20,20 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ### Organizers for GPTP {{page.roman}}
 
-- Bill Tozier [Twitter](https://twitter.com/vaguery) [Slack](https://gptp-workshops.slack.com/messages/@bill_tozier/)
-- Dr. Randal Olson [Email](http://randalolson.com/contact) [Twitter](https://twitter.com/randal_olson) [Slack](https://gptp-workshops.slack.com/messages/@randal_olson/)
-- Dr. Wolfgang Banzhaf [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
-- Rick Riolo (not attending)
+- [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
+    - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
+- [Randal Olson](http://www.randalolson.com/)
+    - [Email](http://randalolson.com/contact)
+    - [Twitter](https://twitter.com/randal_olson)
+    - [Slack](https://gptp-workshops.slack.com/messages/@randal_olson/)
+- [Bill Tozier](http://vaguery.github.io/)
+    - [Twitter](https://twitter.com/vaguery)
+    - [Slack](https://gptp-workshops.slack.com/messages/@bill_tozier/)
+- [Rick Riolo](https://lsa.umich.edu/cscs/people/affiliated-faculty/rlriolo.html) (not attending)
 
 ### Center for the Study of Complex Systems
 
-- Linda Wood
+- [Linda Wood](https://lsa.umich.edu/cscs/people/staff/linmwood.html)
 
 ### Social Media
 
@@ -51,11 +57,11 @@ The 2017 meeting will be held in room 411 West Hall. Note that this is the "old 
 Ann Arbor, MI 48109
 {: .address}
 
-[directions to the building](https://campusinfo.umich.edu/building-search/building/163/west-hall)
+You can use [Google Maps](https://www.google.com/maps/place/1085+S+University+Ave,+Ann+Arbor,+MI+48109/) or the [University of Michigan Map](https://campusinfo.umich.edu/building-search/building/163/west-hall) to find directions to the building.
 
 ## Transportation
 
-Flights should be scheduled to the [Detroit Metro Airport](http://www.metroairport.com) (`DTW`). From there, a taxi or [MichiganFlyer/AirRide](http://www.michiganflyer.com) shuttle can be arranged.
+Flights should be scheduled to the [Detroit Metro Airport](http://www.metroairport.com) (`DTW`). From there, a taxi or [Michigan Flyer/AirRide](http://www.michiganflyer.com) shuttle can be arranged. The Michigan Flyer, in particular, is affordable and convenient.
 
 Unless you are staying directly in Downtown Ann Arbor or the University of Michigan campus area, you will want to to arrange transportation. Rental cars can obtained from the airport, but all major brands also have Ann Arbor locations for pick up and drop off. Several taxi services are available. If you're near a route you can also ride the [excellent local bus service](http://www.theride.org).
 
@@ -63,4 +69,4 @@ There is very little chance of street parking on weekdays on the University camp
 
 ## Information for Speakers and Authors
 
-See the [corresponding page](/contributions.html).
+See the [contributions page](contributions.html) for information on preparing presentations and publications, and the [schedule page](schedule.html) for the detailed workshop schedule.
