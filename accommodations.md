@@ -1,9 +1,10 @@
 ---
 layout: default
-updated: "March 16, 2017"
+updated: "April 24, 2017"
 roman: "XV"
 dates: "May 18–20, 2017"
 ---
+
 # Accommodations
 
 The following hotels are conveniently close to the workshop venue.
@@ -60,7 +61,7 @@ Also _not walkable_. Near Briarwood Mall in the south end of town. Newly renovat
 Ann Arbor, MI 48104
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years.
+Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. The rates per room very, but they will provide a 20% discount if you mention that you are attending `GPTP 2017`.
 
 ### [Inn at the Michigan League](https://uunions.umich.edu/league/inn)
 
