@@ -57,7 +57,7 @@ The 2017 meeting will be held in room 411 West Hall. Note that this is the "old 
 Ann Arbor, MI 48109
 {: .address}
 
-You can use [Google Maps](https://www.google.com/maps/place/1085+S+University+Ave,+Ann+Arbor,+MI+48109/) or the [University of Michigan Map](https://campusinfo.umich.edu/building-search/building/163/west-hall) to find directions to the building.
+You can use [Google Maps](https://www.google.com/maps/place/1085+S+University+Ave,+Ann+Arbor,+MI+48109/) or the [University of Michigan Campus Map](https://campusinfo.umich.edu/building-search/building/163/west-hall) to find directions to the building.
 
 ## Transportation
 
