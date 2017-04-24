@@ -17,8 +17,8 @@ dates: "May 18–20, 2017"
 ## Keynote Speakers
 
 - [Dr. Jeff Clune](http://jeffclune.com/), [Evolving Artificial Intelligence Lab](http://www.evolvingai.org) and Uber
-- [Dr. Kenneth O. Stanley](http://www.cs.ucf.edu/~kstanley/), [Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu) and Uber
 - [Dr. Patrick Shafto](http://shaftolab.com), Cognitive and Data Science Lab, Rutgers University
+- [Dr. Kenneth O. Stanley](http://www.cs.ucf.edu/~kstanley/), [Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu) and Uber
 
 ## Attendees (a partial list)
 
