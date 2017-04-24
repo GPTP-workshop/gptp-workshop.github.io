@@ -18,7 +18,7 @@ dates: "May 18–20, 2017"
 
 - [Jeff Clune](http://jeffclune.com/), [Evolving Artificial Intelligence Lab](http://www.evolvingai.org) and Uber
 - [Patrick Shafto](http://shaftolab.com), Cognitive and Data Science Lab, Rutgers University
-- [Kenneth O. Stanley](http://www.cs.ucf.edu/~kstanley/), [Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu) and Uber
+- [Kenneth Stanley](http://www.cs.ucf.edu/~kstanley/), [Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu) and Uber
 
 ## Presenters
 

@@ -11,7 +11,7 @@ dates: "May 18–20, 2017"
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
-- 9:30a **Keynote**
+- 9:30a **Keynote by Jeff Clune**
 - 10:30a _Break_
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
@@ -28,7 +28,7 @@ dates: "May 18–20, 2017"
 ### Friday 19 May, 2017
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
-- 9:30a **Keynote**
+- 9:30a **Keynote by Ken Stanley**
 - 10:30a _Break_
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
@@ -45,7 +45,7 @@ dates: "May 18–20, 2017"
 ### Saturday 20 May, 2017
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
-- 9:30a **Keynote**
+- 9:30a **Keynote by Patrick Shafto**
 - 10:30a _Break_
 - 10:45a **[speaker TBD]**
 - 11:30a **[speaker TBD]**
