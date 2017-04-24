@@ -52,6 +52,6 @@ dates: "May 18–20, 2017"
 - [Kai Staats](https://overthesun.com/kai-staats/), [Over the Sun Productions](https://overthesun.com/)
 - Sarah Anne Troise, Washington and Lee University
 - [Anya Vostinar](https://sites.google.com/site/anyaevostinar/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
-- [Richard Wardin](https://www.linkedin.com/in/richard-wardin-4064037a/)
+- [Richard Wardin](https://www.linkedin.com/in/richard-wardin-4064037a/), [Health Enhancement Systems](https://www.hesonline.com/)
 - [Stephan Winkler](http://heal.heuristiclab.com/team/winkler), [HEAL group](http://heal.heuristiclab.com/team/burlacu), University of Applied Sciences Upper Austria
 - [Bill Worzel](https://www.linkedin.com/in/bill-worzel-4b39b412/), [Fog Lifter](http://www.fog-lifter.com/)
