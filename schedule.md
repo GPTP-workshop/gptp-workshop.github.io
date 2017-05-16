@@ -10,8 +10,8 @@ dates: "May 18–20, 2017"
 ### Thursday 18 May, 2017
 
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a **Carl Simon and Bill Tozier** _Opening Remarks & Welcome_
-- 9:30a **Keynote by Jeff Clune**
+- 9:00a **Bill Worzel and Bill Tozier** _Opening Remarks & Welcome_
+- 9:30a **Keynote by Jeff Clune** "A talk in two parts: AI Neuroscience, and Harnessing Illumination Algorithms"
 - 10:30a _Break_
 - 10:45a **Stjepan Picek, Erik Hemberg, Domagoj Jakobovic and Una-May O’Reilly**: "Detecting DoS Attacks: A Genetic Programming Perspective"
 - 11:30a **Steven Fine, Erik Hemberg and Krzysztof Krawiec**: "Exploiting Subprograms in Genetic Programming" (presented remotely)
@@ -32,11 +32,10 @@ dates: "May 18–20, 2017"
 - 9:30a **Keynote by Kenneth Stanley**: "New Directions in Open-Ended Evolution"
 - 10:30a _Break_
 - 10:45a **Emily Dolson, Wolfgang Banzhaf and Charles Ofria**: "Applying Ecological Principles to Genetic Programming"
-- 11:30a **Armand Burks**: "A Comparison of Hybrid Structural and Behavioral Diversity Techniques for Genetic Programming"
-- 12:15p _Discussion_
+- 11:30a _Discussion_
 - 12:30p _Lunch in Room_
 - 1:30p **Sarah Anne Troise and Thomas Helmuth**: "Lexicase Selection with Weighted Shuffle"
-- 2:15p
+- 2:15p **Lee Spector, William La Cava, Saul Shanabrook, and Thomas Helmuth**: "Random Challenges in Parent Selection"
 - 3:00p _Discussion and Break_
 - 3:30p **Randal S. Olson, Moshe Sipper, William La Cava, Sharon Tartarone, Steven Vitale, Weixuan Fu, John H. Holmes, and Jason H. Moore**: "A System for Accessible Artificial Intelligence"
 - 4:15p **Amir H Gandomi et al**: "Genetic Programming for Big Data"
@@ -50,9 +49,8 @@ dates: "May 18–20, 2017"
 - 9:00a _Opening Remarks & Welcome_
 - 9:30a **Keynote by Patrick Shafto**
 - 10:30a _Break_
-- 10:45a **Lee Spector, William La Cava, Saul Shanabrook, and Thomas Helmuth**: "Random Challenges in Parent Selection"
-- 11:30a **Stu Card**: TBD
-- 12:15p _Discussion and Wrap-up_
+- 10:45a **Stu Card and Zhiruo Zhao**: "Evolution of Segment Forests for Outlier Detection"
+- 11:30a _Discussion and Wrap-up_
 - 12:30p _Lunch in Room_
 - 1:30p _End of Workshop_
 - 2:30p _reconvene informally at various bars and restaurants_
