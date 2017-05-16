@@ -22,12 +22,11 @@ dates: "May 18–20, 2017"
 
 ## Presenters
 
-- [Armand Burks](http://www.cse.msu.edu/~burksarm/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
 - [Bogdan Burlacu](http://heal.heuristiclab.com/team/burlacu), [HEAL group](http://heal.heuristiclab.com/team/burlacu), University of Applied Sciences Upper Austria
 - [Stuart Card](https://www.researchgate.net/profile/Stuart_Card3), [AX Enterprize](http://axenterprize.com/)
-- Steven Fine, [ALFA group](http://alfagroup.csail.mit.edu/12.x/tiki-index.php), MIT
 - [Amir Gandomi](http://gandomi.beacon-center.org/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
 - [Thomas Helmuth](https://www.wlu.edu/computer-science/faculty-and-staff/profile?ID=x13084), Washington and Lee University
+- [Erik Hemberg](http://bigdata.csail.mit.edu/user/157), MIT Big Data Initiative
 - [Michael Korns](http://korns.com/), Korns Associates
 - [Jason Moore](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452), [Institute for Biomedical Informatics](http://upibi.org/), University of Pennsylvania
 - [Charles Ofria](http://www.ofria.com/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
@@ -40,7 +39,6 @@ dates: "May 18–20, 2017"
 
 - [Michael Affenzeller](http://heal.heuristiclab.com/team/affenzeller), [HEAL group](http://heal.heuristiclab.com/team/burlacu), University of Applied Sciences Upper Austria
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/), [BEACON Center](https://www3.beacon-center.org/), Michigan State University
-- Ariel Hernandez Ramirez, [TREE-LAB](http://www.tree-lab.org/), Tijuana Institute of Technology
 - [William La Cava](http://www.williamlacava.com/), [Institute for Biomedical Informatics](http://upibi.org), University of Pennsylvania
 - Victor Raul Lopez Lopez, [TREE-LAB](http://www.tree-lab.org/), Tijuana Institute of Technology
 - [Nic McPhee](http://facultypages.morris.umn.edu/~mcphee/), University of Minnesota-Morris
