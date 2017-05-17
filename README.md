@@ -2,4 +2,4 @@
 
 Jekyll website for the workshop series.
 
-Live at http://gptp-workshop.github.io.
+Visit the workshop website at http://gptp-workshop.com.
