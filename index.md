@@ -18,7 +18,9 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ## Contacts
 
-### Organizers for GPTP {{page.roman}}
+### Organizers for GPTP
+
+(alphabetical order)
 
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
     - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
@@ -26,10 +28,10 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
     - [Email](http://randalolson.com/contact)
     - [Twitter](https://twitter.com/randal_olson)
     - [Slack](https://gptp-workshops.slack.com/messages/@randal_olson/)
+- [Rick Riolo](https://lsa.umich.edu/cscs/people/affiliated-faculty/rlriolo.html) (not attending)
 - [Bill Tozier](http://vaguery.github.io/)
     - [Twitter](https://twitter.com/vaguery)
     - [Slack](https://gptp-workshops.slack.com/messages/@bill_tozier/)
-- [Rick Riolo](https://lsa.umich.edu/cscs/people/affiliated-faculty/rlriolo.html) (not attending)
 
 ### Center for the Study of Complex Systems
 
@@ -43,7 +45,7 @@ Genetic Programming Theory & Practice is a small, invitation-only workshop hoste
 
 ## Food
 
-A light breakfast of pastries, fresh fruit, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. Please let us know if you have any dietary restrictions for catered meals.
+A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. Please let us know if you have any dietary restrictions for catered meals.
 
 ## Accommodations
 

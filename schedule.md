@@ -13,7 +13,7 @@ dates: "May 18–20, 2017"
 - 9:00a **Bill Worzel and Bill Tozier** _Opening Remarks & Welcome_
 - 9:30a **Keynote by Jeff Clune** "A talk in two parts: AI Neuroscience, and Harnessing Illumination Algorithms"
 - 10:30a _Break_
-- 10:45a **Stjepan Picek, Erik Hemberg, Domagoj Jakobovic and Una-May O’Reilly**: "Detecting DoS Attacks: A Genetic Programming Perspective"
+- 10:45a **Stjepan Picek, Erik Hemberg, Domagoj Jakobović and Una-May O’Reilly**: "Detecting DoS Attacks: A Genetic Programming Perspective"
 - 11:30a **Steven Fine, Erik Hemberg and Krzysztof Krawiec**: "Exploiting Subprograms in Genetic Programming" (presented remotely)
 - 12:15p _Discussion_
 - 12:30p _Lunch in Room_
@@ -47,7 +47,7 @@ dates: "May 18–20, 2017"
 ### Saturday 20 May, 2017
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks & Welcome_
-- 9:30a **Keynote by Patrick Shafto**
+- 9:30a **Keynote by Patrick Shafto**: "Cooperative Inference in Humans and Machines"
 - 10:30a _Break_
 - 10:45a **Stu Card and Zhiruo Zhao**: "Evolution of Segment Forests for Outlier Detection"
 - 11:30a _Big world-changing optimistic summaries-and-plans discussion(s)_
