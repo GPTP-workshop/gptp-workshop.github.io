@@ -16,7 +16,7 @@ dates: "May 18–20, 2017"
 - 11:30a **Steven Fine, Erik Hemberg and Krzysztof Krawiec**: "Exploiting Subprograms in Genetic Programming" (presented remotely)
 - 12:15p _Discussion_
 - 12:30p _Lunch in Room_
-- 1:30p **Bogdan Burlacu, Michael Affenzeller, Michael Kommenda, Gabriel Kronberger,and Stephan Winkler**: "Measuring Population Diversity and Convergence in Symbolic Regression via Schema Frequencies"
+- 1:30p **Bogdan Burlacu, Michael Affenzeller, Michael Kommenda, Gabriel Kronberger, and Stephan Winkler**: "Measuring Population Diversity and Convergence in Symbolic Regression via Schema Frequencies"
 - 2:15p **Michael Korns**: "Genetic Programming Symbolic Classification: A Study"
 - 3:00p _Discussion and Break_
 - 3:30p **Ryan J. Urbanowicz, Ben Yang, Jason H. Moore**: "Co-evolving genetic programming trees and rules in a learning classifier system for problem driven machine learning"
