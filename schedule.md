@@ -13,7 +13,6 @@ dates: "May 18–20, 2017"
 - 9:00a **Bill Worzel and Bill Tozier** _Opening Remarks & Welcome_
 - 9:30a **Keynote by Jeff Clune** "A talk in two parts: AI Neuroscience, and Harnessing Illumination Algorithms"
 - 10:30a _Break_
-- 10:45a **Stjepan Picek, Erik Hemberg, Domagoj Jakobović and Una-May O’Reilly**: "Detecting DoS Attacks: A Genetic Programming Perspective"
 - 11:30a **Steven Fine, Erik Hemberg and Krzysztof Krawiec**: "Exploiting Subprograms in Genetic Programming" (presented remotely)
 - 12:15p _Discussion_
 - 12:30p _Lunch in Room_
@@ -32,7 +31,8 @@ dates: "May 18–20, 2017"
 - 9:30a **Keynote by Kenneth Stanley**: "New Directions in Open-Ended Evolution"
 - 10:30a _Break_
 - 10:45a **Emily Dolson, Wolfgang Banzhaf and Charles Ofria**: "Applying Ecological Principles to Genetic Programming"
-- 11:30a _Discussion_
+- 11:30a **Stjepan Picek, Erik Hemberg, Domagoj Jakobovic and Una-May O’Reilly**: "Detecting DoS Attacks: A Genetic Programming Perspective"
+- 12:15p _Discussion_
 - 12:30p _Lunch in Room_
 - 1:30p **Sarah Anne Troise and Thomas Helmuth**: "Lexicase Selection with Weighted Shuffle"
 - 2:15p **Lee Spector, William La Cava, Saul Shanabrook, and Thomas Helmuth**: "Random Challenges in Parent Selection"
