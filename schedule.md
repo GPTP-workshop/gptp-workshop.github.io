@@ -10,7 +10,7 @@ dates: "May 18–20, 2017"
 ### Thursday 18 May, 2017
 
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a **Bill Worzel and Bill Tozier** _Opening Remarks & Welcome_
+- 9:00a **Bill Tozier** _Opening Remarks & Welcome_
 - 9:30a **Keynote by Jeff Clune** "A talk in two parts: AI Neuroscience, and Harnessing Illumination Algorithms"
 - 10:30a _Break_
 - 11:30a **Steven Fine, Erik Hemberg and Krzysztof Krawiec**: "Exploiting Subprograms in Genetic Programming" (presented remotely)
