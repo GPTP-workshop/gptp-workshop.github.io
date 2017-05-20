@@ -50,7 +50,7 @@ dates: "May 18–20, 2017"
 - 9:30a **Sarah Anne Troise and Thomas Helmuth**: "Lexicase Selection with Weighted Shuffle"
 - 10:30a _Break_
 - 10:45a **Stu Card and Zhiruo Zhao**: "Evolution of Space-partitioning Forests for Anomaly Detection"
-- 11:30a _Big world-changing optimistic summaries-and-plans discussion(s)_
+- 11:30a _Big world-changing optimistic lightning talks (10 minutes each) and discussion(s)_
 - 12:30p _Lunch in Room_
 - 1:30p _End of Workshop_
 - 2:30p _reconvene informally at various bars and restaurants_
