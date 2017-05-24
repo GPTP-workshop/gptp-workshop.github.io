@@ -27,3 +27,7 @@ We will also _try_ to leave an hour for two or three short "lightning" presentat
 - **August 1, 2017:** Revised papers are due. 
 - **September 1, 2017:** Submission to Springer Production
 - **March 1, 2018:** Anticipated date of publication of the volume 
+
+## Formatting Instructions for Authors
+
+The GPTP 2017 formatting instructions are similar to those of the 2016 edition: We shall work with Springer LaTeX templates. The instructions can be found [here](https://github.com/banzhaf/GPTP-2017-Chapter-Formatting). 
