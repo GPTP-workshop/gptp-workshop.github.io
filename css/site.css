@@ -35,6 +35,11 @@ h3:before {
   max-width: 20em;
 }
 
+.obsolete {
+  background-color: #EDC;
+  max-width: 20em;
+}
+
 small {
   font-size: 0.75rem;
   color: #777;
