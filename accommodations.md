@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "January 29, 2018"
+updated: "February 28, 2018"
 roman: "XVI"
 dates: "May 17-20, 2018"
 ---
@@ -11,9 +11,7 @@ The following hotels are conveniently close to the workshop venue.
 
 ## Blocks of rooms at reduced rates
 
-_These have not yet been arranged_
-
-## Close to venue
+_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early [and use the appropriate codes (available only via the Slack team) to get reduced prices](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)._
 
 ### [The Executive Residence at the Ross School of Business](https://michiganross.umich.edu/programs/executive-education/executive-accommodations)
 
@@ -21,7 +19,7 @@ _These have not yet been arranged_
 Ann Arbor, MI 48109-1234
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street.
+_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year.
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
@@ -30,6 +28,34 @@ Ann Arbor, MI 48104
 {: .address}
 
 Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years.
+
+### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
+
+2455 Carpenter Road \\
+Ann Arbor, MI 48108
+{: .address}
+
+Not close to the workshop venue, but convenient to the freeway and offering a shuttle service.
+
+### [Kensington Hotel](http://www.kcourtaa.com)
+
+3500 S State St \\
+Ann Arbor, MI 48108
+{: .address}
+
+Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable.
+
+
+### [The Bell Tower Hotel](https://www.belltowerhotel.com)
+
+300 S. Thayer Street \\
+Ann Arbor, Michigan 48104
+{: .address}
+
+Close to the venue, and walkable. A small block of rooms set aside.
+
+
+## Close to venue
 
 ## Downtown (within walking distance, 20 minutes+)
 
@@ -51,7 +77,9 @@ Ann Arbor, MI  48109-1265
 
 *Very* close to the workshop venue. A University of Michigan facility, not typically listed on tourist guides.
 
-## Satellite Locations (all will require a bus or car ride)
+## Satellite Locations
+
+all of these will require a bus or car ride
 
 ### [Candlewood Suites Ann Arbor](http://www.ihg.com/candlewood/hotels/us/en/ann-arbor/dttaa/hoteldetail)
 
@@ -112,11 +140,3 @@ Ann Arbor, MI 48108
 {: .address}
 
 Brand new. Near Briarwood Mall in the south end of town.
-
-### [Kensington Hotel](http://www.kcourtaa.com)
-
-3500 S State St \\
-Ann Arbor, MI 48108
-{: .address}
-
-Recently renovated. Near Briarwood Mall in the south end of town.
