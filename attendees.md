@@ -21,12 +21,13 @@ dates: "May 17-20, 2018"
 ## Other Speakers, Attendees & Coauthors
 
 - [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
+- [Clifford Bohm](https://cliffbohm.weebly.com)
 - [Bogdan Burlacu](http://heal.heuristiclab.com/team/burlacu)
 - [Jacob Chateau](http://www.birds.eecs.umich.edu/people/current/Jacob_Chateau/)
 - [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php)
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/)
 - Alexander Elkholy [MAANA]
-- David Fagan
+- David Fagan [University College Dublin]
 - [Steven Gustafson](https://www.maana.io/blog/steven-gustafson/)
 - Daniel Hernandez [Tree-Lab]
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
@@ -42,6 +43,7 @@ dates: "May 17-20, 2018"
 - [Michael Kommenda](http://heal.heuristiclab.com/team/kommenda)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
 - [Gabriel Kronberger](http://heal.heuristiclab.com/team/kronberger)
+- [Timothy May](https://inscico.com/about.html)
 - [Blossom Metevier](https://sites.hampshire.edu/ci-lab/)
 - [Julian F. Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/)
 - [Luis Muñoz](http://www.tree-lab.org/index.php/people-2/students/49-luis-munoz-delgado)
