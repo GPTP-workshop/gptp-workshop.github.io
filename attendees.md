@@ -20,6 +20,8 @@ dates: "May 17-20, 2018"
 
 ## Other Speakers, Attendees & Coauthors
 
+\[see [schedule](schedule.html) for details]
+
 - [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
 - [Clifford Bohm](https://cliffbohm.weebly.com)
 - [Bogdan Burlacu](http://heal.heuristiclab.com/team/burlacu)
