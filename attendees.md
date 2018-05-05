@@ -29,7 +29,7 @@ dates: "May 17-20, 2018"
 - [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php)
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/)
 - Alexander Elkholy [MAANA]
-- David Fagan [University College Dublin]
+- [David Fagan](http://ncra.ucd.ie) [University College Dublin]
 - [Steven Gustafson](https://www.maana.io/blog/steven-gustafson/)
 - Daniel Hernandez [Tree-Lab]
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
@@ -49,7 +49,7 @@ dates: "May 17-20, 2018"
 - [Blossom Metevier](https://sites.hampshire.edu/ci-lab/)
 - [Julian F. Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/)
 - [Luis Muñoz](http://www.tree-lab.org/index.php/people-2/students/49-luis-munoz-delgado)
-- [Michael O'Neill](http://www.ucd.ie/cba/members/michaeloneill/)
+- [Michael O'Neill](http://ncra.ucd.ie)
 - [Una-May O'Reilly](https://people.csail.mit.edu/unamay/)
 - [Charles Ofria](http://www.ofria.com)
 - [Anil Kumar Saini](https://sites.hampshire.edu/ci-lab/)
