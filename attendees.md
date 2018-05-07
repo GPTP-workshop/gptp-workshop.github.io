@@ -22,6 +22,8 @@ dates: "May 17-20, 2018"
 ## Attending
 
 - [Clifford Bohm](https://cliffbohm.weebly.com)
+- Stuard Card
+- Michael Cavaretta
 - [Jacob Chateau](http://www.birds.eecs.umich.edu/people/current/Jacob_Chateau/)
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/)
 - [David Fagan](http://ncra.ucd.ie) [University College Dublin]
@@ -30,6 +32,7 @@ dates: "May 17-20, 2018"
 - [Trent McConaghy](http://trent.st)
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arend Hintze](http://hintzelab.msu.edu)
+- Arthur Kordon
 - [Michael Korns](http://www.korns.com)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
 - [Gabriel Kronberger](http://heal.heuristiclab.com/team/kronberger)
