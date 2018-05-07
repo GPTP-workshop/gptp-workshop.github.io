@@ -30,7 +30,6 @@ dates: "May 17-20, 2018"
 - [David Fagan](http://ncra.ucd.ie) [University College Dublin]
 - [James Foster](http://people.ibest.uidaho.edu/~foster/)
 - [Steven Gustafson](https://www.maana.io/blog/steven-gustafson/)
-- [Trent McConaghy](http://trent.st)
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arend Hintze](http://hintzelab.msu.edu)
 - Arthur Kordon
@@ -42,6 +41,7 @@ dates: "May 17-20, 2018"
 - [Daoming Lyu](http://www.auburn.edu/~dzl0053/)
 - Marisa Kenyon
 - [Timothy May](https://inscico.com/about.html)
+- [Trent McConaghy](http://trent.st)
 - [Blossom Metevier](https://sites.hampshire.edu/ci-lab/)
 - [Julian F. Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/)
 - [Luis Muñoz](http://www.tree-lab.org/index.php/people-2/students/49-luis-munoz-delgado)
