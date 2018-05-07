@@ -21,6 +21,7 @@ dates: "May 17-20, 2018"
 
 ## Attending
 
+- [Abdullah Al-Dujaili](https://ash-aldujaili.github.io)
 - [Clifford Bohm](https://cliffbohm.weebly.com)
 - Stuard Card
 - Michael Cavaretta
