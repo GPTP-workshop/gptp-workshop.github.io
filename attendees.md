@@ -61,7 +61,7 @@ dates: "May 17-20, 2018"
 - [Bill Worzel](http://www.spartaninnovations.org/bill-worzel)
 - [Fangkai Yang](https://scholar.google.com/citations?user=GwR1fdsAAAAJ&hl=en)
 
-## Coauthors and Colleagues (not necessarily present)
+## Coauthors and Colleagues (not present)
 
 - [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
 - [Bogdan Burlacu](http://heal.heuristiclab.com/team/burlacu)
