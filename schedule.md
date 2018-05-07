@@ -39,7 +39,7 @@ dates: "May 17-20, 2018"
 - 1:45p [Alex Lalejini](http://lalejini.com) and Charles Ofria  
 **"What else is in an evolved name? Exploring Evolvable Specificity with SignalGP"**
 - 2:30p _Discussion and Break_
-- 3:00p [Emily Dolson](http://cse.msu.edu/~dolsonem) and Charles Ofria  
+- 3:00p [Emily Dolson](http://cse.msu.edu/~dolsonem), Alex Lalejini and Charles Ofria  
 **"Exploring Genetic Programming Systems with MAP-Elites"**
 - 3:45p [Julian F. Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller), Dennis G. Wilson and Sylvain Cussat-Blanc  
 **"Evolving developmental programs that build neural networks for solving multiple problems"**
