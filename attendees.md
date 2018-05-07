@@ -52,7 +52,9 @@ dates: "May 17-20, 2018"
 - [Michael O'Neill](http://ncra.ucd.ie)
 - [Una-May O'Reilly](https://people.csail.mit.edu/unamay/)
 - [Charles Ofria](http://www.ofria.com)
+- Colin Robertson
 - [Anil Kumar Saini](https://sites.hampshire.edu/ci-lab/)
+- Tom Schmiedlechner
 - Jory Schossau [MSU]
 - Andrew N. Sloss [ARM]
 - Robert Smith [Dalhousie]
