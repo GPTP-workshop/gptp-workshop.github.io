@@ -62,7 +62,7 @@ dates: "May 17-20, 2018"
 **"Emergent Policy Discovery for Visual Reinforcement Learning through Tangled Program Graphs: A Tutorial"**
 - 2:30p _Discussion and Break_
 - 3:00p Kai Staats  
-**"TBD"**
+**"Shake, Rattle, and Roll: A GP Practitioner's Adventures in Astrophysics Data Analysis"**
 - 3:45p Tom Schmiedlechner  
 **"TBD"**
 - 4:30p _Discussion until End of Session_
