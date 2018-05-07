@@ -20,7 +20,7 @@ dates: "May 17-20, 2018"
 - 1:45p Fangkai Yang, [Steven Gustafson](https://www.maana.io/blog/steven-gustafson), Alexander Elkholy, Daoming Lyu and Bo Liu  
 **"Program Search for Machine Learning Pipelines: Leveraging Symbolic Planning and Reinforcement Learning"**
 - 2:30p _Discussion and Break_
-- 3:00p Andrew N. Sloss  
+- 3:00p Andrew N. Sloss, [Arm](https://www.arm.com) 
 **"Difficulties explaining Genetic Programming to an IP Semiconductor Company: A personal experience"**
 - 3:45p [Leonardo Trujillo](http://www.tree-lab.org/index.php/people-2/reserachers/46-leonardo-trujillo), Luis Muñoz, Uriel López and Daniel Hernández  
 **"Untapped Potential of Genetic Programming: Transfer Learning and Outlier Removal"**
