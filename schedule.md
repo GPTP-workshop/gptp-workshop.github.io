@@ -10,7 +10,7 @@ dates: "May 17-20, 2018"
 ### Thursday 17 May, 2018
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:30a [Dr. Katya Vladislavleva](https://datastories.com/about), CEO DataStories
+- 9:30a [Katya Vladislavleva](https://datastories.com/about), CEO DataStories
 - 10:30a _Break_
 - 11:00a Gabriel Kronberger, Lukas Kammerer, Bogdan Burlacu, [Stephan Winkler](https://heal.heuristiclab.com/team/winkler), Michael Kommenda, and Michael Affenzeller  
 **"Cluster Analysis of a Symbolic Regression Search Space"**
@@ -29,7 +29,7 @@ dates: "May 17-20, 2018"
 
 ### Friday 18 May, 2018
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a [Dr. Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
+- 9:00a [Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
 - 10:30a _Break_
 - 11:00a [Michael O'Neill](http://ncra.ucd.ie) and David Fagan  
 **"The Elephant in the Room: Towards the Application of Genetic Programming to Automatic Programming"**
@@ -50,7 +50,7 @@ dates: "May 17-20, 2018"
 ### Saturday 19 May, 2018
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:30a Dr. Marco Tomassini, University of Lausanne  
+- 9:30a Marco Tomassini, University of Lausanne  
 **"Strategic games: theory and human behavior"**
 - 10:30a _Break_
 - 11:00a Bill Tozier  

@@ -15,9 +15,9 @@ dates: "May 17-20, 2018"
 
 ## Keynote Speakers
 
-- [Dr. Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
-- [Dr. Katya Vladislavleva](https://datastories.com/about), CEO [DataStories](https://datastories.com)
-- Dr. Marco Tomassini, University of Lausanne
+- [Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
+- [Katya Vladislavleva](https://datastories.com/about), CEO [DataStories](https://datastories.com)
+- Marco Tomassini, University of Lausanne
 
 ## Attending
 
