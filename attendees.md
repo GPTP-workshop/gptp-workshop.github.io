@@ -21,7 +21,6 @@ dates: "May 17-20, 2018"
 
 ## Attending
 
-- [Abdullah Al-Dujaili](https://ash-aldujaili.github.io)
 - [Clifford Bohm](https://cliffbohm.weebly.com)
 - Stuard Card
 - Michael Cavaretta
@@ -64,6 +63,7 @@ dates: "May 17-20, 2018"
 ## Coauthors and Colleagues (not present)
 
 - [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
+- [Abdullah Al-Dujaili](https://ash-aldujaili.github.io)
 - [Bogdan Burlacu](http://heal.heuristiclab.com/team/burlacu)
 - [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php)
 - Alexander Elkholy [MAANA]

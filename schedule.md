@@ -66,7 +66,6 @@ dates: "May 17-20, 2018"
 **"Shake, Rattle, and Roll: A GP Practitioner's Adventures in Astrophysics Data Analysis"**
 - 3:45p Tom Schmiedlechner, Abdullah Al-Dujaili, Una-May O'Reilly and Erik Hemberg  
 **"Distributed Coevolutionary Learning in Generative Adversarial Networks"**
-**"TBD"**
 - 4:30p _Discussion until End of Session_
 - 6:30p _reconvene informally at various bars and restaurants_
 
