@@ -49,7 +49,9 @@ A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee w
 
 ## Meeting Location
 
-The 2018 meeting location will be on the University of Michigan Central Campus. There are two possible rooms in two different buildings possible at the moment, and we will announce the specifics once the choice has been settled.
+The 2018 meeting location will be in the [10th Floor Meeting Space of Weiser Hall](https://sites.lsa.umich.edu/weiserhall/tenth-floor/) on the University of Michigan Central Campus. Note: the meeting space cannot be accessed outside of meeting hours.
+
+A (for-fee) parking garage is available nearby (see below).
 
 ## Transportation
 
