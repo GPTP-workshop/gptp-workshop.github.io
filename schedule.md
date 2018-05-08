@@ -29,7 +29,8 @@ dates: "May 17-20, 2018"
 
 ### Friday 18 May, 2018
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a [Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
+- 9:00a [Walter Fontana](https://fontana.hms.harvard.edu), Harvard University  
+**"Actual causality in rule-based models"**
 - 10:30a _Break_
 - 11:00a [Michael O'Neill](http://ncra.ucd.ie) and David Fagan  
 **"The Elephant in the Room: Towards the Application of Genetic Programming to Automatic Programming"**
