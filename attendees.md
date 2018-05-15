@@ -59,6 +59,7 @@ dates: "May 17-20, 2018"
 - [Stephan Winkler](https://heal.heuristiclab.com/team/winkler)
 - [Bill Worzel](http://www.spartaninnovations.org/bill-worzel)
 - [Fangkai Yang](https://scholar.google.com/citations?user=GwR1fdsAAAAJ&hl=en)
+- [Luis Zaman](https://lsa.umich.edu/cscs/people/post-docs-lecturers-visiting-scholars/zamanlh.html)
 
 ## Coauthors and Colleagues (not present)
 
