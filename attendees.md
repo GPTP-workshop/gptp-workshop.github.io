@@ -24,6 +24,7 @@ dates: "May 17-20, 2018"
 - [Clifford Bohm](https://cliffbohm.weebly.com)
 - Stuard Card
 - Michael Cavaretta
+- [Nitash C G](http://hintzelab.msu.edu/index.php/people/)
 - [Jacob Chateau](http://www.birds.eecs.umich.edu/people/current/Jacob_Chateau/)
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/)
 - [David Fagan](http://ncra.ucd.ie) [University College Dublin]
@@ -31,6 +32,8 @@ dates: "May 17-20, 2018"
 - [Steven Gustafson](https://www.maana.io/blog/steven-gustafson/)
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arend Hintze](http://hintzelab.msu.edu)
+- [Steven Jorgensen](http://hintzelab.msu.edu/index.php/people/)
+- [Doug Kirkpatrick](http://hintzelab.msu.edu/index.php/people/)
 - Arthur Kordon
 - [Michael Korns](http://www.korns.com)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
@@ -60,6 +63,7 @@ dates: "May 17-20, 2018"
 - [Bill Worzel](http://www.spartaninnovations.org/bill-worzel)
 - [Fangkai Yang](https://scholar.google.com/citations?user=GwR1fdsAAAAJ&hl=en)
 - [Luis Zaman](https://lsa.umich.edu/cscs/people/post-docs-lecturers-visiting-scholars/zamanlh.html)
+
 
 ## Coauthors and Colleagues (not present)
 
