@@ -1,15 +1,15 @@
 ---
 layout: default
-updated: "January 29, 2018"
-roman: "XVI"
-dates: "May 17-20, 2018"
+updated: "February 23, 2019"
+roman: "XVII"
+dates: "May 16-19, 2019"
 ---
 
 ## Important Dates
 
-- **May 1, 2018:** First drafts of book chapters should be submitted. These need not be formatted, but should be more substantial than an abstract and suitable for preliminary review by your colleagues.
-- **May 3, 2018:** Review assignments will be provided.
-- **May 17-20, 2017:** Workshop, presentations, and discussions.
+- **May 1, 2019:** First drafts of book chapters should be submitted. These need not be formatted, but should be more substantial than an abstract and suitable for preliminary review by your colleagues.
+- **May 3, 2019:** Review assignments will be provided.
+- **May 16-19, 2019:** Workshop, presentations, and discussions.
 
 ## Presentations
 
@@ -22,4 +22,4 @@ Substantial time has been set aside for group discussions, retrospectives, detai
 
 <!-- ## Formatting Instructions for Authors
 
-The GPTP 2017 formatting instructions are similar to those of the 2016 edition: We shall work with Springer LaTeX templates. The instructions can be found [here](https://github.com/banzhaf/GPTP-2017-Chapter-Formatting). -->
+The GPTP 2019 formatting instructions are similar to those of the 2018 edition: We shall work with Springer LaTeX templates. The instructions can be found [here](https://github.com/banzhaf/GPTP-2018-Chapter-Formatting). -->
