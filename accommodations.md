@@ -32,7 +32,7 @@ East Lansing, MI 48824
 
 Spacious hotel, downtown East Lansing. 
 
-### [The Quality Inn University]
+### The Quality Inn University
 
 3121 E Grand River Ave. \\
 Lansing, MI 48912
