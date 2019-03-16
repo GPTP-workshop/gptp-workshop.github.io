@@ -17,6 +17,8 @@ dates: "May 16-19, 2019"
 
 ## Keynote Speakers
 
+- [Gavin Schmidt](https://en.wikipedia.org/wiki/Gavin_Schmidt)
+- [Indika Rajapakse](https://bme.umich.edu/people/indika-rajapakse/)
 TBD
 
 ## Attending
