@@ -32,11 +32,19 @@ East Lansing, MI 48824
 
 Spacious hotel, downtown East Lansing. 
 
-### The Quality Inn University
+### [The Quality Inn University](https://www.choicehotels.com/michigan/lansing/quality-inn-hotels/mi030?source=gyxt)
 
 3121 E Grand River Ave. \\
 Lansing, MI 48912
 {: .address}
+
+### [Comfort Inn Okesmos - East Lansing](https://www.choicehotels.com/michigan/okemos/comfort-inn-hotels/mi306?source=gyxt)
+
+2187 University Park Dr.\\
+Okemos, MI 48864 
+{: .address}
+
+
 
 
 
