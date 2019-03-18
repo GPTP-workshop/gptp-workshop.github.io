@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "February 23, 2019"
+updated: "March 17, 2019"
 roman: "XVI"
 dates: "May 16-19, 2019"
 ---
@@ -19,7 +19,7 @@ _As always, these are not reservations, just rooms set aside at a guaranteed rat
 East Lansing, MI 48824
 {: .address}
 
-_Relatively_ close . [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+_Relatively_ close . Discount details available on the lodging channel of slack.
 
 
 ## Other Hotels
@@ -38,11 +38,16 @@ Spacious hotel, downtown East Lansing.
 Lansing, MI 48912
 {: .address}
 
-### [Comfort Inn Okesmos - East Lansing](https://www.choicehotels.com/michigan/okemos/comfort-inn-hotels/mi306?source=gyxt)
+3.5 miles from campus. On bus route.
+
+
+### [Comfort Inn Okemos - East Lansing](https://www.choicehotels.com/michigan/okemos/comfort-inn-hotels/mi306?source=gyxt)
 
 2187 University Park Dr.\\
 Okemos, MI 48864 
 {: .address}
+
+8 miles from campus. On bus route.
 
 
 
