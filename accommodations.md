@@ -32,6 +32,28 @@ East Lansing, MI 48824
 
 Spacious hotel, downtown East Lansing. 
 
+
+
+### [Marriott TownPlace Suites](https://www.marriott.com/hotels/travel/lants-towneplace-suites-east-lansing/)
+
+2855 Hannah Boulevard \\
+East Lansing, MI 48823
+{: .address}
+
+Spacious hotel, close to university campus, in walking distance. 
+
+
+### [Residence Inn by Marriott](https://www.marriott.com/reservation/rateListMenu.mi)
+
+2841 Hannah Boulevard \\
+East Lansing, MI 48823
+{: .address}
+
+Spacious hotel, close to university campus, in walking distance. 
+
+
+
+
 ### [The Quality Inn University](https://www.choicehotels.com/michigan/lansing/quality-inn-hotels/mi030?source=gyxt)
 
 3121 E Grand River Ave. \\
@@ -49,6 +71,14 @@ Okemos, MI 48864
 
 8 miles from campus. On bus route.
 
+
+### [Hyatt Place, Lansing, Eastwood Towne Center](https://www.hyatt.com/en-US/hotel/michigan/hyatt-place-lansing-eastwood-towne-center/lanzl)
+
+2401 Showtime Dr.\\
+Lansing, MI 48912 
+{: .address}
+
+Lansing Mall area, easily reachable by car.
 
 
 
