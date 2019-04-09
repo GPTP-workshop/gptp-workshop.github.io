@@ -11,7 +11,7 @@ The following hotels are conveniently close to the workshop venue.
 
 ## Blocks of rooms at reduced rates
 
-_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early and use the appropriate code (available only via the Slack team) to get reduced prices. Discount expires after April 15, 2019._
+_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early and use the appropriate code (available only via the Slack team) to get reduced prices. Discount expires after April 17, 2019._
 
 ### [Kellogg Center](https://kelloggcenter.com/)
 
