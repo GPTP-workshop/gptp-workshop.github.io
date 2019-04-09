@@ -11,7 +11,7 @@ The following hotels are conveniently close to the workshop venue.
 
 ## Blocks of rooms at reduced rates
 
-_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early [and use the appropriate codes (available only via the Slack team) to get reduced prices](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)._
+_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early and use the appropriate code (available only via the Slack team) to get reduced prices. Discount expires after April 15, 2019._
 
 ### [Kellogg Center](https://kelloggcenter.com/)
 
@@ -19,7 +19,7 @@ _As always, these are not reservations, just rooms set aside at a guaranteed rat
 East Lansing, MI 48824
 {: .address}
 
-_Relatively_ close . Discount details available on the lodging channel of slack.
+_Relatively_ close. Discount details available on the lodging channel of slack.
 
 
 ## Other Hotels
