@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "February 23, 2019"
+updated: "April 9, 2019"
 roman: "XVII"
 dates: "May 16-19, 2019"
 ---
@@ -15,9 +15,9 @@ dates: "May 16-19, 2019"
 
 There will be two or three invited keynote lectures, one at the beginning of each of the three days of the workshop. Keynotes will be scheduled for one hour each, including time for questions and discussion.
 
-Presentations by workshop attendees will be scheduled for _45 minutes_ each, plus an additional 15 minutes for directed discussion. A _discussant_ will be assigned for each presentation from among the attendees, who will have read the paper, who will be given an opportunity to present their own (brief) slide deck as needed.
+Presentations by workshop attendees will be scheduled for _30 minutes_ each, plus an additional 15 minutes for directed discussion. A _discussant_ will be assigned for each presentation from among the attendees, who will have read the paper, who will be given an opportunity to present their own (brief) slide deck as needed.
 
-Substantial time has been set aside for group discussions, retrospectives, detailed followups on speakers' topics, planning for the current and future proceedings volumes, and so forth.
+Time has been set aside for group discussions, retrospectives, follow-ups on speakers' topics, planning for the current and future proceedings volumes, and so forth.
 
 
 <!-- ## Formatting Instructions for Authors
