@@ -8,7 +8,7 @@ dates: "May 16-19, 2019"
 
 ### For travel preparations
 
-We normally start at 9:00 or 9:30 am on the first day, that is May 16, 2019,
+We normally start at 9:00 am on the first day, that is May 16, 2019,
 and end after lunch on the last day, that is May 19, 2019. 
 
 ### Details: TBD
