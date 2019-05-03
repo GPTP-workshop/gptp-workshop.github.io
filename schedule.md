@@ -18,10 +18,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 9:00a _Opening Remarks_
 - 9:15a [Stephen Freeland](https://www.linkedin.com/in/stephen-freeland/), University of Maryland
 **"Alphabets, topologies and optimization - I'll show you mine if you tell me about yours"**
-- 10:15a _Break_
+- 10:15a _Break/Discussion/Coffee_
 - 10:30a [Moshe Sipper](http://www.moshesipper.com/) et al. 
 **"New Pathways in Coevolutionary Computation"**
-- 11:15a _Break_
+- 11:15a _Break/Discussion/Coffee_
 - 11:30a [Joel Lehman](http://joellehman.com/) et al. 
 **"Evolutionary Computation and AI Safety"**
 - 12:15a [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) et al. 
@@ -29,10 +29,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
 **"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
-- 2:45p _Discussion and Break_
+- 2:45p _Break/Discussion/Coffee_
 - 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
 **"It is time for new perspectives on how to fight bloat in GP"**
-- 3:45p _Discussion and Break_
+- 3:45p _Break/Discussion/Coffee_
 - 4:00p [Ting Hu](https://sites.google.com/site/tinghushomepage/)  
 **"TBA"**
 - 4:45p _Closing Discussion_
@@ -43,10 +43,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a [Gavin Schmidt](https://en.wikipedia.org/wiki/Gavin_Schmidt), NASA Goddard Institute for Space Studies 
 **"TBA"**
-- 10:15a _Break_
+- 10:15a _Break/Discussion/Coffee_
 - 10:30a [Andrew Sloss](https://www.linkedin.com/in/asloss/) et al.
 **"2019 Evolutionary Algorithms Review"**
-- 11:15a _Break_
+- 11:15a _Break/Discussion/Coffee_
 - 11:30a [Gustavo Olague](http://evovision.cicese.mx/) et al. 
 **"Hands-on Artificial Evolution through Brain Programming"**
 - 12:15a Ivo Goncalves et al. 
@@ -54,10 +54,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
 **"TBA"**
-- 2:45p _Break_
+- 2:45p _Break/Discussion/Coffee_
 - 3:00p [Yuan Yuan](https://www.researchgate.net/profile/Yuan_Yuan73) et al.
 **"An Evolutionary System for better automatic software repair"**
-- 3:45p _Discussion and Break_
+- 3:45p _Break/Discussion/Coffee_
 - 4:00p [Lee Spector](http://faculty.hampshire.edu/lspector/) et al. 
 **"TBA"**
 - 4:45p _Closing Discussion_
@@ -69,10 +69,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a Indika Rajapakse, University of Michigan  
 **"TBA"**
-- 10:15a _Break_
+- 10:15a _Break/Discussion/Coffee_
 - 10:30a [Charles Ofria] (https://www.egr.msu.edu/people/profile/ofria) 
 **"TBA"**
-- 11:15a _Break_
+- 11:15a _Break/Discussion/Coffee_
 - 11:30a [Lukas Kammerer] (https://heal.heuristiclab.com/team/kammerer) et al.
 **"Symbolic Regression by Exhaustive Search"**
 - 12:15p [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau) et al.
@@ -80,10 +80,10 @@ and end after lunch on the last day, that is May 19, 2019.
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [Stephen Kelly] (http://stephenkelly.ca/?q=node/29) et al.  
 **"Temporal Memory Sharing in Visual Reinforcement Learning"**
-- 2:45p _Discussion and Break_
+- 2:45p _Break/Discussion/Coffee_
 - 3:00p [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/) et al.
 **"How competitive is GP in business data sciene applications"**
-- 3:45p _Discussion and Break_
+- 3:45p _Break/Discussion/Coffee_
 - 4:00p Douglas Kirkpatrick et al.  
 **"The Evolution of Representations in Genetic Programming Trees"**
 - 4:45p _Closing Discussion_
@@ -94,9 +94,9 @@ and end after lunch on the last day, that is May 19, 2019.
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a [Anil Saini](https://www.linkedin.com/in/anil-k-saini/)  
 **"TBA"**
-- 9:45a _Break_
+- 9:45a _Break/Discussion/Coffee_
 - 10:00a _GP Hackathon_
-- 1:00p _Box Lunch_
+- 1:00p _Box Lunch and Wrap-up Discussion_
 - 2:00p *OFFICIAL END OF WORKSHOP*
 
 
