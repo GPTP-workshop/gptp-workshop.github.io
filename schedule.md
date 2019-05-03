@@ -25,7 +25,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:30a [Joel Lehman](http://joellehman.com/) et al. 
 **"Evolutionary Computation and AI Safety"**
 - 12:15a [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) et al. 
-**"TBD"**
+**"TBA"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
 **"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
@@ -50,7 +50,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:30a [Gustavo Olague](http://evovision.cicese.mx/) et al. 
 **"Hands-on Artificial Evolution through Brain Programming"**
 - 12:15a Ivo Goncalves et al. 
-**"TBD"**
+**"TBA"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
 **"TBA"**
