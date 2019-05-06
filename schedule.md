@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 3, 2019"
+updated: "May 6, 2019"
 roman: "XVII"
 dates: "May 16-19, 2019"
 ---
@@ -25,7 +25,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:30a [Joel Lehman](http://joellehman.com/) et al. 
 **"Evolutionary Computation and AI Safety"**
 - 12:15a [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) et al. 
-**"TBA"**
+**"On the trials and tribulations of evolving a Dota 2 hero bot"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
 **"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
@@ -34,7 +34,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"It is time for new perspectives on how to fight bloat in GP"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p [Ting Hu](https://sites.google.com/site/tinghushomepage/)  
-**"TBA"**
+**"Can Genetic Programming Perform Explainable Machine Learning for Bioinformatics?"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
 - 6:30p _reconvene informally at various bars and restaurants_
@@ -50,7 +50,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:30a [Gustavo Olague](http://evovision.cicese.mx/) et al. 
 **"Hands-on Artificial Evolution through Brain Programming"**
 - 12:15a Ivo Goncalves et al. 
-**"TBA"**
+**"Explorations of the Semantic Learning Machine Neuroevolution Algorithm: Dynamic Training Data Use, Ensemble Construction Methods, and Deep Learning Perspectives"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
 **"TBA"**
@@ -59,7 +59,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"An Evolutionary System for better automatic software repair"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p [Lee Spector](http://faculty.hampshire.edu/lspector/) et al. 
-**"TBA"**
+**"Comparison of Linear Genome Representations For Software Synthesis"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
 - 6:30p _reconvene informally at various bars and restaurants_
@@ -93,7 +93,7 @@ and end after lunch on the last day, that is May 19, 2019.
 ### Sunday 19 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a [Anil Saini](https://www.linkedin.com/in/anil-k-saini/)  
-**"TBA"**
+**"Using Modularity Metrics to guide evolution in Genetic Programming"**
 - 9:45a _Break/Discussion/Coffee_
 - 10:00a _GP Hackathon_
 - 1:00p _Box Lunch and Wrap-up Discussion_
