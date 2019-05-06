@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "April 9, 2019"
+updated: "May 6, 2019"
 roman: "XVI"
 dates: "May 16-19, 2019"
 ---
@@ -20,13 +20,12 @@ dates: "May 16-19, 2019"
 
 - [Gavin Schmidt](https://en.wikipedia.org/wiki/Gavin_Schmidt)
 - [Indika Rajapakse](https://bme.umich.edu/people/indika-rajapakse/)
-- TBD
+- [Stephen Freeland](https://www.linkedin.com/in/stephen-freeland/)
 
 ## Attending
 
 - David Burke
 - [Stuard Card](https://www.researchgate.net/profile/Stuart_Card3)
-- [Marco Cavaglia](http://www.phy.olemiss.edu/~cavaglia/)
 - [Francisco Fernandez](https://www.researchgate.net/profile/Francisco_Vega3)
 - [James Foster](http://people.ibest.uidaho.edu/~foster/)
 - Ivo Goncalves
