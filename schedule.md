@@ -82,7 +82,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"Temporal Memory Sharing in Visual Reinforcement Learning"**
 - 2:45p _Break/Discussion/Coffee_
 - 3:00p [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/) et al.
-**"How competitive is GP in business data sciene applications"**
+**"How competitive is GP in business data sciene applications?"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p Douglas Kirkpatrick et al.  
 **"The Evolution of Representations in Genetic Programming Trees"**
