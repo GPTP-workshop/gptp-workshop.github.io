@@ -70,7 +70,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 9:00a Indika Rajapakse, University of Michigan  
 **"TBA"**
 - 10:15a _Break/Discussion/Coffee_
-- 10:30a [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria) 
+- 10:30a [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria) et al.
 **"Characterizing the effects of random subsampling and dilution on Lexicase selection"**
 - 11:15a _Break/Discussion/Coffee_
 - 11:30a [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer) et al.
