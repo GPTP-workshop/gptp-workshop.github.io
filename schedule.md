@@ -71,7 +71,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"TBA"**
 - 10:15a _Break/Discussion/Coffee_
 - 10:30a [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria) 
-**"TBA"**
+**"Characterizing the effects of random subsampling and dilution on Lexicase selection"**
 - 11:15a _Break/Discussion/Coffee_
 - 11:30a [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer) et al.
 **"Symbolic Regression by Exhaustive Search"**
