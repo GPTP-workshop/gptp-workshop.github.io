@@ -70,15 +70,15 @@ and end after lunch on the last day, that is May 19, 2019.
 - 9:00a Indika Rajapakse, University of Michigan  
 **"TBA"**
 - 10:15a _Break/Discussion/Coffee_
-- 10:30a [Charles Ofria] (https://www.egr.msu.edu/people/profile/ofria) 
+- 10:30a [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria) 
 **"TBA"**
 - 11:15a _Break/Discussion/Coffee_
-- 11:30a [Lukas Kammerer] (https://heal.heuristiclab.com/team/kammerer) et al.
+- 11:30a [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer) et al.
 **"Symbolic Regression by Exhaustive Search"**
 - 12:15p [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau) et al.
 **"Genetic Programming Symbolic Regression: What is the prior on the prediction?"**
 - 1:00p _Discussion & Lunch in Room_
-- 2:00p [Stephen Kelly] (http://stephenkelly.ca/?q=node/29) et al.  
+- 2:00p [Stephen Kelly](http://stephenkelly.ca/?q=node/29) et al.  
 **"Temporal Memory Sharing in Visual Reinforcement Learning"**
 - 2:45p _Break/Discussion/Coffee_
 - 3:00p [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/) et al.
