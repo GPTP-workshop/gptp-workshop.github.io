@@ -92,7 +92,7 @@ and end after lunch on the last day, that is May 19, 2019.
 
 ### Sunday 19 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a [Anil Saini](https://www.linkedin.com/in/anil-k-saini/)  
+- 9:00a [Anil Saini](https://www.linkedin.com/in/anil-k-saini/) et al.
 **"Using Modularity Metrics to guide evolution in Genetic Programming"**
 - 9:45a _Break/Discussion/Coffee_
 - 10:00a _GP Hackathon_
