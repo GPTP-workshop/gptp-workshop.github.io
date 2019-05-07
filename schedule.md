@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 6, 2019"
+updated: "May 7, 2019"
 roman: "XVII"
 dates: "May 16-19, 2019"
 ---
@@ -27,11 +27,11 @@ and end after lunch on the last day, that is May 19, 2019.
 - 12:15a [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) et al. 
 **"On the trials and tribulations of evolving a Dota 2 hero bot"**
 - 1:00p _Discussion & Lunch in Room_
-- 2:00p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
-**"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
+- 2:00p [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau) et al.
+**"Genetic Programming Symbolic Regression: What is the prior on the prediction?"**
 - 2:45p _Break/Discussion/Coffee_
-- 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
-**"It is time for new perspectives on how to fight bloat in GP"**
+- 3:00p [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/) et al.
+**"How competitive is GP in business data sciene applications?"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p [Ting Hu](https://sites.google.com/site/tinghushomepage/)  
 **"Can Genetic Programming Perform Explainable Machine Learning for Bioinformatics?"**
@@ -53,7 +53,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"Explorations of the Semantic Learning Machine Neuroevolution Algorithm: Dynamic Training Data Use, Ensemble Construction Methods, and Deep Learning Perspectives"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
-**"TBA"**
+**"Modelling Genetic Programming as a Simple Sampling Algorithm"**
 - 2:45p _Break/Discussion/Coffee_
 - 3:00p [Yuan Yuan](https://www.researchgate.net/profile/Yuan_Yuan73) et al.
 **"An Evolutionary System for better automatic software repair"**
@@ -75,14 +75,14 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:15a _Break/Discussion/Coffee_
 - 11:30a [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer) et al.
 **"Symbolic Regression by Exhaustive Search"**
-- 12:15p [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau) et al.
-**"Genetic Programming Symbolic Regression: What is the prior on the prediction?"**
+- 12:15p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
+**"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
 - 1:00p _Discussion & Lunch in Room_
 - 2:00p [Stephen Kelly](http://stephenkelly.ca/?q=node/29) et al.  
 **"Temporal Memory Sharing in Visual Reinforcement Learning"**
 - 2:45p _Break/Discussion/Coffee_
-- 3:00p [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/) et al.
-**"How competitive is GP in business data sciene applications?"**
+- 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
+**"It is time for new perspectives on how to fight bloat in GP"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p Douglas Kirkpatrick et al.  
 **"The Evolution of Representations in Genetic Programming Trees"**
