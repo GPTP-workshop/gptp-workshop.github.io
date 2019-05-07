@@ -49,11 +49,11 @@ and end after lunch on the last day, that is May 19, 2019.
 - 11:15a _Break/Discussion/Coffee_
 - 11:30a [Gustavo Olague](http://evovision.cicese.mx/) et al. 
 **"Hands-on Artificial Evolution through Brain Programming"**
-- 12:15a Ivo Goncalves et al. 
-**"Explorations of the Semantic Learning Machine Neuroevolution Algorithm: Dynamic Training Data Use, Ensemble Construction Methods, and Deep Learning Perspectives"**
+- 12:15a [Stephen Kelly](http://stephenkelly.ca/?q=node/29) et al.  
+**"Temporal Memory Sharing in Visual Reinforcement Learning"**
 - 1:00p _Discussion & Lunch in Room_
-- 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
-**"Modelling Genetic Programming as a Simple Sampling Algorithm"**
+- 2:00p Ivo Goncalves et al. 
+**"Explorations of the Semantic Learning Machine Neuroevolution Algorithm: Dynamic Training Data Use, Ensemble Construction Methods, and Deep Learning Perspectives"**
 - 2:45p _Break/Discussion/Coffee_
 - 3:00p [Yuan Yuan](https://www.researchgate.net/profile/Yuan_Yuan73) et al.
 **"An Evolutionary System for better automatic software repair"**
@@ -78,8 +78,8 @@ and end after lunch on the last day, that is May 19, 2019.
 - 12:15p [Hormoz Sharhzad](https://www.linkedin.com/in/hormozshahrzad/) et al.
 **"Enhanced Optimization with Composite Objectives and Novelty Pulsation"**
 - 1:00p _Discussion & Lunch in Room_
-- 2:00p [Stephen Kelly](http://stephenkelly.ca/?q=node/29) et al.  
-**"Temporal Memory Sharing in Visual Reinforcement Learning"**
+- 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
+**"Modelling Genetic Programming as a Simple Sampling Algorithm"**
 - 2:45p _Break/Discussion/Coffee_
 - 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
 **"It is time for new perspectives on how to fight bloat in GP"**
