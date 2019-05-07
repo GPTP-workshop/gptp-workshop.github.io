@@ -37,7 +37,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"Can Genetic Programming Perform Explainable Machine Learning for Bioinformatics?"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
-- 6:30p _reconvene informally at various bars and restaurants_
+- 6:30p _Reconvene informally at various bars and restaurants_
 
 ### Friday 17 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
@@ -62,7 +62,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"Comparison of Linear Genome Representations For Software Synthesis"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
-- 6:30p _reconvene informally at various bars and restaurants_
+- 6:30p _Reconvene informally at various bars and restaurants_
 
 
 ### Saturday 18 May, 2019
@@ -88,7 +88,7 @@ and end after lunch on the last day, that is May 19, 2019.
 **"The Evolution of Representations in Genetic Programming Trees"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
-- 6:30p _reconvene informally at various bars and restaurants_
+- 6:30p _Reconvene informally at various bars and restaurants_
 
 ### Sunday 19 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
