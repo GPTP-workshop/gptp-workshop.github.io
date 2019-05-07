@@ -22,7 +22,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 10:30a [Moshe Sipper](http://www.moshesipper.com/) et al. 
 **"New Pathways in Coevolutionary Computation"**
 - 11:15a _Break/Discussion/Coffee_
-- 11:30a [Joel Lehman](http://joellehman.com/) et al. 
+- 11:30a [Joel Lehman](http://joellehman.com/) 
 **"Evolutionary Computation and AI Safety"**
 - 12:15a [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) et al. 
 **"On the trials and tribulations of evolving a Dota 2 hero bot"**
@@ -81,7 +81,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 2:00p [David R. White](http://www.davidrwhite.co.uk/) et al.
 **"Modelling Genetic Programming as a Simple Sampling Algorithm"**
 - 2:45p _Break/Discussion/Coffee_
-- 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
+- 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3) et al.
 **"It is time for new perspectives on how to fight bloat in GP"**
 - 3:45p _Break/Discussion/Coffee_
 - 4:00p [Douglas Kirkpatrick](https://www.linkedin.com/in/douglas-kirkpatrick-91165b73/) et al.  
