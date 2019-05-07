@@ -84,7 +84,7 @@ and end after lunch on the last day, that is May 19, 2019.
 - 3:00p [Francisco Fernandez de Vega](https://www.researchgate.net/profile/Francisco_Vega3)
 **"It is time for new perspectives on how to fight bloat in GP"**
 - 3:45p _Break/Discussion/Coffee_
-- 4:00p Douglas Kirkpatrick et al.  
+- 4:00p [Douglas Kirkpatrick](https://www.linkedin.com/in/douglas-kirkpatrick-91165b73/) et al.  
 **"The Evolution of Representations in Genetic Programming Trees"**
 - 4:45p _Closing Discussion_
 - 5:00p _Hackathon Preparation Session_
