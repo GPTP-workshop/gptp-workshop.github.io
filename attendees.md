@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 6, 2019"
+updated: "May 8, 2019"
 roman: "XVI"
 dates: "May 16-19, 2019"
 ---
@@ -24,12 +24,16 @@ dates: "May 16-19, 2019"
 
 ## Attending
 
+- Honglin Bao
+- [Cliff Bohm](https://integrativebiology.natsci.msu.edu/about/directory/bohm-clifford1/)
 - David Burke
 - [Stuard Card](https://www.researchgate.net/profile/Stuart_Card3)
+- Austin Ferguson
 - [Francisco Fernandez](https://www.researchgate.net/profile/Francisco_Vega3)
 - [James Foster](http://people.ibest.uidaho.edu/~foster/)
 - Ivo Goncalves
 - Ron Hartung
+- Nathan Haut
 - [Daniel Hernandez](https://www.researchgate.net/profile/Daniel_Hernandez46)
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arend Hintze](http://hintzelab.msu.edu)
@@ -37,15 +41,20 @@ dates: "May 16-19, 2019"
 - [Perla Juarez-Smith](https://tectijuana.academia.edu/PerlaJuarezSmith)
 - [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer)
 - [Stephen Kelly](http://stephenkelly.ca/?q=node/29)
+- [Douglas Kirkpatrick](https://www.linkedin.com/in/douglas-kirkpatrick-91165b73/)
 - [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
 - [Bill LaCava](https://www.linkedin.com/in/williamlacava/)
 - [Joel Lehman](http://joellehman.com/)
+- Iliya Miralavy
 - [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau)
 - [Charles Ofria](http://www.ofria.com)
 - [Gustavo Olague](http://evovision.cicese.mx/)
+- [Eddie Pantridge](https://www.linkedin.com/in/edwardpantridge/)
+- [Vincent Ragusa](https://www.linkedin.com/in/vincent-ragusa-bb500b73/)
 - [Anil K. Saini](https://www.linkedin.com/in/anil-k-saini/)
 - Susanne Schaller
+- Kate Skocelas
 - [Hormoz Sharzhad](https://www.linkedin.com/in/hormozshahrzad/)
 - [Moshe Sipper](http://www.moshesipper.com/)
 - [Andrew N. Sloss](https://www.linkedin.com/in/asloss/)
