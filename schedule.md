@@ -10,9 +10,9 @@ dates: "May 16-19, 2019"
 GPTP-2019 will be held in the Dean's meeting room, 3405A/B in the College
 of Engineering at Michigan State University. The College of 
 Engineering is located between South Shaw Lane and Wilson Road,
-on 428 S.Shaw Ln on MSU's East Lansing Campus.
+on 428 S.Shaw Ln. on MSU's East Lansing Campus.
 
-Room 3405A/B is on the third floor, adjacent to the
+You find room 3405A/B on the third floor, on the "4" wing, adjacent to the
 office of the Dean of Engineering.
 
 
@@ -108,4 +108,4 @@ office of the Dean of Engineering.
 We normally start at 9:00 am on the first day, that is May 16, 2019,
 and end after lunch on the last day, that is May 19, 2019. 
 
-[This schedule is subject to minor changes; check frequently and submit change requests via [Slack!](https://gptp-workshops.slack.com)]
+[This schedule is subject to minor changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)]
