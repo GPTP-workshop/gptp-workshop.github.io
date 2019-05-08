@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "February 21, 2019"
+updated: "May 8, 2019"
 roman: "XVII"
 dates: "May 16-19, 2019"
 ---
@@ -59,4 +59,4 @@ There is very little chance of street parking on weekdays on the University camp
 
 ## Information for Speakers and Authors
 
-See the [contributions page](contributions.html) (tbd) for information on preparing presentations and publications, and the [schedule page](schedule.html) (tbd) for the detailed workshop schedule.
+See the [contributions page](contributions.html) for information on preparing presentations and publications, and the [schedule page](schedule.html) for the detailed workshop schedule.
