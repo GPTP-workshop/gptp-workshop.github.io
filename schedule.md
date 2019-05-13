@@ -73,7 +73,7 @@ office of the Dean of Engineering.
 ### Saturday 18 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a Indika Rajapakse, University of Michigan  
-**"TBA"**
+**"Cellular Reprogramming"**
 - 10:15a _Break/Discussion/Coffee_
 - 10:30a [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria) et al.
 **"Characterizing the effects of random subsampling and dilution on Lexicase selection"**
