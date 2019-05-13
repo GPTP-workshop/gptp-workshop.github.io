@@ -28,6 +28,8 @@ dates: "May 16-19, 2019"
 - [Cliff Bohm](https://integrativebiology.natsci.msu.edu/about/directory/bohm-clifford1/)
 - David Burke
 - [Stuard Card](https://www.researchgate.net/profile/Stuart_Card3)
+- [Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
+- [Emily Dolson](http://cse.msu.edu/~dolsonem/)
 - Austin Ferguson
 - [Francisco Fernandez](https://www.researchgate.net/profile/Francisco_Vega3)
 - [James Foster](http://people.ibest.uidaho.edu/~foster/)
@@ -61,6 +63,7 @@ dates: "May 16-19, 2019"
 - [Lee Spector](http://faculty.hampshire.edu/lspector/)
 - [Kai Staats](https://www.kaistaats.com)
 - [Leonardo Trujillo](http://www.tree-lab.org/index.php/people-2/reserachers/46-leonardo-trujillo)
+- Richard Wardin
 - [Diana Wegner](https://www.linkedin.com/in/diana-wegner-1846889/)
 - [David R. White](http://www.davidrwhite.co.uk/)
 - [Stephan Winkler](https://heal.heuristiclab.com/team/winkler)
