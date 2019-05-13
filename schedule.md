@@ -47,7 +47,7 @@ office of the Dean of Engineering.
 ### Friday 17 May, 2019
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a [Gavin Schmidt](https://en.wikipedia.org/wiki/Gavin_Schmidt), NASA Goddard Institute for Space Studies 
-**"Computational Challenges in Climate Modeling"**
+**"Some Challenges and Progress in Programming for Climate Science"**
 - 10:15a _Break/Discussion/Coffee_
 - 10:30a [Andrew Sloss](https://www.linkedin.com/in/asloss/) et al.
 **"2019 Evolutionary Algorithms Review"**
