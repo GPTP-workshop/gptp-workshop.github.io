@@ -39,7 +39,7 @@ _Note that this year's workshop will be for the first time *not* in Ann Arbor. W
 
 ## Food
 
-A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. We might convene for a formal dinner and organizational meeting (all attendees are welcome) one of the nights of the workshop. Please let us know if you have any dietary restrictions for catered meals.
+A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to [local restaurants](restaurants.html). We might convene for a formal dinner and organizational meeting (all attendees are welcome) one of the nights of the workshop. Please let us know if you have any dietary restrictions for catered meals.
 
 ## Accommodations
 
@@ -60,3 +60,7 @@ There is very little chance of street parking on weekdays on the University camp
 ## Information for Speakers and Authors
 
 See the [contributions page](contributions.html) for information on preparing presentations and publications, and the [schedule page](schedule.html) for the detailed workshop schedule.
+
+## Restaurants
+
+See the [restaurant page](restaurants.html) for information on local restaurants for informal meetings in the evening.
