@@ -12,6 +12,7 @@ dates: "May 16-19, 2019"
 ### Local Restaurants
 
 - [Harrison Road House](https://harrisonroadhouse.com/) 720 EAST MICHIGAN AVENUE, EAST LANSING, 517-337-0200 (Pub, just across from the Kellogg Center, our drop-in destination for Wednesday evening)
+
 - [AI Fusion](https://www.ai-fusion.com/) 2827 E. Grand River, East Lansing, (517)853-3700 (Japanese, Korean, Asian fusion, quiet, .5mi E of E end of MSU) 
 - [Black Cat Bistro](http://www.blackcatbistroel.com/) 115 Albert Ave, East Lansing, (517)580-3821 (Decent food, not very quiet)
 - [Bravo! Cucina Italiana](https://bravoitalian.com/lansing.html) Eastwood Town Center, Lansing, need car, (517)485-3779 (Italian, moderate price, quiet. ~4 mi from MSU)
