@@ -35,6 +35,7 @@ dates: "May 16-19, 2019"
 ### Local Cafes
 
 - [Chapelure](https://www.facebook.com/chapelurepastry/) 4750 S. Hagadorn Rd. East Lansing, (517) 333-7172 (European bakery, good coffee, .5 mi E of E end of MSU)
+
 - [Espresso Royale](https://espressoroyalecoffee.com/grand-river) 527 E. Grand River Ave. East Lansing, (517) 332-5224
 - [Grand Traverse Pie Company](https://gtpie.com/locations/east-lansing/) 1403 E Grand River Ave, East Lansing, (517) 203-3304
 
