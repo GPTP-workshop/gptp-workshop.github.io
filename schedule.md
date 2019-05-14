@@ -7,7 +7,7 @@ dates: "May 16-19, 2019"
 
 
 ### Location
-GPTP-2019 will be held in the Dean's meeting room, 3405A/B in the College
+GPTP-2019 will be held in the Dean's Conference room, 3405A/B in the College
 of Engineering at Michigan State University. The College of 
 Engineering is located between South Shaw Lane and Wilson Road,
 on 428 S.Shaw Ln. on MSU's East Lansing Campus.
