@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 13, 2019"
+updated: "May 14, 2019"
 roman: "XVI"
 dates: "May 16-19, 2019"
 ---
@@ -68,6 +68,8 @@ dates: "May 16-19, 2019"
 - [David R. White](http://www.davidrwhite.co.uk/)
 - [Stephan Winkler](https://heal.heuristiclab.com/team/winkler)
 - [Yuan Yuan](https://www.researchgate.net/profile/Yuan_Yuan73)
+- [Acacia Ackles](https://www.researchgate.net/profile/Acacia_Ackles)
+- Kelvin Kotanchek
 
 
 
