@@ -6,7 +6,7 @@ dates: "May 16-19, 2019"
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2019 by the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/) at Michigan State University in East Lansing, MI. This year's conference will be held May 16-19, 2019.
 
-_Note that this year's workshop will be for the first time *not* in Ann Arbor. We are venturing out to the next nearest "hot spot" in EC. And as last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
+_Note that this year's workshop will be for the first time *not* in Ann Arbor. We are venturing out to the next nearest "hot spot" in EC. And like last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
 ## Important Dates
 
@@ -39,11 +39,11 @@ _Note that this year's workshop will be for the first time *not* in Ann Arbor. W
 
 ## Food
 
-A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to [local restaurants](restaurants.html). We might convene for a formal dinner and organizational meeting (all attendees are welcome) one of the nights of the workshop. Please let us know if you have any dietary restrictions for catered meals.
+A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to [local restaurants](restaurants.html). Please let us know if you have any dietary restrictions for catered meals.
 
 ## Accommodations
 
-[A list of bed-and-breakfast inns, hotels and motels](accommodations.html) will been provided. There are several other options available, including a number of local [AirBnB](https://www.airbnb.com) providers.
+[A list of bed-and-breakfast inns, hotels and motels](accommodations.html) is provided. There are several other options available, including a number of local [AirBnB](https://www.airbnb.com) providers.
 
 ## Meeting Location
 
