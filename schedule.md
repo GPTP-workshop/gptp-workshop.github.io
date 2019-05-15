@@ -13,7 +13,7 @@ Engineering is located between South Shaw Lane and Wilson Road,
 on 428 S.Shaw Ln. on MSU's East Lansing Campus.
 
 It is best to enter the building through the main entrance at the corner of
-South Shaw and Red Cedar. You should find a Spartan Coffeeshop when you enter.
+South Shaw and Red Cedar. You should see a Spartan Coffeeshop when you enter.
 You find room 3405A/B on the third floor, on the "4" wing, adjacent to the
 office of the Dean of Engineering.
 
