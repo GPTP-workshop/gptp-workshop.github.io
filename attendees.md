@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 14, 2019"
+updated: "May 15, 2019"
 roman: "XVI"
 dates: "May 16-19, 2019"
 ---
@@ -26,7 +26,6 @@ dates: "May 16-19, 2019"
 
 - Honglin Bao
 - [Cliff Bohm](https://integrativebiology.natsci.msu.edu/about/directory/bohm-clifford1/)
-- David Burke
 - [Stuard Card](https://www.researchgate.net/profile/Stuart_Card3)
 - [Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/)
 - [Emily Dolson](http://cse.msu.edu/~dolsonem/)
@@ -64,7 +63,6 @@ dates: "May 16-19, 2019"
 - [Kai Staats](https://www.kaistaats.com)
 - [Leonardo Trujillo](http://www.tree-lab.org/index.php/people-2/reserachers/46-leonardo-trujillo)
 - Richard Wardin
-- [Diana Wegner](https://www.linkedin.com/in/diana-wegner-1846889/)
 - [David R. White](http://www.davidrwhite.co.uk/)
 - [Stephan Winkler](https://heal.heuristiclab.com/team/winkler)
 - [Yuan Yuan](https://www.researchgate.net/profile/Yuan_Yuan73)
