@@ -1,16 +1,16 @@
 ---
 layout: default
-updated: "May 13, 2019"
-roman: "XVII"
-dates: "May 16-19, 2019"
+updated: "Feb 13, 2020"
+roman: "XVIII"
+dates: "May 14-17, 2020"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2019 by the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/) at Michigan State University in East Lansing, MI. This year's conference will be held May 16-19, 2019.
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020.
 
-_Note that this year's workshop will be for the first time *not* in Ann Arbor. We are venturing out to the next nearest "hot spot" in EC. And like last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
+_Note that this year's workshop will be *back* in Ann Arbor. This is in line with our decisions from previous meetings to alternate between Ann Arbor and East Lansing. Like last year, we might extend by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
 ## Important Dates
 
-- **May 16-19, 2019:** Workshop, presentations, and discussions
+- **May 14-17, 2020:** Workshop, presentations, and discussions
 
 ## Contacts
 
@@ -20,22 +20,19 @@ _Note that this year's workshop will be for the first time *not* in Ann Arbor. W
 
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
     - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
-- [Erik Goodman](https://www.egr.msu.edu/~goodman/)
-- [Leigh Sheneman](http://leighsheneman.com/)
-    - [Twitter](https://twitter.com/ag_shen)
-    - [Slack](https://gptp-workshops.slack.com/messages/@leighs/)
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+- [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
 - [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
     - [Slack](https://gptp-workshops.slack.com/messages/@bill_w/)
 
 ### BEACON Center for the Study of Evolution in Action
 
-- [Connie James](https://www3.beacon-center.org/people/)
+- [Linda Wood](https://)
 
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2019`](https://twitter.com/search?f=tweets&q=%23gptp2019) (click to search for recent items)
+- Twitter hashtag: [`#gptp2020`](https://twitter.com/search?f=tweets&q=%23gptp2020) (click to search for recent items)
 
 ## Food
 
@@ -47,15 +44,15 @@ A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and cof
 
 ## Meeting Location
 
-The 2019 meeting location will be on the main campus of Michigan State University, located off downtown East Lansing, in the Dean's Conference Room, 3405A/B, at the College of Engineering [3rd Floor of College of Engineering](https://www.egr.msu.edu/). You can find us on the map [College of Engineering](https://maps.msu.edu/) if you click for [details](https://maps.msu.edu/interactive/index.php?q=College%20of%20Engineering).
+The 2020 meeting location will be again on the main campus of the University of Michigan, Ann Arbor, MI. Details are currently being worked out. 
 
-A (for-fee) parking garage is available nearby (see below).
+A (for-fee) parking garage is available nearby.
 
 ## Transportation
 
-Flights should be scheduled to the [Detroit Metro Airport](http://www.metroairport.com) (`DTW`) or to the (closer) [Lansing Capital Airport](http://www.flylansing.com/) (`LAN`). From Detroit, the [Michigan Flyer/AirRide](http://www.michiganflyer.com) shuttle can be arranged which is an affordable and convenient mode of transportation to East Lansing. Travel time on the bus is about 2 hours. Alternatively, you might want to rent a car at DTW. From LAN, you could take a taxi or a ride service. Transportation options should be considered before actually embarking on the trip.
+Flights should be scheduled to the [Detroit Metro Airport](http://www.metroairport.com) (`DTW`). From Detroit, the [Michigan Flyer/AirRide](http://www.michiganflyer.com) shuttle can be arranged which is an affordable and convenient mode of transportation to Ann Arbor. Travel time on the bus is about 1 hour. Alternatively, you might want to rent a car at DTW. Transportation options should be considered before actually embarking on the trip.
 
-There is very little chance of street parking on weekdays on the University campus, but there is a [pay-by-use parking](https://police.msu.edu/parking-services/visitor-parking/) close to the College of Engineerring.
+There is very little chance of street parking on weekdays on the University campus, but there is are a couple of parking garages across campus. 
 
 ## Information for Speakers and Authors
 
