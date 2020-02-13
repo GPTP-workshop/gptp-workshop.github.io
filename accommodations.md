@@ -7,7 +7,8 @@ dates: "May 14-17, 2020"
 
 # Accommodations
 
-The following hotels are conveniently close to the workshop venue.
+The following hotels are conveniently close to the workshop venue. 
+ATTENTION: This list still needs to be updated for 2020.
 
 ## Blocks of rooms at reduced rates
 
