@@ -4,7 +4,7 @@ updated: "Feb 13, 2020"
 roman: "XVIII"
 dates: "May 14-17, 2020"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020.
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020.
 
 _Note that this year's workshop will be *back* in Ann Arbor. This is in line with our decisions from previous meetings to alternate between Ann Arbor and East Lansing. Like last year, we might extend by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
@@ -21,13 +21,15 @@ _Note that this year's workshop will be *back* in Ann Arbor. This is in line wit
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
     - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+    - [Slack](https://gptp-workshops.slack.com/messages/@leo-itt/)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
+    - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
 - [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
     - [Slack](https://gptp-workshops.slack.com/messages/@bill_w/)
 
 ### BEACON Center for the Study of Evolution in Action
 
-- [Linda Wood](https://)
+- [Linda Wood](https://lsa.umich.edu/cscs/people/staff/linmwood.html)
 
 ### Social Media
 
