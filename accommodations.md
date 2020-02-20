@@ -10,9 +10,7 @@ dates: "May 14-17, 2020"
 The following hotels are conveniently close to the workshop venue. 
 ATTENTION: This list still needs to be updated for 2020.
 
-## Blocks of rooms at reduced rates
 
-_As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early [and use the appropriate codes (available only via the Slack team) to get reduced prices](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)._
 
 ### [The Executive Residence at the Ross School of Business](https://michiganross.umich.edu/programs/executive-education/executive-accommodations)
 
@@ -20,7 +18,8 @@ _As always, these are not reservations, just rooms set aside at a guaranteed rat
 Ann Arbor, MI 48109-1234
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
+
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
@@ -28,7 +27,8 @@ _Super_ close to the workshop venue. Literally down the street. Highly regarded 
 Ann Arbor, MI 48104
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. 
+
 
 ### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
 
@@ -36,7 +36,8 @@ Very small venue, but extremely convenient to the workshop location, and a favor
 Ann Arbor, MI 48108
 {: .address}
 
-Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
+
 
 ### [Kensington Hotel](http://www.kcourtaa.com)
 
@@ -44,7 +45,7 @@ Not close to the workshop venue, but convenient to the freeway and offering a sh
 Ann Arbor, MI 48108
 {: .address}
 
-Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. 
 
 
 ### [The Bell Tower Hotel](https://www.belltowerhotel.com)
@@ -53,7 +54,8 @@ Recently renovated. Near Briarwood Mall in the south end of town, and therefore 
 Ann Arbor, Michigan 48104
 {: .address}
 
-Close to the venue, and walkable. A small block of rooms set aside. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Close to the venue, and walkable. A small block of rooms set aside. 
+
 
 
 
