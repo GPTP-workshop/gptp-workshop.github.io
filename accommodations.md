@@ -8,7 +8,7 @@ dates: "May 14-17, 2020"
 # Accommodations
 
 The following hotels are conveniently close to the workshop venue. 
-ATTENTION: This list still needs to be updated for 2020.
+
 
 
 
@@ -18,7 +18,7 @@ ATTENTION: This list still needs to be updated for 2020.
 Ann Arbor, MI 48109-1234
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
+
 
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
@@ -27,7 +27,6 @@ _Super_ close to the workshop venue. Literally down the street. Highly regarded 
 Ann Arbor, MI 48104
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. 
 
 
 ### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
@@ -36,7 +35,6 @@ Very small venue, but extremely convenient to the workshop location, and a favor
 Ann Arbor, MI 48108
 {: .address}
 
-Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
 
 
 ### [Kensington Hotel](http://www.kcourtaa.com)
@@ -54,8 +52,7 @@ Recently renovated. Near Briarwood Mall in the south end of town, and therefore 
 Ann Arbor, Michigan 48104
 {: .address}
 
-Close to the venue, and walkable. A small block of rooms set aside. 
-
+Close to the venue, and walkable. 
 
 
 
@@ -67,9 +64,8 @@ Close to the venue, and walkable. A small block of rooms set aside.
 Ann Arbor, MI 48104
 {: .address}
 
-(Downtown Ann Arbor; ~20 minute walk to venue)
+Relatively new hotel. 
 
-Relatively new hotel. Breakfast included.
 
 ### [Inn at the Michigan League](https://uunions.umich.edu/league/inn)
 
@@ -77,7 +73,8 @@ Relatively new hotel. Breakfast included.
 Ann Arbor, MI  48109-1265
 {: .address}
 
-*Very* close to the workshop venue. A University of Michigan facility, not typically listed on tourist guides.
+A University of Michigan facility, not typically listed on tourist guides.
+
 
 ## Other Satellite Locations
 
@@ -89,9 +86,7 @@ all of these will require a bus or car ride
 Ann Arbor, Michigan 48103
 {: .address}
 
-Full kitchen and workspace in every room. Easy walk to several restaurants. Far enough away from the conference venue that you will _definitely_ need to drive or take the bus. There is a bus line right outside the front door that drops you on campus.
 
-(Despite the additional features and slight inconvenience of extra travel, these are often _much_ cheaper accommodations than downtown venues)
 
 ### [Microtel Inn & Suites](http://microtelinn.com)
 
@@ -133,7 +128,7 @@ Note: This venue is _definitely not walkable_. You will need to drive in.
 Ann Arbor, MI 48108
 {: .address}
 
-Brand new. Near Briarwood Mall in the south end of town.
+New. Near Briarwood Mall in the south end of town.
 
 ### [Hyatt Place Ann Arbor](https://annarbor.place.hyatt.com/en/hotel/home.html)
 
@@ -141,5 +136,5 @@ Brand new. Near Briarwood Mall in the south end of town.
 Ann Arbor, MI 48108
 {: .address}
 
-Brand new. Near Briarwood Mall in the south end of town.
+New. Near Briarwood Mall in the south end of town.
 
