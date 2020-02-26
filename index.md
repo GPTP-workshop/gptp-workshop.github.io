@@ -4,7 +4,7 @@ updated: "Feb 26, 2020"
 roman: "XVIII"
 dates: "May 14-17, 2020"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020, in West Hall, rooms 411 (the wood-panelled room on the fourth floor we have traditionally used) and 340 (for initial gathering).
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020, in West Hall, rooms 411 (the wood-panelled room on the fourth floor we have traditionally used) and 340 (for initial gathering). West Hall is located at 10085 S. University Ave., Ann Arbor.
 
 _Note that this year's workshop will be *back* in Ann Arbor. This is in line with our decisions from previous meetings to alternate between Ann Arbor and East Lansing. Like last year, we might extend by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
