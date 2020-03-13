@@ -1,16 +1,20 @@
 ---
 layout: default
-updated: "Feb 26, 2020"
+updated: "Mar 13, 2020"
 roman: "XVIII"
-dates: "May 14-17, 2020"
+dates: "May 13-16, 2021"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2020 by the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 14-17, 2020, in West Hall, rooms 411 (the wood-panelled room on the fourth floor we have traditionally used) and 340 (for initial gathering). West Hall is located at 10085 S. University Ave., Ann Arbor.
+## The GPTP Workshop 2020 has been cancelled due to the Corona virus epidemic. Instead, we plan for 2021! There will be some other activities in the spirit of the GPTP workshop series, all taking place online. Head over to the GPTP Slack channel if you are interested.
+
+## PRE-ANNOUNCEMENT
+
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2021 by the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs) at University of Michigan in Ann Arbor, MI. This year's meeting will be held May 13-14, 2021, in West Hall, rooms 411 (the wood-panelled room on the fourth floor we have traditionally used) and 340 (for initial gathering). West Hall is located at 10085 S. University Ave., Ann Arbor.
 
 _Note that this year's workshop will be *back* in Ann Arbor. This is in line with our decisions from previous meetings to alternate between Ann Arbor and East Lansing. Like last year, we might extend by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
 ## Important Dates
 
-- **May 14-17, 2020:** Workshop, presentations, and discussions
+- **May 13-16, 2021:** Workshop, presentations, and discussions
 
 ## Contacts
 
@@ -27,14 +31,14 @@ _Note that this year's workshop will be *back* in Ann Arbor. This is in line wit
 - [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
     - [Slack](https://gptp-workshops.slack.com/messages/@bill_w/)
 
-### BEACON Center for the Study of Evolution in Action
+### Center for the Study of Complex Systems (CSCS) 
 
 - [Linda Wood](https://lsa.umich.edu/cscs/people/staff/linmwood.html)
 
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2020`](https://twitter.com/search?f=tweets&q=%23gptp2020) (click to search for recent items)
+- Twitter hashtag: [`#gptp2021`](https://twitter.com/search?f=tweets&q=%23gptp2021) (click to search for recent items)
 
 ## Food
 
@@ -46,7 +50,7 @@ A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and cof
 
 ## Meeting Location
 
-The 2020 meeting location will be again on the main campus of the University of Michigan, Ann Arbor, MI. Details are currently being worked out. 
+The 2021 meeting location will be again on the main campus of the University of Michigan, Ann Arbor, MI. Details are currently being worked out. 
 
 A (for-fee) parking garage is available nearby.
 
