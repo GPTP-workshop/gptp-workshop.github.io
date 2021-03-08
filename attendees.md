@@ -1,8 +1,8 @@
 ---
 layout: default
-updated: "Mar 13, 2020"
+updated: "Mar 8, 2021"
 roman: "XVII"
-dates: "May 13-16, 2021"
+dates: "May 19-21, 2021"
 ---
 \[see [schedule](schedule.html) for details for last year's event]
 
