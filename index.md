@@ -4,12 +4,17 @@ updated: "Mar 8, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
+## ANNOUNCEMENT
 ## The GPTP Workshop 2021 will be held online, Wed 19 to Fri 21, 12:00 pm - 5:00 pm EDT!
 
-## ANNOUNCEMENT
-
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2021 by ZOOM. This year's meeting will be held online May 19-21, 2021.
-
+In order to adapt the program to an online framework, we have opted for the following:
+(1) Meeting days during the week only
+(2) Short meeting days to allow participants to focus
+(3) Three keynote presentations at the beginning of each day, followed by discussion
+(4) Five to six shorter presentations of contributed papers
+(5) Break-out discussions after the contributed talks in small groups
+(6) Plenary discussion at the end of each day
 
 
 ## Important Dates
