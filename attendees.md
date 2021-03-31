@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 8, 2021"
+updated: "Mar 31, 2021"
 roman: "XVII"
 dates: "May 19-21, 2021"
 ---
@@ -23,7 +23,31 @@ dates: "May 19-21, 2021"
 
 ## Attending
 
-TBD
+- [Charles Ofria](https://)
+- [Jason H. Moore](https://)
+- [Stuart Card](https://)
+- [Moshe Sipper](https://)
+- [Julian Miller](https://)
+- [Michael Affenzeller](https://)
+- [Philipp Fleck](https://)
+- [Bill Langdon](https://)
+- [Michael Korns](https://)
+- [Lee Spector](https://)
+- [Mark Kotanchek](https://)
+- [Emily Dolson](https://)
+- [Gisele Pappa](https://)
+- [Nic McPhee](https://)
+- [Sara Silva](https://)
+- [Alcides Fonseca](https://)
+- [Malcolm Heywood](https://)
+- [Guido Smits](https://)
+- [Justyna Petke](https://)
+- [Arthur Kordon](https://)
+- [Ryan Urbanowicz](https://)
+- [Thomas Helmuth](https://)
+- [Andrew Sloss](https://)
+- [Eric Rauer](https://)
+- [NN](https://)
 
 
 
