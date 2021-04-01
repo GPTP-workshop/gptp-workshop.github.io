@@ -17,8 +17,8 @@ dates: "May 19-21, 2021"
 
 ## Keynote Speakers
 
-- [NN](https://)
-- [NN](https://)
+- [Randolph Nesse](https://en.wikipedia.org/wiki/Randolph_M._Nesse)
+- [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/)
 - [NN](https://)
 
 ## Attending
