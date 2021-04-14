@@ -5,6 +5,8 @@ roman: "XVII"
 dates: "May 19-21, 2021"
 ---
 
+## GPTP 2021 is held online - Please use Zoom to join in
+
 
 ## Important Dates
 
