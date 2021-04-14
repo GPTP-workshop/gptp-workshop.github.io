@@ -31,7 +31,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Evolution of the Semiconductor Industry, and the Start of X Law"**
 
 [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/), Honorary Fellow, The University of York:
-**"Designing Multiple ANNs with EvolutionaryDevelopment: Activity Dependence"**
+**"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
 
 [Michael Korns](https://www.researchgate.net/profile/Michael-Korns), Korns Associates:
-**"Feature DiscoverywithDeep Learning Algebra Networks"**
+**"Feature Discovery with Deep Learning Algebra Networks"**
