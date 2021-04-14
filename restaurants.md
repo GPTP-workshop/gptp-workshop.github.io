@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 8, 2021"
+updated: "Apr 14, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
@@ -11,11 +11,12 @@ dates: "May 19-21, 2021"
 
 ### Local Restaurants
 
-TBA
+Sorry folks, nothing to list here.
 
 
 
 
 ### Local Cafes
 
-TBA
+Sorry folks, nothing to list here.
+
