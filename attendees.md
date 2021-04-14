@@ -19,18 +19,18 @@ dates: "May 19-21, 2021"
 
 - [Randolph Nesse](https://en.wikipedia.org/wiki/Randolph_M._Nesse)
 - [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/)
-- [NN](https://)
+- [David Andre](https://www.linkedin.com/in/david-andre-50089/)
 
 ## Attending
 
-- [Charles Ofria](https://)
-- [Jason H. Moore](https://)
-- [Stuart Card](https://)
-- [Moshe Sipper](https://)
-- [Julian Miller](https://)
-- [Michael Affenzeller](https://)
-- [Philipp Fleck](https://)
-- [Bill Langdon](https://)
+- [Charles Ofria](https://ofria.com/)
+- [Jason H. Moore](http://epistasis.org/jason-h-moore-phd/)
+- [Stuart Card](https://www.linkedin.com/in/stuart-card-1291194/)
+- [Moshe Sipper](https://www.moshesipper.com/)
+- [Julian Miller](https://www.cartesiangp.com/julian-miller)
+- [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
+- [Philipp Fleck](https://heal.heuristiclab.com/team/fleck)
+- [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/)
 - [Michael Korns](https://)
 - [Lee Spector](https://)
 - [Mark Kotanchek](https://)
