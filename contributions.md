@@ -15,7 +15,7 @@ dates: "May 19-21, 2021"
 - **May 19-21, 2021:** Workshop, presentations, and discussions.
 
 ## Presentations
-All presentations and interactions will be online through a Zoom link that will be sent to participants by email.
+**All presentations and interactions will be online through a Zoom link that will be sent to participants by email.**
 
 There are three invited keynote lectures, one at the beginning of each of the three days of the workshop. Keynotes will be scheduled for one hour each, with some
 leeway for adding time for questions and discussion.
