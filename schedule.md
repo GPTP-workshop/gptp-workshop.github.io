@@ -19,6 +19,9 @@ The Center for Evolution and Medicine, Arizona State University:
 [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Associate Professor, Dept. of Atmospheric Science, Colorado State University:
 **"Viewing Anthropogenic Change Through an AI Lens"**
 
+[David Andre](https://www.linkedin.com/in/david-andre-50089/), Science Officer, Google-X:
+**"GP considered Dangerous"**
+
 
 ## Regular Presentations 
 [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/), Professor, Dept. of Computer Science, University College London:
