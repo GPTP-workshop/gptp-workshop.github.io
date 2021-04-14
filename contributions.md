@@ -22,6 +22,7 @@ Presentations by workshop attendees will be scheduled for 10 minutes each, with 
 
 Most time this year has been set aside for group discussions, detailed followups on speakers' topics, and panels.
 
+Due to the online character of the 2021 GPTP Workshop, days will run only from 12 noon to 5 pm EDT. If you are joining from another time zone, please take note of the time difference!
 
 ## Proceedings Volume
 
