@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 31, 2021"
+updated: "Apr 14, 2021"
 roman: "XVII"
 dates: "May 19-21, 2021"
 ---
@@ -47,8 +47,9 @@ dates: "May 19-21, 2021"
 - [Thomas Helmuth](https://)
 - [Andrew Sloss](https://)
 - [Eric Rauer](https://)
-- [NN](https://)
-
+- [Bill Tozier](https://)
+- [Leonardo Vanneschi](https://)
+- [Nathan Haut](https://)
 
 
 ## Coauthors and Colleagues (not present)
