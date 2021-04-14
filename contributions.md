@@ -32,4 +32,4 @@ Most time this year has been set aside for group discussions, detailed followups
 
 ## Formatting Instructions for Authors
 
-The GPTP 2021 formatting instructions are similar to those of earlier editions: We shall work with Springer LaTeX templates. The instructions can be found [here](https://github.com/banzhaf/GPTP-2017-Chapter-Formatting).
+The GPTP 2021 formatting instructions are similar to those of earlier editions: We shall work with Springer LaTeX templates. The instructions can be found [here](https://github.com/banzhaf/GPTP-2021-Chapter-Formatting).
