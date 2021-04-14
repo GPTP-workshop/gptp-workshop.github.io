@@ -27,6 +27,6 @@ The Center for Evolution and Medicine, Arizona State University:
 [Andrew Sloss](https://www.linkedin.com/in/asloss), Senior Principal Research Engineer, ARM Inc.:
 **"Evolution of the Semiconductor Industry, and the Start of X Law"**
 
-[Julian Miller](hhttps://www.york.ac.uk/electronic-engineering/staff/julian_miller/), Honorary Fellow, The University of York:
+[Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/), Honorary Fellow, The University of York:
 **"Designing Multiple ANNs with EvolutionaryDevelopment: Activity Dependence"**
 
