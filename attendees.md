@@ -46,10 +46,10 @@ dates: "May 19-21, 2021"
 - [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/)
 - [Thomas Helmuth](http://cs.hamilton.edu/~thelmuth/)
 - [Andrew Sloss](https://www.linkedin.com/in/asloss)
-- [Eric Rauer](https://)
-- [Bill Tozier](https://)
+- Eric Rauer
+- [Bill Tozier](http://vaguery.com/words)
 - [Leonardo Vanneschi](https://novaresearch.unl.pt/en/persons/leonardo-vanneschi)
-- [Nathan Haut](https://)
+- Nathan Haut
 - [NN](https://)
 
 ## Coauthors and Colleagues (not present)
