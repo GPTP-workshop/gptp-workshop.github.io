@@ -21,8 +21,8 @@ The Center for Evolution and Medicine, Arizona State University:
 
 
 ## Regular Presentations 
-[Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/), Professor, Dept. of Computer Science, University College London:
-**"Viewing Anthropogenic Change Through an AI Lens"**
+[W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/), Professor, Dept. of Computer Science, University College London:
+**"Fitness First"**
 
 [Andrew Sloss](https://www.linkedin.com/in/asloss), Senior Principal Research Engineer, ARM Inc.:
 **"Evolution of the Semiconductor Industry, and the Start of X Law"**
