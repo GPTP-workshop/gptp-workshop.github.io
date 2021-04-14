@@ -33,3 +33,5 @@ The Center for Evolution and Medicine, Arizona State University:
 [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/), Honorary Fellow, The University of York:
 **"Designing Multiple ANNs with EvolutionaryDevelopment: Activity Dependence"**
 
+[Michael Korns](), Korns Associates:
+**"Feature DiscoverywithDeep Learning Algebra Networks"**
