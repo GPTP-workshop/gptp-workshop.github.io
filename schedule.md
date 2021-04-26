@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Apr 19, 2021"
+updated: "Apr 26, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
@@ -36,7 +36,14 @@ The Center for Evolution and Medicine, Arizona State University:
 [Michael Korns](https://www.researchgate.net/profile/Michael-Korns), Korns Associates:
 **"Feature Discovery with Deep Learning Algebra Networks"**
 
+[Charles Ofria](https://ofria.com/) Michigan State University:
+**"An Exploration of Exploration: Measuring theability of lexicase selection to find obscurepathways to optimality"**
 
+[Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) Dalhousie University:
+**"Accelerating Tangled Program Graph Evolutionunder Visual Reinforcement Learning Taskswith Mutation and Multi-actions"**
+
+[Philipp Fleck]() FH Hagenberg:
+**"Grammar-based Vectorial GeneticProgramming for Symbolic Regression"**
 
 
 ### Wednesday 19 May, 2021
