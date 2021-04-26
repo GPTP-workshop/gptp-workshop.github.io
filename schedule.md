@@ -36,13 +36,13 @@ The Center for Evolution and Medicine, Arizona State University:
 [Michael Korns](https://www.researchgate.net/profile/Michael-Korns), Korns Associates:
 **"Feature Discovery with Deep Learning Algebra Networks"**
 
-[Charles Ofria](https://ofria.com/) Michigan State University:
+[Charles Ofria](https://ofria.com/), Professor, Michigan State University:
 **"An Exploration of Exploration: Measuring theability of lexicase selection to find obscurepathways to optimality"**
 
-[Malcolm Heywood](https://web.cs.dal.ca/~mheywood/) Dalhousie University:
+[Malcolm Heywood](https://web.cs.dal.ca/~mheywood/), Professor, Dalhousie University:
 **"Accelerating Tangled Program Graph Evolutionunder Visual Reinforcement Learning Taskswith Mutation and Multi-actions"**
 
-[Philipp Fleck]() FH Hagenberg:
+[Philipp Fleck](), PhD Student, FH Hagenberg:
 **"Grammar-based Vectorial GeneticProgramming for Symbolic Regression"**
 
 
