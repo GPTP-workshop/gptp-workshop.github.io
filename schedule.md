@@ -45,6 +45,13 @@ The Center for Evolution and Medicine, Arizona State University:
 [Philipp Fleck](), PhD Student, FH Hagenberg:
 **"Grammar-based Vectorial GeneticProgramming for Symbolic Regression"**
 
+[Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Assistant Prof, UT Austin Portugal
+**"Grammatical Evolution Mapping forSemantically-ConstrainedGenetic Programming"**
+
+[Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College
+**"Analysis of GLEAM: Genetic Learning byExtraction and Absorption of Modules"**
+
+
 
 ### Wednesday 19 May, 2021
 - 11:45a _Welcome and Opening Remarks_
