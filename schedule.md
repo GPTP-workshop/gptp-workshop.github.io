@@ -51,6 +51,9 @@ The Center for Evolution and Medicine, Arizona State University:
 [Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College
 **"Analysis of GLEAM: Genetic Learning byExtraction and Absorption of Modules"**
 
+[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU 
+**"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
+
 
 
 ### Wednesday 19 May, 2021
