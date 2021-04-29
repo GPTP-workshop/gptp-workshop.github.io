@@ -54,8 +54,9 @@ The Center for Evolution and Medicine, Arizona State University:
 [Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU 
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
 
-[Mark Kotanchek]() Evolved Analytics LLC
+[Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC
 **"Back to the Future: Revisiting OrdinalGP &Trustable Models after a Decade"**
+
 
 ### Wednesday 19 May, 2021
 - 11:45a _Welcome and Opening Remarks_
