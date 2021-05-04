@@ -61,7 +61,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Fitness Landscape Analysis of AutoML Pipelines"**
 
 [Moshe Sipper](https://www.moshesipper.com/), Professor, Ben-Gurion University:
-**"NN"**
+**"Four Weddings and a Numeral: A Song of Evolution and Learning"**
 
 [Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania:
 **"NN"**
