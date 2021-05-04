@@ -66,6 +66,10 @@ The Center for Evolution and Medicine, Arizona State University:
 [Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania:
 **"NN"**
 
+[Nic McPhee](https://academics.morris.umn.edu/nic-mcphee), Professor, University of Minnesota, Morris:
+**"NN"**
+
+
 ### Wednesday 19 May, 2021
 - 11:45a _Welcome and Opening Remarks_
 - 12:00p [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Department of Atmospheric Science, Colorado State University
