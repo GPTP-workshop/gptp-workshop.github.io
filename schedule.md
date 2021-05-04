@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Apr 26, 2021"
+updated: "May 4, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
@@ -56,6 +56,9 @@ The Center for Evolution and Medicine, Arizona State University:
 
 [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC
 **"Back to the Future: Revisiting OrdinalGP &Trustable Models after a Decade"**
+
+[Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html), Associate Prof, Federal University of Minas Gerais
+**"Fitness Landscape Analysis of AutoML Pipelines"**
 
 
 ### Wednesday 19 May, 2021
