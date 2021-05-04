@@ -45,25 +45,25 @@ The Center for Evolution and Medicine, Arizona State University:
 [Philipp Fleck](), PhD Student, FH Hagenberg:
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
 
-[Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Assistant Prof, UT Austin Portugal
+[Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Assistant Prof, UT Austin Portugal:
 **"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 
-[Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College
+[Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College:
 **"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
 
-[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU 
+[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU: 
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
 
-[Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC
+[Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC:
 **"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 
-[Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html), Associate Prof, Federal University of Minas Gerais
+[Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html), Associate Prof, Federal University of Minas Gerais:
 **"Fitness Landscape Analysis of AutoML Pipelines"**
 
-[Moshe Sipper](https://www.moshesipper.com/), Professor, Ben-Gurion University
+[Moshe Sipper](https://www.moshesipper.com/), Professor, Ben-Gurion University:
 **"NN"**
 
-[Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania
+[Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania:
 **"NN"**
 
 ### Wednesday 19 May, 2021
