@@ -37,29 +37,34 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Feature Discovery with Deep Learning Algebra Networks"**
 
 [Charles Ofria](https://ofria.com/), Professor, Michigan State University:
-**"An Exploration of Exploration: Measuring theability of lexicase selection to find obscurepathways to optimality"**
+**"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
 
 [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/), Professor, Dalhousie University:
-**"Accelerating Tangled Program Graph Evolutionunder Visual Reinforcement Learning Taskswith Mutation and Multi-actions"**
+**"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
 
 [Philipp Fleck](), PhD Student, FH Hagenberg:
-**"Grammar-based Vectorial GeneticProgramming for Symbolic Regression"**
+**"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
 
 [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Assistant Prof, UT Austin Portugal
-**"Grammatical Evolution Mapping forSemantically-ConstrainedGenetic Programming"**
+**"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 
 [Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College
-**"Analysis of GLEAM: Genetic Learning byExtraction and Absorption of Modules"**
+**"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
 
 [Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU 
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
 
 [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC
-**"Back to the Future: Revisiting OrdinalGP &Trustable Models after a Decade"**
+**"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 
 [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html), Associate Prof, Federal University of Minas Gerais
 **"Fitness Landscape Analysis of AutoML Pipelines"**
 
+[Moshe Sipper](https://www.moshesipper.com/), Professor, Ben-Gurion University
+**"NN"**
+
+[Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania
+**"NN"**
 
 ### Wednesday 19 May, 2021
 - 11:45a _Welcome and Opening Remarks_
