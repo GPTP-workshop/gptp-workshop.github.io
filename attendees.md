@@ -50,7 +50,8 @@ dates: "May 19-21, 2021"
 - [Bill Tozier](http://vaguery.com/words)
 - [Leonardo Vanneschi](https://novaresearch.unl.pt/en/persons/leonardo-vanneschi)
 - Nathan Haut
-- [NN](https://)
+- [Matthew Moreno](https://mmore500.com/)
+- [Alex Lalejini](https://lalejini.com/)
 
 ## Coauthors and Colleagues (not present)
 
