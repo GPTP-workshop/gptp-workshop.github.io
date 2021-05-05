@@ -4,7 +4,7 @@ updated: "May 4, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
-\[see [schedule](https://github.com/GPTP-workshop/gptp-workshop.github.io/blob/master/2019/schedule.md) for details for the last workshop's (2019) event]
+
 
 ## Organizers
 
