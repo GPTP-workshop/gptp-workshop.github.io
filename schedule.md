@@ -64,7 +64,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Four Weddings and a Numeral: A Song of Evolution and Learning"**
 
 [Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania:
-**"NN"**
+**"Automated machine learning using genetic programming"**
 
 [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee), Professor, University of Minnesota, Morris:
 **"NN"**
