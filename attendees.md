@@ -29,7 +29,7 @@ dates: "May 19-21, 2021"
 - [Emily Dolson](https://cse.msu.edu/~dolsonem/)
 - [Philipp Fleck](https://heal.heuristiclab.com/team/fleck)
 - [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/)
-- Nathan Haut
+- [Nathan Haut]()
 - [Thomas Helmuth](http://cs.hamilton.edu/~thelmuth/)
 - [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/)
@@ -44,7 +44,7 @@ dates: "May 19-21, 2021"
 - [Charles Ofria](https://ofria.com/)
 - [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html)
 - [Justyna Petke](http://www0.cs.ucl.ac.uk/staff/J.Petke/index.html)
-- Eric Rauer
+- [Eric Rauer]()
 - [Sara Silva](http://gplab.sourceforge.net/sara/)
 - [Moshe Sipper](https://www.moshesipper.com/)
 - [Andrew Sloss](https://www.linkedin.com/in/asloss)
