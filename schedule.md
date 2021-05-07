@@ -126,7 +126,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 - 2:00p **"Discussion: Genetic Programming in Finance"**
 - 3:00p _Break_
-- 3:15p [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller] (https://heal.heuristiclab.com/team/affenzeller):
+- 3:15p [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller):
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
 - 3:30p [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Paolo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
 **"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
