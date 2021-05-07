@@ -98,7 +98,7 @@ The Center for Evolution and Medicine, Arizona State University:
 - 1:00p _Break/Discussion/Coffee_
 - 1:15p [Emily Dolson](https://cse.msu.edu/~dolsonem/): 
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
-- 1:30p [Jose Guadalupe Hernandez](), [Alex Lalejini]() and [Charles Ofria](https://ofria.com/):
+- 1:30p [Jose Guadalupe Hernandez](), [Alex Lalejini](https://lalejini.com/) and [Charles Ofria](https://ofria.com/):
 **"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
 - 1:45p [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/):
 **"Fitness First"**
@@ -126,9 +126,9 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 - 2:00p **"Discussion: Genetic Programming in Finance"**
 - 3:00p _Break_
-- 3:15p [Philipp Fleck](), [Stephan Winkler](), Michael Kommenda and [Michael Affenzeller] ():
+- 3:15p [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller] (https://heal.heuristiclab.com/team/affenzeller):
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
-- 3:30p [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Paolo Santos, Guilherme Espada and [Sara Silva]():
+- 3:30p [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Paolo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
 **"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
