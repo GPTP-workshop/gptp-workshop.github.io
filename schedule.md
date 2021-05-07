@@ -67,7 +67,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"Automated machine learning using genetic programming"**
 
 [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee), Professor, University of Minnesota, Morris:
-**"Tentative Title: Test case generation for GP using software engineering tools"**
+**"Dynamically generating GP training cases using QuickCheck"**
 
 
 ### Wednesday 19 May, 2021
