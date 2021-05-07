@@ -77,7 +77,7 @@ The Center for Evolution and Medicine, Arizona State University:
 - 1:00p _Break/Discussion/Coffee_
 - 1:15p [Anil Saini]() and [Lee Spector](http://faculty.hampshire.edu/lspector/):
 **"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
-- 1:30p [Robert Smith]() and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
+- 1:30p Caleidgh Bayer, Ryan Amaral, [Robert Smith](), Alexandru Ianta and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
 **"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
 - 1:45p [Moshe Sipper](https://www.moshesipper.com/):
 **"Four Weddings and a Numeral: A Song of Evolution and Learning"**
@@ -118,13 +118,18 @@ The Center for Evolution and Medicine, Arizona State University:
 - 12:00p [David Andre](https://www.linkedin.com/in/david-andre-50089/), Google-X
 **"GP considered Dangerous"**
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p NN, Flash Talk
-- 1:30p NN, Flash Talk
-- 1:45p NN, Flash Talk
+- 1:15p [Andrew Sloss](https://www.linkedin.com/in/asloss):
+**"Evolution of the Semiconductor Industry, and the Start of X Law"**
+- 1:30p [Michael Korns](https://www.researchgate.net/profile/Michael-Korns):
+**"Feature Discovery with Deep Learning Algebra Networks"**
+- 1:45p [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) and [Nathan Haut]():
+**"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 - 2:00p **"Discussion: Genetic Programming in Finance"**
 - 3:00p _Break_
-- 3:15p NN, Flash Talk
-- 3:30p NN, Flash Talk
+- 3:15p [Philipp Fleck](), [Stephan Winkler](), Michael Kommenda and [Michael Affenzeller] ():
+**"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
+- 3:30p [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Paolo Santos, Guilherme Espada and [Sara Silva]():
+**"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
 - 5:00p _Reconvene informally in online chat rooms_
