@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 4, 2021"
+updated: "May 7, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
@@ -75,13 +75,18 @@ The Center for Evolution and Medicine, Arizona State University:
 - 12:00p [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Department of Atmospheric Science, Colorado State University
 **"Viewing Anthropogenic Change Through an AI Lens"**
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p NN, Flash Talk
-- 1:30p NN, Flash Talk
-- 1:45p NN, Flash Talk
+- 1:15p [Anil Saini]() and [Lee Spector](http://faculty.hampshire.edu/lspector/):
+**"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
+- 1:30p [Robert Smith] and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
+**"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
+- 1:45p [Moshe Sipper](https://www.moshesipper.com/):
+**"Four Weddings and a Numeral: A Song of Evolution and Learning"**
 - 2:00p **"Discussion: The Use of Genetic Programming in Climate Change Research"**
 - 3:00p _Break_
-- 3:15p NN, Flash Talk
-- 3:30p NN, Flash Talk
+- 3:15p [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html):
+**"Fitness Landscape Analysis of AutoML Pipelines"**
+- 3:30p [Jason Moore](http://epistasis.org/jason-h-moore-phd/):
+**"Automated machine learning using genetic programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
 - 5:00p _Reconvene informally in online chat rooms_
