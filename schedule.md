@@ -77,7 +77,7 @@ The Center for Evolution and Medicine, Arizona State University:
 - 1:00p _Break/Discussion/Coffee_
 - 1:15p [Anil Saini]() and [Lee Spector](http://faculty.hampshire.edu/lspector/):
 **"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
-- 1:30p [Robert Smith] and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
+- 1:30p [Robert Smith]() and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
 **"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
 - 1:45p [Moshe Sipper](https://www.moshesipper.com/):
 **"Four Weddings and a Numeral: A Song of Evolution and Learning"**
@@ -96,13 +96,18 @@ The Center for Evolution and Medicine, Arizona State University:
 - 12:00p [Randolph Nesse](https://www.randolphnesse.com/) The Center for Evolution and Medicine, Arizona State University
 **"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"** 
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p NN, Flash Talk
-- 1:30p NN, Flash Talk
-- 1:45p NN, Flash Talk
+- 1:15p [Emily Dolson](https://cse.msu.edu/~dolsonem/): 
+**"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
+- 1:30p [Jose Guadalupe Hernandez](), [Alex Lalejini]() and [Charles Ofria](https://ofria.com/):
+**"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
+- 1:45p [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/):
+**"Fitness First"**
 - 2:00p **"Discussion: What can GP learn from Evolutionary Medicine?"**
 - 3:00p _Break_
-- 3:15p NN, Flash Talk
-- 3:30p NN, Flash Talk
+- 3:15p [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) and [Erik Rauer]():
+**"Dynamically generating GP training cases using QuickCheck"**
+- 3:30p [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/):
+**"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
 - 5:00p _Reconvene informally in online chat rooms_
