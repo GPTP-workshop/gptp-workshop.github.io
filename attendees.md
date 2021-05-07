@@ -26,6 +26,7 @@ dates: "May 19-21, 2021"
 - [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller)
 - [Cliff Bohm]()
 - [Stuart Card](https://www.linkedin.com/in/stuart-card-1291194/)
+- [Li Ding](https://www.mit.edu/~liding/)
 - [Emily Dolson](https://cse.msu.edu/~dolsonem/)
 - [Philipp Fleck](https://heal.heuristiclab.com/team/fleck)
 - [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/)
@@ -41,8 +42,10 @@ dates: "May 19-21, 2021"
 - [Julian Miller](https://www.cartesiangp.com/julian-miller)
 - [Jason H. Moore](http://epistasis.org/jason-h-moore-phd/)
 - [Matthew Moreno](https://mmore500.com/)
+- [Jose Manual Munoz]()
 - [Charles Ofria](https://ofria.com/)
 - [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html)
+- [Hannah Peeler](https://www.linkedin.com/in/hannah-peeler-a4751bb2/)
 - [Justyna Petke](http://www0.cs.ucl.ac.uk/staff/J.Petke/index.html)
 - [Eric Rauer]()
 - [Sara Silva](http://gplab.sourceforge.net/sara/)
@@ -53,6 +56,7 @@ dates: "May 19-21, 2021"
 - [Bill Tozier](http://vaguery.com/words)
 - [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/)
 - [Leonardo Vanneschi](https://novaresearch.unl.pt/en/persons/leonardo-vanneschi)
+- [Yuan Yuan](https://yyxhdy.github.io/cv/)
 
 
 ## Coauthors and Colleagues (not present)
