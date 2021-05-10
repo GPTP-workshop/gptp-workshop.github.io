@@ -57,6 +57,7 @@ dates: "May 19-21, 2021"
 - [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/)
 - [Leonardo Vanneschi](https://novaresearch.unl.pt/en/persons/leonardo-vanneschi)
 - [Yuan Yuan](https://yyxhdy.github.io/cv/)
+- [Luis Zaman](https://lsa.umich.edu/eeb/people/faculty/luis-zaman.html)
 
 
 ## Coauthors and Colleagues (not present)
