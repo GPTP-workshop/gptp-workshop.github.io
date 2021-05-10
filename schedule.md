@@ -45,7 +45,7 @@ The Center for Evolution and Medicine, Arizona State University:
 [Philipp Fleck](), PhD Student, FH Hagenberg:
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
 
-[Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Assistant Prof, UT Austin Portugal:
+[Alcides Fonseca](http://alcidesfonseca.com), Assistant Prof, LASIGE, University of Lisbon:
 **"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 
 [Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College:
@@ -106,8 +106,8 @@ The Center for Evolution and Medicine, Arizona State University:
 - 3:00p _Break_
 - 3:15p [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) and [Erik Rauer]():
 **"Dynamically generating GP training cases using QuickCheck"**
-- 3:30p [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/):
-**"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
+- 3:30p [Alcides Fonseca](http://alcidesfonseca.com), Paulo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
+**"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
 - 5:00p _Reconvene informally in online chat rooms_
@@ -128,8 +128,8 @@ The Center for Evolution and Medicine, Arizona State University:
 - 3:00p _Break_
 - 3:15p [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller):
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
-- 3:30p [Alcides Fonseca](https://utaustinportugal.org/participants/alcides-fonseca/), Paolo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
-**"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
+- 3:30p [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/):
+**"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
 - 5:00p _Reconvene informally in online chat rooms_
