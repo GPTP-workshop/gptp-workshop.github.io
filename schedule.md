@@ -1,73 +1,11 @@
 ---
 layout: default
-updated: "May 7, 2021"
+updated: "May 17, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
 
 
-The 2021 workshop schedule is currently being assembled. We shall first list the presentations
-in the order they have been announced to us. If you scroll down, you can see the program of
-the days taking shape. 
-
-
-## Keynote Talks
-[Randolph Nesse](https://www.randolphnesse.com/) Research Professor of Life Sciences, and Founding Director (2014-2019), 
-The Center for Evolution and Medicine, Arizona State University:
-**"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"** 
-
-[Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Associate Professor, Dept. of Atmospheric Science, Colorado State University:
-**"Viewing Anthropogenic Change Through an AI Lens"**
-
-[David Andre](https://www.linkedin.com/in/david-andre-50089/), Science Officer, Google-X:
-**"GP considered Dangerous"**
-
-
-## Regular Presentations 
-[W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/), Professor, Dept. of Computer Science, University College London:
-**"Fitness First"**
-
-[Andrew Sloss](https://www.linkedin.com/in/asloss), Senior Principal Research Engineer, ARM Inc.:
-**"Evolution of the Semiconductor Industry, and the Start of X Law"**
-
-[Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/), Honorary Fellow, The University of York:
-**"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
-
-[Michael Korns](https://www.researchgate.net/profile/Michael-Korns), Korns Associates:
-**"Feature Discovery with Deep Learning Algebra Networks"**
-
-[Charles Ofria](https://ofria.com/), Professor, Michigan State University:
-**"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
-
-[Malcolm Heywood](https://web.cs.dal.ca/~mheywood/), Professor, Dalhousie University:
-**"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
-
-[Philipp Fleck](), PhD Student, FH Hagenberg:
-**"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
-
-[Alcides Fonseca](http://alcidesfonseca.com), Assistant Prof, LASIGE, University of Lisbon:
-**"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
-
-[Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College:
-**"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
-
-[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU: 
-**"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
-
-[Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC:
-**"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
-
-[Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html), Associate Prof, Federal University of Minas Gerais:
-**"Fitness Landscape Analysis of AutoML Pipelines"**
-
-[Moshe Sipper](https://www.moshesipper.com/), Professor, Ben-Gurion University:
-**"Four Weddings and a Numeral: A Song of Evolution and Learning"**
-
-[Jason Moore](http://epistasis.org/jason-h-moore-phd/), Professor, Director of Penn Institute for Biomedical Informatics, University of Pennsylvania:
-**"Automated machine learning using genetic programming"**
-
-[Nic McPhee](https://academics.morris.umn.edu/nic-mcphee), Professor, University of Minnesota, Morris:
-**"Dynamically generating GP training cases using QuickCheck"**
 
 
 ### Wednesday 19 May, 2021
