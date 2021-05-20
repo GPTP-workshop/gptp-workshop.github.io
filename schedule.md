@@ -34,17 +34,17 @@ dates: "May 19-21, 2021"
 - 12:00p [Randolph Nesse](https://www.randolphnesse.com/) The Center for Evolution and Medicine, Arizona State University
 **"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"** 
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p T1 [Emily Dolson](https://cse.msu.edu/~dolsonem/): 
+- 1:15p **Talk 1:** [Emily Dolson](https://cse.msu.edu/~dolsonem/): 
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
-- 1:30p T2 [Jose Guadalupe Hernandez](), [Alex Lalejini](https://lalejini.com/) and [Charles Ofria](https://ofria.com/):
+- 1:30p **Talk 2:** [Jose Guadalupe Hernandez](), [Alex Lalejini](https://lalejini.com/) and [Charles Ofria](https://ofria.com/):
 **"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
-- 1:45p T3 [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/):
+- 1:45p **Talk 3:** [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/):
 **"Fitness First"**
 - 2:00p **"Discussion: What can GP learn from Evolutionary Medicine?"**
 - 3:00p _Break_
-- 3:15p T4 [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) and [Erik Rauer]():
+- 3:15p **Talk 4:** [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) and [Erik Rauer]():
 **"Dynamically generating GP training cases using QuickCheck"**
-- 3:30p T5 [Alcides Fonseca](http://alcidesfonseca.com), Paulo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
+- 3:30p **Talk 5:** [Alcides Fonseca](http://alcidesfonseca.com), Paulo Santos, Guilherme Espada and [Sara Silva](http://gplab.sourceforge.net/sara/):
 **"Grammatical Evolution Mapping for Semantically-Constrained Genetic Programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
