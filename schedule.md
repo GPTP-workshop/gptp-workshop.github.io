@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 17, 2021"
+updated: "May 21, 2021"
 roman: "XVIII"
 dates: "May 19-21, 2021"
 ---
@@ -13,17 +13,17 @@ dates: "May 19-21, 2021"
 - 12:00p [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Department of Atmospheric Science, Colorado State University
 **"Viewing Anthropogenic Change Through an AI Lens"**
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p [Anil Saini]() and [Lee Spector](http://faculty.hampshire.edu/lspector/):
+- 1:15p **Talk 1:** [Anil Saini]() and [Lee Spector](http://faculty.hampshire.edu/lspector/):
 **"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
-- 1:30p Caleidgh Bayer, Ryan Amaral, [Robert Smith](), Alexandru Ianta and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
+- 1:30p **Talk 2:** Caleidgh Bayer, Ryan Amaral, [Robert Smith](), Alexandru Ianta and [Malcolm Heywood](https://web.cs.dal.ca/~mheywood/):
 **"Accelerating Tangled Program Graph Evolution under Visual Reinforcement Learning Tasks with Mutation and Multi-actions"**
-- 1:45p [Moshe Sipper](https://www.moshesipper.com/):
+- 1:45p **Talk 3:** [Moshe Sipper](https://www.moshesipper.com/):
 **"Four Weddings and a Numeral: A Song of Evolution and Learning"**
 - 2:00p **"Discussion: The Use of Genetic Programming in Climate Change Research"**
 - 3:00p _Break_
-- 3:15p [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html):
+- 3:15p **Talk 4:** [Gisele Pappa](https://homepages.dcc.ufmg.br/~glpappa/indexEn.html):
 **"Fitness Landscape Analysis of AutoML Pipelines"**
-- 3:30p [Jason Moore](http://epistasis.org/jason-h-moore-phd/):
+- 3:30p **Talk 5:** [Jason Moore](http://epistasis.org/jason-h-moore-phd/):
 **"Automated machine learning using genetic programming"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
@@ -56,17 +56,17 @@ dates: "May 19-21, 2021"
 - 12:00p [David Andre](https://www.linkedin.com/in/david-andre-50089/), Google-X
 **"GP considered Dangerous"**
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p [Andrew Sloss](https://www.linkedin.com/in/asloss):
+- 1:15p **Talk 1:** [Andrew Sloss](https://www.linkedin.com/in/asloss):
 **"Evolution of the Semiconductor Industry, and the Start of X Law"**
-- 1:30p [Michael Korns](https://www.researchgate.net/profile/Michael-Korns):
+- 1:30p **Talk 2:** [Michael Korns](https://www.researchgate.net/profile/Michael-Korns):
 **"Feature Discovery with Deep Learning Algebra Networks"**
-- 1:45p [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) and [Nathan Haut]():
+- 1:45p **Talk 3:** [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) and [Nathan Haut]():
 **"Back to the Future: Revisiting OrdinalGP & Trustable Models after a Decade"**
 - 2:00p **"Discussion: Genetic Programming in Finance"**
 - 3:00p _Break_
-- 3:15p [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller):
+- 3:15p **Talk 4:** [Philipp Fleck](https://heal.heuristiclab.com/team/fleck), [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36), Michael Kommenda and [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller):
 **"Grammar-based Vectorial Genetic Programming for Symbolic Regression"**
-- 3:30p [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/):
+- 3:30p **Talk 5:** [Julian Miller](https://www.york.ac.uk/electronic-engineering/staff/julian_miller/):
 **"Designing Multiple ANNs with Evolutionary Development: Activity Dependence"**
 - 3:45p _Small Breakout Discussions on Flash Talks_
 - 4:45p _Closing Discussion_
