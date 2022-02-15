@@ -1,31 +1,18 @@
 ---
 layout: default
-updated: "Mar 31, 2021"
-roman: "XVIII"
-dates: "May 19-21, 2021"
+updated: "Feb 15, 2022"
+roman: "XIX"
+dates: "June 2-4, 2022"
 ---
 ## ANNOUNCEMENT
-## The GPTP Workshop 2021 will be held online, Wed 19 to Fri 21, 12:00 pm - 5:00 pm EDT!
+## The GPTP Workshop 2022 will be held at the University of Michigan, in person, Thursday June 2 to Saturday June 4
 
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2021 by ZOOM. This year's meeting will be held online May 19-21, 2021.
-In order to adapt the program to an online framework, we have opted for the following:
-
-(1) Meeting days during the week only
-
-(2) Short meeting days to allow participants to focus
-
-(3) Three keynote presentations at the beginning of each day, followed by discussion
-
-(4) Five to six shorter presentations of contributed papers
-
-(5) Break-out discussions after the contributed talks in small groups
-
-(6) Plenary discussion at the end of each day
-
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2022 by the University of Michigan. 
+We are returning to our origins at UoM.
 
 ## Important Dates
 
-- **May 19-21, 2021:** Workshop, presentations, and discussions
+- **June 2-4, 2022:** Workshop, presentations, and discussions
 
 ## Contacts
 
@@ -38,15 +25,15 @@ In order to adapt the program to an online framework, we have opted for the foll
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
     - [Slack](https://gptp-workshops.slack.com/messages/@leo-itt/)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
-    - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
-- [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
-    - [Slack](https://gptp-workshops.slack.com/messages/@bill_w/)
+    - [Slack](https://gptp-workshops.slack.com/messages/@stephan/)
+- [Sara Silva](https://ciencias.ulisboa.pt/en/perfil/sgsilva)
+    - [Slack](https://gptp-workshops.slack.com/messages/@sara)
 
 
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2021`](https://twitter.com/search?f=tweets&q=%23gptp2021) (click to search for recent items)
+- Twitter hashtag: [`#gptp2022`](https://twitter.com/search?f=tweets&q=%23gptp2022) (click to search for recent items)
 
 
 
