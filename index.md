@@ -22,12 +22,12 @@ We are returning to our origins at UoM.
 
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
     - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
+- [Sara Silva](https://ciencias.ulisboa.pt/en/perfil/sgsilva)
+    - [Slack](https://gptp-workshops.slack.com/messages/@sara)
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
     - [Slack](https://gptp-workshops.slack.com/messages/@leo-itt/)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
     - [Slack](https://gptp-workshops.slack.com/messages/@stephan/)
-- [Sara Silva](https://ciencias.ulisboa.pt/en/perfil/sgsilva)
-    - [Slack](https://gptp-workshops.slack.com/messages/@sara)
 
 
 ### Social Media
