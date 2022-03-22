@@ -17,30 +17,30 @@ dates: "June 2-4, 2022"
 
 ## Keynote Speakers
 
-Frank Crary, University of Colorado, Boulder
-Craig Reynolds, California
-Susan Stepney, University of York, UK
+- Frank Crary, University of Colorado, Boulder
+- Craig Reynolds, California
+- Susan Stepney, University of York, UK
 
 ## Attending (so far)
 
-Michael Affenzeller
-Bogdan Burlacu
-Stuart Card
-James Foster
-Tom Helmuth
-Erik Hemberg
-Babak Hodjat
-Mark Kotanchek
-Bill LaCava
-Penousal Machado
-Jason Moore
-Charles Ofria
-Una-May O'Reilly
-Andrew Sloss
-Lee Spector
-Kai Staats
-Bill Tozier
-Ryan Urbanowicz
+- Michael Affenzeller
+- Bogdan Burlacu
+- Stuart Card
+- James Foster
+- Tom Helmuth
+- Erik Hemberg
+- Babak Hodjat
+- Mark Kotanchek
+- Bill LaCava
+- Penousal Machado
+- Jason Moore
+- Charles Ofria
+- Una-May O'Reilly
+- Andrew Sloss
+- Lee Spector
+- Kai Staats
+- Bill Tozier
+- Ryan Urbanowicz
 
 
 
