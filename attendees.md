@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 15, 2022"
+updated: "Mar 22, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -17,11 +17,35 @@ dates: "June 2-4, 2022"
 
 ## Keynote Speakers
 
-TBA
+Frank Crary, University of Colorado, Boulder
+Craig Reynolds, California
+Susan Stepney, University of York, UK
 
-## Attending
+## Attending (so far)
 
-TBA
+Michael Affenzeller
+Bogdan Burlacu
+Stuart Card
+James Foster
+Tom Helmuth
+Erik Hemberg
+Babak Hodjat
+Mark Kotanchek
+Bill LaCava
+Penousal Machado
+Jason Moore
+Charles Ofria
+Una-May O'Reilly
+Andrew Sloss
+Lee Spector
+Kai Staats
+Bill Tozier
+Ryan Urbanowicz
+
+
+
+
+
 
 ## Coauthors and Colleagues (not present)
 
