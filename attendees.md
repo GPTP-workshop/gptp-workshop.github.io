@@ -17,9 +17,9 @@ dates: "June 2-4, 2022"
 
 ## Keynote Speakers
 
-- Frank Crary, University of Colorado, Boulder
-- Craig Reynolds, California
-- Susan Stepney, University of York, UK
+- [Frank Crary, University of Colorado, Boulder]
+- [Craig Reynolds, California]
+- [Susan Stepney, University of York, UK]
 
 ## Attending (so far)
 
