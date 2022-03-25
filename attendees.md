@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 22, 2022"
+updated: "Mar 24, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -17,9 +17,9 @@ dates: "June 2-4, 2022"
 
 ## Keynote Speakers
 
-- [Frank Crary, University of Colorado, Boulder]
-- [Craig Reynolds, California]
-- [Susan Stepney, University of York, UK]
+- Frank Crary, University of Colorado, Boulder
+- Craig Reynolds, California
+- Susan Stepney, University of York, UK
 
 ## Attending (so far)
 
@@ -27,9 +27,10 @@ dates: "June 2-4, 2022"
 - Bogdan Burlacu
 - Stuart Card
 - James Foster
-- Tom Helmuth
 - Erik Hemberg
+- Ignacio Hidalgo
 - Babak Hodjat
+- Ting Hu
 - Mark Kotanchek
 - Bill LaCava
 - Penousal Machado
@@ -41,6 +42,7 @@ dates: "June 2-4, 2022"
 - Kai Staats
 - Bill Tozier
 - Ryan Urbanowicz
+- Alden Wright
 
 
 
