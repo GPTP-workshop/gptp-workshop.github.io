@@ -10,7 +10,7 @@ dates: "June 2-4, 2022"
 The following hotels are conveniently close to the workshop venue.
 
 
-### [The Executive Residence at the Ross School of Business](https://michiganross.umich.edu/programs/executive-education/executive-accommodations)
+### [The Executive Residence at the Ross School of Business](https://www.acc-elandconferencecenter.com/)
 
 701 Tappan Street \\
 Ann Arbor, MI 48109-1234
