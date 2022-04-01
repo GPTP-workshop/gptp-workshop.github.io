@@ -7,7 +7,7 @@ dates: "June 2-4, 2022"
 
 # Accommodations
 
-The following hotels are conveniently close to the workshop venue.
+The following hotels are conveniently close to the workshop venue. Some of them are shown in [this map](https://www.google.com/maps/d/u/0/viewer?mid=1tHcZafajq_R5saxe4Pmtu1RxeUjO-MPX&ll=42.27876251803364%2C-83.7425372108465&z=16)
 
 
 ### [The Executive Residence at the Ross School of Business](https://www.acc-elandconferencecenter.com/)
