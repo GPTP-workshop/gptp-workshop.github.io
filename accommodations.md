@@ -17,7 +17,7 @@ Ann Arbor, MI 48109-1234
 {: .address}
 
 _Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
-There area a few rooms set aside for GPTP at a rate of $199. 
+There are a few rooms set aside for GPTP at a rate of $199. 
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
