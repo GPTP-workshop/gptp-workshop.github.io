@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 24, 2022"
+updated: "Apr 5, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -27,22 +27,31 @@ dates: "June 2-4, 2022"
 - Bogdan Burlacu
 - Stuart Card
 - James Foster
+- Nathan Haut
 - Erik Hemberg
+- Daniel Hernandez
 - Ignacio Hidalgo
 - Babak Hodjat
 - Ting Hu
+- Kelvin Kotanchek
 - Mark Kotanchek
 - Bill LaCava
 - Penousal Machado
+- Duncan McLean
 - Jason Moore
 - Charles Ofria
+- Gustavo Olague
 - Una-May O'Reilly
 - Andrew Sloss
+- Sam Sobel
 - Lee Spector
 - Kai Staats
 - Bill Tozier
 - Ryan Urbanowicz
 - Alden Wright
+- Luis Zaman
+- 
+- 
 
 
 
