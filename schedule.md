@@ -14,7 +14,7 @@ TBA
 
 ### Friday 3 June, 2022
 
-TBA
+Susan Stepney, Professor of Computer Science, The University of York, "Life as a Cyber-Bio-Physical System"
 
 ### Saturday 4 June, 2022
 
