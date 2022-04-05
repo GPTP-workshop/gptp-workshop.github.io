@@ -41,9 +41,9 @@ The GPTP 2022 formatting instructions are similar to those of earlier editions: 
 
 ## Keynote Talks
 
-Susan Stepney, "Life as a Cyber-Bio-Physical System"
-Frank Crary, TBA
-Craig Reynolds, TBA
+- Susan Stepney, "Life as a Cyber-Bio-Physical System"
+- Frank Crary, TBA
+- Craig Reynolds, TBA
 
 ## Regular Presentations 
 
