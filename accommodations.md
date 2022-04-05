@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Apr 1, 2022"
+updated: "Apr 5, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -42,6 +42,7 @@ Ann Arbor, MI 48108
 {: .address}
 
 Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. 
+Offers breakfast included.
 
 
 ### [The Bell Tower Hotel](https://www.belltowerhotel.com)
@@ -50,7 +51,7 @@ Recently renovated. Near Briarwood Mall in the south end of town, and therefore 
 Ann Arbor, Michigan 48104
 {: .address}
 
-Close to the venue, and walkable. A small block of rooms set aside. 
+Close to the venue, and walkable. A small block of rooms set aside. Offers breakfast included.
 
 
 ## Other Downtown (within walking distance, 20 minutes+)
