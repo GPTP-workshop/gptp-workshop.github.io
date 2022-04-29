@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Apr 5, 2022"
+updated: "Apr 29, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -42,9 +42,20 @@ The GPTP 2022 formatting instructions are similar to those of earlier editions: 
 ## Keynote Talks
 
 - Susan Stepney, "Life as a Cyber-Bio-Physical System"
-- Frank Crary, TBA
-- Craig Reynolds, TBA
+- Frank Crary, "Exploration of the solar system by robotic spacecraft: What is happening, what the software on these spacecraft is like, and how more sophisticated software could help"
+- Craig Reynolds, "Evolving Camouflage Against a Learning Predator"
 
 ## Regular Presentations 
 
-TBA
+- Michael Affenzeller and Bogdan Burlacu, "Symbolic Regression Potentials in Material Science"
+- Wolfgang Banzhaf and Nathan Haut, "Correlation versus RMSE Loss Functions in Symbolic Regression Task"
+- Ting Hu, "Genetic programming for interpretable and explainable machine learning"
+- Mark Kotanchek, "Biological Strategies: ParetoGP vs. Wide & Ill-Conditioned Data from Nonlinear Systems"
+- Bill LaCava, "When to stop: an analysis of thresholdout for symbolic regression"
+- Penousal Machado, "GP-Based Generative Adversarial Models"
+- Jason Moore, "Genetic programming as an innovation engine for automated machine learning"
+- Gustavo Olague, "Modeling Hierarchical Architectures with Genetic Programming and Neuroscience Knowledge"
+- Una-May O'Reilly and Erik Hemberg, "GUI-Based, Efficient Genetic Programming For Unity3D"
+- Lee Spector, "Honor all the things: A lexicase selection manifesto"
+- Ryan Urbanowicz, "Incorporating GP into a ML analysis pipeline"
+- Alden Wright, "Evolving complexity is hard"
