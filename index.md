@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 15, 2022"
+updated: "Apr 29, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -9,6 +9,10 @@ dates: "June 2-4, 2022"
 
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2022 by the University of Michigan. 
 We are returning to our origins at UoM.
+
+## COVID Precautions
+
+We shall ask every participant to do a daily COVID test prior to joining the meeting in the morning. Free antigene test sets will be available at the meeting venue. In case COVID is still prevalent we shall ask everybody to wear mask during the meeting, except when unavoidable. 
 
 ## Important Dates
 
