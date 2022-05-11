@@ -6,7 +6,7 @@ dates: "June 2-4, 2022"
 ---
 
 ### Location
-GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://sites.lsa.umich.edu/weiserhall/), 4th Floor.
+GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://sites.lsa.umich.edu/weiserhall/), 6th Floor.
 
 ### Thursday 2 June, 2022
 
@@ -20,7 +20,7 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 **"Genetic programming as an innovation engine for automated machine learning"**
 - 11:30a [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/) 
 **"STREAMLINE - A Rigorous Automated Machine Learning Comparative Analysis Pipeline"**
-- 12:15p _Discussion
+- 12:15p _Discussion_
 - 12:45p _Lunch in Room_
 - 2:00p [Bill LaCava](http://williamlacava.com/)
 **"When to stop: an analysis of thresholdout for symbolic regression"**
@@ -44,7 +44,7 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 **"Genetic programming for interpretable and explainable machine learning"**
 - 11:30a [Mark Kotanchek](https://evolved-analytics.com/about-us/)
 **"Biological Strategies: ParetoGP vs. Wide & Ill-Conditioned Data from Nonlinear Systems"**
-- 12:15p _Discussion
+- 12:15p _Discussion_
 - 12:45p _Lunch in Room_
 - 2:00p [Alden Wright](https://hs.umt.edu/hs/people/faculty/faculty-details.php?id=545)
 **"Evolving complexity is hard"**
