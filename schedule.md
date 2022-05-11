@@ -70,7 +70,7 @@ GPTP-2022 will be held
 - 12:15p _Break/Discussion/Coffee_
 - 12:45p [Gustavo Olague]()
 **"Modeling Hierarchical Architectures with Genetic Programming and Neuroscience Knowledge"**
-- 1:00p _Closing Discussion_ 
+- 1:30p _Closing Discussion_ 
 - 2:00p _Lunch in Room_
 
 
