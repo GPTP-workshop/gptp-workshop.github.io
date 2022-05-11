@@ -1,21 +1,83 @@
 ---
 layout: default
-updated: "Apr 30, 2022"
+updated: "May 11, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
 
-
-
+### Location
+GPTP-2022 will be held 
 
 ### Thursday 2 June, 2022
 
-Frank Crary, Laboratory for Atmospheric and Space Physics, University of Colorado Boulder, “Exploration of the solar system by robotic spacecraft: What is happening, what the software on these spacecraft is like, and how more sophisticated software could help”
+- 8:30a _Covid Test_
+- 8:45a _Coffee, juice, pastries, fruit_
+- 9:00a _Opening Remarks_
+- 9:15a [Frank Crary](https://lasp.colorado.edu/home/mop/home/people/), University of Colorado Boulder
+**"Exploration of the solar system by robotic spacecraft: What is happening, what the software on these spacecraft is like, and how more sophisticated software could help"**
+- 10:15a _Break/Discussion/Coffee_
+- 10:45a [Jason Moore]() 
+**"Genetic programming as an innovation engine for automated machine learning"**
+- 11:30a [Ryan Urbanowicz]() 
+**"STREAMLINE - A Rigorous Automated Machine Learning Comparative Analysis Pipeline"**
+- 12:15p _Discussion
+- 12:45p _Lunch in Room_
+- 2:00p [Bill LaCava]()
+**"When to stop: an analysis of thresholdout for symbolic regression"**
+- 2:45p _Break/Discussion/Coffee_
+- 3:00p [Wolfgang Banzhaf]() et al.
+**""Correlation versus RMSE Loss Functions in Symbolic Regression Task""**
+- 3:45p _Break/Discussion/Coffee_
+- 4:00p _Closing Discussion_
+- 5:00p _After meeting social gatherings_
+
+
 
 ### Friday 3 June, 2022
 
-Susan Stepney, Professor of Computer Science, The University of York, "Life as a Cyber-Bio-Physical System"
+- 8:30a _Covid Test_
+- 8:45a _Coffee, juice, pastries, fruit_
+- 9:00a [Susan Stepney](), The University of York
+**"Life as a Cyber-Bio-Physical System"**
+- 10:15a _Break/Discussion/Coffee_
+- 10:45a [Ting Hu]()
+**"Genetic programming for interpretable and explainable machine learning"**
+- 11:30a [Mark Kotanchek]()
+**"Biological Strategies: ParetoGP vs. Wide & Ill-Conditioned Data from Nonlinear Systems"**
+- 12:15p _Discussion
+- 12:45p _Lunch in Room_
+- 2:00p [Alden Wright]()
+**"Evolving complexity is hard"**
+- 2:45p _Break/Discussion/Coffee_
+- 3:00p [Michael Affenzeller/Bogdan Burlacu]()
+**"Symbolic Regression in Materials Science: Discovering Interatomic Potentials from Data"**
+- 3:45p _Break/Discussion/Coffee_
+- 4:00p  _Discussion: Interesting books and papers_
+- 5:00p _After meeting social gatherings_
+
+
 
 ### Saturday 4 June, 2022
+- 8:30a _Covid Test_
+- 8:45a _Coffee, juice, pastries, fruit_
+- 9:00a [Craig Reynolds]
+**"Evolving Camouflage Against a Learning Predator"**
+- 10:15a _Break/Discussion/Coffee_
+- 10:45a [Erik Hemberg/Una-May O'Reilly]()
+**"GUI-Based, Efficient Genetic Programming For Unity3D"**
+- 11:30a [Penousal Machado]() 
+**"GP-Based Generative Adversarial Models"**
+- 12:15p _Break/Discussion/Coffee_
+- 12:45p [Gustavo Olague]()
+**"Modeling Hierarchical Architectures with Genetic Programming and Neuroscience Knowledge"**
+- 1:00p _Closing Discussion_ 
+- 2:00p _Lunch in Room_
 
-Craig Reynolds, “Evolving Camouflage Against a Learning Predator”
+
+### For travel preparations
+
+We normally start at 9:00 am on the first day, that is June 2, 2022,
+and end after lunch on the last day, that is June 4, 2022. 
+
+[This schedule is subject to minor changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)]
+
