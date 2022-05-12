@@ -1,12 +1,12 @@
 ---
 layout: default
-updated: "May 11, 2022"
+updated: "May 12, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
 
 ### Location
-GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://sites.lsa.umich.edu/weiserhall/), 6th Floor.
+GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://sites.lsa.umich.edu/weiserhall/), 10th Floor.
 
 ### Thursday 2 June, 2022
 
