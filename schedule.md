@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 12, 2022"
+updated: "May 25, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -63,13 +63,13 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 - 9:00a [Craig Reynolds](https://www.red3d.com/cwr/index.html)
 **"Evolving Camouflage Against a Learning Predator"**
 - 10:15a _Break/Discussion/Coffee_
-- 10:45a [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) / [Una-May O'Reilly](https://www.csail.mit.edu/person/una-may-oreilly)
-**"GUI-Based, Efficient Genetic Programming For Unity3D"**
-- 11:30a [Penousal Machado](https://cdv.dei.uc.pt/authors/penousal-machado/) 
-**"GP-Based Generative Adversarial Models"**
-- 12:15p _Break/Discussion/Coffee_
-- 12:45p [Gustavo Olague](https://www.linkedin.com/in/gustavo-olague-8090021a/?originalSubdomain=mx)
+- 10:45a [Gustavo Olague](https://www.linkedin.com/in/gustavo-olague-8090021a/?originalSubdomain=mx)
 **"Modeling Hierarchical Architectures with Genetic Programming and Neuroscience Knowledge"**
+- 11:30a [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) / [Una-May O'Reilly](https://www.csail.mit.edu/person/una-may-oreilly)
+**"GUI-Based, Efficient Genetic Programming For Unity3D"**
+- 12:15p _Break/Discussion/Coffee_
+- 12:45p [Penousal Machado](https://cdv.dei.uc.pt/authors/penousal-machado/) 
+**"GP-Based Generative Adversarial Models"**
 - 1:30p _Closing Discussion_ 
 - 2:00p _Lunch in Room_
 - 2:30p OFFICIAL END OF WORKSHOP
