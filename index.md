@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Apr 29, 2022"
+updated: "May 27, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -12,7 +12,7 @@ We are returning to our origins at UoM.
 
 ## COVID Precautions
 
-We shall ask every participant to do a daily COVID test prior to joining the meeting in the morning. Free antigene test sets will be available at the meeting venue. In case COVID is still prevalent we shall ask everybody to wear mask during the meeting, except when unavoidable. 
+We shall ask every participant to do a daily COVID test prior to joining the meeting in the morning. Free antigene test sets will be available at the meeting venue. We shall ask everybody to wear a mask during the meeting, except when unavoidable. Please consult the [CDC Guidelines for COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22) in regard to current rules and recommendations. In the event that you should test positive, please consult [CDC Quarantine Guidelines](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22). As far as [masks and risk](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22) is concerned, Ann Arbor is in Washtenaw County. For breakthrough infections, please consult CDC [here](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/why-measure-effectiveness/breakthrough-cases.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22).
 
 ## Important Dates
 
