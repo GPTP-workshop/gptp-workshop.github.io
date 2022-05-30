@@ -21,10 +21,7 @@ We shall ask every participant to do a daily COVID test prior to joining the mee
 - **June 2-4, 2022:** Workshop, presentations, and discussions
 
 ## Location
-University of Michigan, Weiser Hall, 11th floor, Street Address
-
-
-## Contacts
+University of Michigan, [Weiser Hall](https://sites.lsa.umich.edu/weiserhall/), 10th Floor, 500 Church Street, Ann Arbor, MI 48109-1042
 
 ### Organizers for GPTP
 
