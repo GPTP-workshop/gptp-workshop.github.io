@@ -37,6 +37,18 @@ Lan City Hand Pulled Noodles!
 
 Very new, high end Asian.
 
+-[Contado Tacos](https://condadotacos.com/), 401 E. Liberty St, Ann Arbor
+
+New restaurant with very cool crazy interior - part of a small chain - Mexican themed with tons of tequila, food not great, basic nachos.
+
+-[Taste Kitchen](http://tastekitchena2.com/), 521 E. Liberty St, Ann Arbor
+
+-[Pacific Rim](https://pacificrimbykana.com/), 114 W. Liberty St, Ann Arbor
+Pacific Rim is another other high end favorite
+
+-[Hopcat](https://www.hopcat.com/?utm_source=gmb&utm_medium=yext), 311 Maynard St, Ann Arbor
+
+
 -[Good Time Charley's](https://www.charleysannarbor.com/), 1140 S. University St, Ann Arbor
 
 -[Brown Jug Restaurant](http://www.brownjug-annarbor.com/), 1204 S. University St, Ann Arbor
