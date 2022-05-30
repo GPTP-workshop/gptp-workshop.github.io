@@ -4,8 +4,10 @@ updated: "May 27, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
-## ANNOUNCEMENT
-## The GPTP Workshop 2022 will be held at the University of Michigan, in person, Thursday June 2 to Saturday June 4
+
+## GPTP Workshop 2022 
+## University of Michigan, Weiser Hall 
+## Thursday June 2 to Saturday June 4
 
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2022 by the University of Michigan. 
 We are returning to our origins at UoM.
@@ -17,6 +19,10 @@ We shall ask every participant to do a daily COVID test prior to joining the mee
 ## Important Dates
 
 - **June 2-4, 2022:** Workshop, presentations, and discussions
+
+## Location
+University of Michigan, Weiser Hall, 11th floor, Street Address
+
 
 ## Contacts
 
