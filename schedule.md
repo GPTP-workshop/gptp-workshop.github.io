@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 25, 2022"
+updated: "June 2, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -71,9 +71,8 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 - 12:45p [Penousal Machado](https://cdv.dei.uc.pt/authors/penousal-machado/) 
 **"GP-Based Generative Adversarial Models"**
 - 1:30p _Closing Discussion_ 
-- 2:00p _Lunch in Room_
-- 2:30p OFFICIAL END OF WORKSHOP
-- 3:00p Potentially reconvene informally at various cafes and bars around town
+- 2:00p OFFICIAL END OF WORKSHOP
+- After 2:00p _Potentially reconvene informally at various lunch or coffee places in town_
 
 
 ### For travel preparations
