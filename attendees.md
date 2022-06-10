@@ -21,7 +21,7 @@ dates: "June 2-4, 2022"
 - Craig Reynolds, California
 - Susan Stepney, University of York, UK
 
-## Attending (so far)
+## Attending
 
 - Michael Affenzeller
 - Bogdan Burlacu
