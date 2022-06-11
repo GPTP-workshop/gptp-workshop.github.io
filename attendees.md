@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Jun 10, 2022"
+updated: "Jun 11, 2022"
 roman: "XIX"
 dates: "June 2-4, 2022"
 ---
@@ -49,12 +49,12 @@ dates: "June 2-4, 2022"
 - Alden Wright
 - Luis Zaman
 
+## Workshop Pictures
+
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+
 ![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
 
 
 
 
-
-## Coauthors and Colleagues (not present)
-
-TBD
