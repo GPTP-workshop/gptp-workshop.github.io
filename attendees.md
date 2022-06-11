@@ -51,7 +51,7 @@ dates: "June 2-4, 2022"
 
 ## Workshop Pictures
 
-![alt text]{ width: 200px; }(http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg){width: 200px;}
 
 What is the difference?
 
