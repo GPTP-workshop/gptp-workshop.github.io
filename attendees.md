@@ -51,7 +51,7 @@ dates: "June 2-4, 2022"
 
 ## Workshop Pictures
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg =250x)
 
 What is the difference?
 
