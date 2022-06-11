@@ -58,5 +58,7 @@ What is the difference?
 ![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)
 
 
-
+<p align="center">
+  <img src="[your_relative_path_here](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)" width="350" title="hover text">
+</p>
 
