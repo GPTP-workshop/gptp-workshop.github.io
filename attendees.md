@@ -53,7 +53,7 @@ dates: "June 2-4, 2022"
 
 ![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)
 
 
 
