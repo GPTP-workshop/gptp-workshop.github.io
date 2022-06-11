@@ -51,14 +51,12 @@ dates: "June 2-4, 2022"
 
 ## Workshop Pictures
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg){width: 200px;}
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
 
 What is the difference?
 
 ![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)
 
 
-
-<img src="(http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)" width="350" title="hover text">
 
 
