@@ -51,7 +51,7 @@ dates: "June 2-4, 2022"
 
 ## Workshop Pictures
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+![alt text]{ width: 200px; }(http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
 
 What is the difference?
 
@@ -59,6 +59,6 @@ What is the difference?
 
 
 
-<img src="[your_relative_path_here](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)" width="350" title="hover text">
+<img src="(http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)" width="350" title="hover text">
 
 
