@@ -51,13 +51,9 @@ dates: "June 2-4, 2022"
 
 ## Workshop Pictures
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
+
+<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg" alt="Your image title" width="750"/>
 
 What is the difference?
 
-![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)
-
-
-<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg" alt="Your image title" width="500"/>
-
-<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg" alt="Your image title" width="500"/>
+<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg" alt="Your image title" width="750"/>
