@@ -49,6 +49,7 @@ dates: "June 2-4, 2022"
 - Alden Wright
 - Luis Zaman
 
+![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg)
 
 
 
