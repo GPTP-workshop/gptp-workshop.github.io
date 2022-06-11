@@ -58,5 +58,5 @@ What is the difference?
 ![alt text](http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg)
 
 
-
+<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg" alt="Your image title" width="250"/>
 
