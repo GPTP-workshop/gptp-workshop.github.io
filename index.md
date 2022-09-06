@@ -1,8 +1,8 @@
 ---
 layout: default
 updated: "May 27, 2022"
-roman: "XIX"
-dates: "June 2-4, 2022"
+roman: "XIX Online Event"
+dates: "November 14-16, 2022"
 ---
 
 ## GPTP Workshop 2022 
