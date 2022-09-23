@@ -5,12 +5,12 @@ roman: "XIX Online Event"
 dates: "November 14-16, 2022"
 ---
 
-## GPTP Workshop 2022 
-## University of Michigan, Weiser Hall 
-## Thursday June 2 to Saturday June 4
+## GPTP Sandbox 2022
+## online via Zoom 
+## Thursday November 14 and Friday November 15
 
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2022 by the University of Michigan. 
-We are returning to our origins at UoM.
+Genetic Programming Theory & Practice is a small, invitation-only workshop.
+Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated to the work of PhD students working in GP as well as social media activities for promoting genetic programming.
 
 ## COVID Precautions
 
