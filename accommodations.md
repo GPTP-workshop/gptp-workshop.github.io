@@ -1,11 +1,11 @@
 ---
 layout: default
-updated: "Apr 5, 2022"
+updated: "Oct 15, 2022"
 roman: "XIX"
-dates: "June 2-4, 2022"
+dates: "Nov 17-18, 2022"
 ---
 
-# Accommodations
+# Accommodations - Only Relevant for the In Presence Workshop (May 2022)
 
 The following hotels are conveniently close to the workshop venue. Some of them are shown in [this map](https://www.google.com/maps/d/u/0/viewer?mid=1tHcZafajq_R5saxe4Pmtu1RxeUjO-MPX&ll=42.27876251803364%2C-83.7425372108465&z=16)
 
