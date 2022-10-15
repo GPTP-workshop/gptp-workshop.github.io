@@ -6,11 +6,11 @@ dates: "Nov 17-18, 2022"
 ---
 
 ### Location
-GPTP Sanbox 2022 will be held online.
+GPTP Sandbox 2022 will be held online.
 
 ### Thursday 17 November, 2022
 
-- XX:XX _Keynote_ by Bill Langdon
+- XX:XX _Keynote_ by Bill Langdon: XXX
 - XX:XX PhD project presentation by XXX: XXX
 - XX:XX PhD project presentation by XXX: XXX
 - XX:XX PhD project presentation by XXX: XXX
@@ -19,7 +19,7 @@ GPTP Sanbox 2022 will be held online.
 - XX:XX PhD project presentation by XXX: XXX
 
 ### Friday 18 November, 2022
-- XX:XX _Keynote_ by Melanie Mitchell
+- XX:XX _Keynote_ by Melanie Mitchell: XXX
 - XX:XX Separation into three groups: XXX, XXX, XXX
 - XX:XX Presentation of all groups
 
