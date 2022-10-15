@@ -1,11 +1,11 @@
 ---
 layout: default
-updated: "Apr 29, 2022"
+updated: "Oct 15, 2022"
 roman: "XIX"
-dates: "June 2-4, 2022"
+dates: "Nov 17-18, 2022"
 ---
 
-## GPTP 2022 is held in person, at the University of Michigan
+## Genetic Programming Theory & Practice XIX Online Event
 
 
 ## Important Dates
