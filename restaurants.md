@@ -9,7 +9,7 @@ dates: "Nov 17-18, 2022"
 
 
 
-### Local Restaurants - Only Relevant for the In Presence Event in May 2022
+### Local Restaurants
 
 -[Jolly Pumpkin](https://annarbor.jollypumpkin.com/), 311 S. Main St, Ann Arbor
 
