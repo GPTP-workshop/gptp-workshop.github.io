@@ -1,15 +1,15 @@
 ---
 layout: default
-updated: "May 30, 2022"
+updated: "Oct 15, 2022"
 roman: "XIX"
-dates: "June 2-4, 2022"
+dates: "Nov 17-18, 2022"
 ---
 
 
 
 
 
-### Local Restaurants
+### Local Restaurants - Only Relevant for the In Presence Event in May 2022
 
 -[Jolly Pumpkin](https://annarbor.jollypumpkin.com/), 311 S. Main St, Ann Arbor
 
