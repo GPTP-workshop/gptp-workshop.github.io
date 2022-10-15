@@ -1,8 +1,8 @@
 ---
 layout: default
-updated: "Jun 11, 2022"
+updated: "Oct 15, 2022"
 roman: "XIX"
-dates: "June 2-4, 2022"
+dates: "Nov 17-18, 2022"
 ---
 
 
@@ -13,47 +13,32 @@ dates: "June 2-4, 2022"
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
 
-
-
 ## Keynote Speakers
 
-- Frank Crary, University of Colorado, Boulder
-- Craig Reynolds, California
-- Susan Stepney, University of York, UK
+- Bill Langdon
+- Melanie Mitchell
 
 ## Attending
 
-- Michael Affenzeller
-- Bogdan Burlacu
-- Stuart Card
-- Nathan Haut
+- Karina Brotto Rebuli
+- Tomer Halperin
 - Erik Hemberg
-- Daniel Hernandez
-- Jose Hernandez
+- Ignacio Hidalgo
 - Ting Hu
-- Kelvin Kotanchek
-- Mark Kotanchek
-- Bhaskar Kumuwat
-- Bill LaCava
-- Alex Lalejini
-- Penousal Machado
-- Duncan McLean
-- Jason Moore
-- Matthew Moreno
-- Charles Ofria
+- Micheal Korns
+- Bill Lacava
+- James McDermott
+- Una-May O'Reilly
 - Gustavo Olague
-- Ken Reid
-- Jory Schossau
-- Kai Staats
+- Daniel Parra
+- Justyna Petke
+- Moshe Sipper
+- Andrew Sloss
+- Itai Tzruia
 - Ryan Urbanowicz
+- Leonardo Vanneschi
+- Bill Worzel
 - Alden Wright
 - Luis Zaman
-
-## Workshop Pictures
-
-
-<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-1.jpg" alt="Your image title" width="1000"/>
-
-What is the difference?
-
-<img src="http://www.cs.mun.ca/~banzhaf/pictures/GPTP-2022-2.jpg" alt="Your image title" width="1000"/>
+- Zhilei Zhou
+- N.N.
