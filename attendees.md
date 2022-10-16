@@ -16,7 +16,7 @@ dates: "Nov 17-18, 2022"
 ## Keynote Speakers
 
 - Bill Langdon
-- Melanie Mitchell
+- Holly Bik
 
 ## Attending
 
