@@ -19,7 +19,7 @@ GPTP Sandbox 2022 will be held online.
 - XX:XX PhD project presentation by XXX: XXX
 
 ### Friday 18 November, 2022
-- XX:XX _Keynote_ by Melanie Mitchell: XXX
+- XX:XX _Keynote_ by Holly Bik: XXX
 - XX:XX Separation into three groups: XXX, XXX, XXX
 - XX:XX Presentation of all groups
 
