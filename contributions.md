@@ -26,7 +26,7 @@ On the second day, there will be group discussions dedicated to promoting GP onl
 ## Keynote Talks
 
 - Bill Langdon
-- Melanie Mitchell, "AI: A guide for thinking humans and how it relates to GP"
+- Holly Bik
 
 ## PhD Student Presentations 
 
