@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Oct 15, 2022"
+updated: "Oct 17, 2022"
 roman: "XIX"
 dates: "Nov 17-18, 2022"
 ---
@@ -35,4 +35,4 @@ On the second day, there will be group discussions dedicated to promoting GP onl
 - Zhilei Zhou (supervised by Malcom Heywood)
 - Karina Brotto Rebuli (supervised by Leonardo Vanneschi)
 - Daniel Parra (supervised by Ignacio Hidalgo)
-- N.N. (supervised by Gustavo Olague)
+- Axel Martinez (supervised by Gustavo Olague)
