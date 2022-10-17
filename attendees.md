@@ -27,6 +27,7 @@ dates: "Nov 17-18, 2022"
 - Ting Hu
 - Micheal Korns
 - Bill Lacava
+- Axel Martinez
 - James McDermott
 - Una-May O'Reilly
 - Gustavo Olague
@@ -41,4 +42,3 @@ dates: "Nov 17-18, 2022"
 - Alden Wright
 - Luis Zaman
 - Zhilei Zhou
-- N.N.
