@@ -15,8 +15,8 @@ GPTP Sandbox 2022 will be held online.
 - XX:XX PhD project presentation by XXX: XXX
 - XX:XX PhD project presentation by XXX: XXX
 - XX:XX PhD project presentation by XXX: XXX
-- XX:XX PhD project presentation by XXX: XXX
-- XX:XX PhD project presentation by XXX: XXX
+- XX:XX PhD project presentation by Zhilei Zhou: Low Complexity Solution for GP Classification combining of Histogram and Boosting Approach
+- XX:XX PhD project presentation by Axel Martinez: Revisiting Automated Design of Interest Point Detectors with Genetic Programming
 
 ### Friday 18 November, 2022
 - XX:XX _Keynote_ by Holly Bik: XXX
