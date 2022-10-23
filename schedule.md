@@ -17,10 +17,10 @@ All times given for EST.
 - 13:15 PhD project presentation by Axel Martinez: Revisiting Automated Design of Interest Point Detectors with Genetic Programming
 - 13:45 PhD project presentation by Zhilei Zhou: Low Complexity Solution for GP Classification combining of Histogram and Boosting Approach
 - 14:15 PhD project presentation by Itai Tzruia and Tomer Halperin: EC-KitY: Evolutionary Computation Tool Kit in Python
-- 14:45 _break_
-- 15:00 PhD project presentation by XXX: XXX
-- 15:30 PhD project presentation by XXX: XXX
-- 16:00 _Closing Discussion_
+- 15:00 _break_
+- 15:15 PhD project presentation by XXX: XXX
+- 15:45 PhD project presentation by XXX: XXX
+- 16:15 _Closing Discussion_
 
 ### Friday 18 November, 2022
 - 12:00 Welcome and _Keynote_ by Holly Bik: XXX
