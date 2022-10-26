@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Oct 24, 2022"
+updated: "Oct 26, 2022"
 roman: "XIX"
 dates: "Nov 17-18, 2022"
 ---
@@ -20,8 +20,8 @@ chair: Stephan Winkler
 - 13:45 PhD project presentation by Zhilei Zhou: Low Complexity Solution for GP Classification combining of Histogram and Boosting Approach
 - 14:15 PhD project presentation by Itai Tzruia and Tomer Halperin: EC-KitY: Evolutionary Computation Tool Kit in Python
 - 15:00 _break_
-- 15:15 PhD project presentation by Daniel Parra: XXX
-- 15:45 PhD project presentation by Karina Brotto Rebuli: XXX
+- 15:15 PhD project presentation by Daniel Parra: Obtaining Difference Equations of Dynamical Systems using Structured Grammatical Evolution and Sparse Identification
+- 15:45 PhD project presentation by Karina Brotto Rebuli: Progressive Insular Cooperative GP for Classification and Regression Problems
 - 16:15 _Closing Discussion_
 
 ### Friday 18 November, 2022
