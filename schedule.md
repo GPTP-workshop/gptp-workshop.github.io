@@ -14,7 +14,7 @@ All times given for EST.
 
 chair: Stephan Winkler
 
-- 12:00 Welcome and _Keynote_ by Bill Langdon: XXX
+- 12:00 Welcome and _Keynote_ by Bill Langdon: Optimal Oracles
 - 13:00 _break_
 - 13:15 PhD project presentation by Axel Martinez: Revisiting Automated Design of Interest Point Detectors with Genetic Programming
 - 13:45 PhD project presentation by Zhilei Zhou: Low Complexity Solution for GP Classification combining of Histogram and Boosting Approach
@@ -28,7 +28,7 @@ chair: Stephan Winkler
 
 chair: Leonardo Trujillo
 
-- 12:00 Welcome and _Keynote_ by Holly Bik: XXX
+- 12:00 Welcome and _Keynote_ by Holly Bik: TBD
 - 13:00 Discussion about GP online and GP on social media
 - 14:00 Separation into four groups - you are in group defined by the day of your birthday modulo 4
 - 14:15 Discussion in four rooms: "What do we want to communicate?"
