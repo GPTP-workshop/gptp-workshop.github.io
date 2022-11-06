@@ -1,7 +1,7 @@
 ---
 layout: default
 updated: "Sept 09, 2022"
-roman: "XIX Online Event"
+roman: "Online Event"
 dates: "November 17-18, 2022"
 ---
 
