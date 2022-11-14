@@ -28,7 +28,7 @@ chair: Stephan Winkler
 
 chair: Leonardo Trujillo
 
-- 12:00 Welcome and _Keynote_ by Holly Bik: TBD
+- 12:00 Welcome and _Keynote_ by Holly Bik: The internet is not a waste of time: how curating your online presence can help your science career
 - 13:00 Discussion about GP online and GP on social media
 - 14:00 Separation into four groups - you are in group defined by the day of your birthday modulo 4
 - 14:15 Discussion in four rooms: "What do we want to communicate?"
