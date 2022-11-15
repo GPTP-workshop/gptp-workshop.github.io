@@ -6,7 +6,7 @@ dates: "Nov 17-18, 2022"
 ---
 
 ### Location
-GPTP Sandbox 2022 will be held online via zoom: https://msu.zoom.us/j/98546008038 (Meeting ID: 985 4600 8038, Passcode: 455849).
+GPTP Sandbox 2022 will be held online via [zoom](https://msu.zoom.us/j/98546008038) (Meeting ID: 985 4600 8038, Passcode: 455849).
 
 All times given for EST.
 
