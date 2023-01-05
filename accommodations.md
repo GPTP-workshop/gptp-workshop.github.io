@@ -1,11 +1,10 @@
 ---
 layout: default
-updated: "Oct 15, 2022"
-roman: "XIX"
-dates: "Nov 17-18, 2022"
+updated: "Jan 05, 2023"
+roman: "XX"
+dates: "Jun 01-03, 2023"
 ---
 
-# Accommodations - Only Relevant for the In Presence Workshop (May 2022)
-
+# Accommodations - tba
 
 
