@@ -1,36 +1,36 @@
 ---
 layout: default
-updated: "Sept 09, 2022"
-roman: "Online Event"
-dates: "November 17-18, 2022"
+updated: "Jan 05, 2023"
+roman: "GPTP 2023"
+dates: "June 01-03, 2023"
 ---
 
-## GPTP Sandbox 2022
-## Thursday November 17 and Friday November 18
+<!-- ## GPTP Sandbox 2022 -->
+## Genetic Programming in Theory and Practice 2023
+## Thursday June 01 - Saturday June 03
 
 Genetic Programming Theory & Practice is a small, invitation-only workshop.
-Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated to the work of PhD students working in GP as well as social media activities for promoting genetic programming.
+In June 2023, GPTP will return to Michigan State University, East Lansing, MI.
+<!-- Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated to the work of PhD students working in GP as well as social media activities for promoting genetic programming. -->
 
+<!--
 ## Important Dates
 
 - **November 17, 2022:** PhD seminar (keynote and presentations by PhD students followed by discussions and feedback)
 - **November 18, 2022:** Workshop on social media content for GP (keynote and workshop sessions)
+-->
 
 ## Location
-online, via Zoom
+Michigan State University, room tba
 
 ### Organizers for GPTP
 
 (alphabetical order)
 
-- [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
-    - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
-- [Sara Silva](https://ciencias.ulisboa.pt/en/perfil/sgsilva)
-    - [Slack](https://gptp-workshops.slack.com/messages/@sara)
+- [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu)
+- [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria)
 - [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
-    - [Slack](https://gptp-workshops.slack.com/messages/@leo-itt/)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
-    - [Slack](https://gptp-workshops.slack.com/messages/@stephan/)
 
 
 ### Social Media
