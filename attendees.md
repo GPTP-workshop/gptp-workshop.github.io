@@ -5,7 +5,7 @@ roman: "XX"
 dates: "June 01-03, 2023"
 ---
 
-# Attendees
+# Participants
 
 ## Keynote Speakers
 
