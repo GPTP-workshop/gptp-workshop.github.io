@@ -5,19 +5,10 @@ roman: "XX"
 dates: "June 01-03, 2023"
 ---
 
-
-## Organizers
-
-- [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu)
-- [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria)
-- [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
-- [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
-
 ## Keynote Speakers
 
 - Oana Carja (Carnegie Mellon University)
 - Thomas Bäck (Universiteit Leiden)
-
 
 ## Attending
 
@@ -44,3 +35,9 @@ dates: "June 01-03, 2023"
 - Lee Spector
 - Kai Staats
 
+## Organizers
+
+- [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu)
+- [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria)
+- [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+- [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
