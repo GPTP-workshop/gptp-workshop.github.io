@@ -15,8 +15,10 @@ dates: "Jun 01-03, 2023"
 - **June 01-03, 2023:** Keynotes, presentations, and discussions.
 
 ## Presentations
-tba
+- Regular talks will be scheduled at all three days of the workshop, each presenter will be allowed to talk for 30 minutes. After each regular talk there will be plenty time for discussions and Q&A.
+- Flash talks will be given in a special session, each flash talk presented will be allowed to talk for 10 minutes.
 
 ## Keynote Talks
-tba
+- Oana Carja (Carnegie Mellon University)
+- Thomas Bäck (Universiteit Leiden)
 
