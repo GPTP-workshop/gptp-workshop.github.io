@@ -37,16 +37,19 @@ See the [contributions page](contributions.html) for information on preparing pr
 
 ### Food
 
-A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. Please let us know if you have any dietary restrictions for catered meals.
-
-### Accommodations
-
-A list of bed-and-breakfast inns, hotels and motels is provided. There are several other options available, including a number of local AirBnB providers.
+A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. 
+Additionally, at the evening of the first day of the workshop, all attendees will be invited for dinner at the conference location.
+Please let us know if you have any dietary restrictions for catered meals.
 
 ### Meeting Location
 
-The 2019 meeting location will be on the main campus of Michigan State University, located off downtown East Lansing.
+The 2023 meeting location will be at the Kellogg Hotel and Convention Center, which is located on the west side of the main campus of Michigan State University, located off downtown East Lansing.
 A (for-fee) parking garage is available nearby (see below).
+
+### Accommodations
+
+There is a block of rooms reserved at the meeting location, the Kellogg Hotel and Convention Center, which can be booked at a special rate.
+Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. There are several other options available, including a number of local AirBnB providers.
 
 ### Transportation
 
