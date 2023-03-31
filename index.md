@@ -55,5 +55,5 @@ Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. T
 
 Flights should be scheduled to the Detroit Metro Airport (DTW) or to the (closer) Lansing Capital Airport (LAN). From Detroit, the Michigan Flyer/AirRide shuttle can be arranged which is an affordable and convenient mode of transportation to East Lansing. Travel time on the bus is about 2 hours. Alternatively, you might want to rent a car at DTW. From LAN, you could take a taxi or a ride service. Transportation options should be considered before actually embarking on the trip.
 
-There is very little chance of street parking on weekdays on the University campus, but there is a pay-by-use parking close to the College of Engineerring.
+There is very little chance of street parking on weekdays on the University campus, but there is a pay-by-use parking close to the College of Engineering.
 
