@@ -15,9 +15,32 @@ dates: "June 01-03, 2023"
 
 ## Keynote Speakers
 
-tba
+- Oana Carja (Carnegie Mellon University)
+- Thomas Bäck (Universiteit Leiden)
+
 
 ## Attending
 
-tba
+- Michael Affenzeller
+- Wolfgang Banzhaf	 
+- Stuart Card
+- Emily Dolson
+- James Foster
+- Christian Haider
+- Erik Hemberg
+- Inaki Hidalgo
+- Talib Hussain
+- Alex Lalijini
+- Joel Lehman
+- Penousal Machado
+- Eric Medvet
+- Jason Moore
+- Una-May O’Reilly
+- Fabrício Olivetti de França
+- Bill Punch
+- Jory Schossau
+- Moshe Sipper
+- Lisa Soros
+- Lee Spector
+- Kai Staats
 
