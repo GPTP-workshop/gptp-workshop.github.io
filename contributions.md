@@ -5,8 +5,7 @@ roman: "XX"
 dates: "Jun 01-03, 2023"
 ---
 
-## Genetic Programming Theory & Practice XX
-
+# Contributions
 
 ## Important Dates
 
