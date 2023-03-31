@@ -20,4 +20,4 @@ dates: "Jun 01-03, 2023"
 ## Keynote Talks
 - Oana Carja (Carnegie Mellon University)
 - Thomas Bäck (Universiteit Leiden)
-
+- James Foster (University of Idaho, retired)
