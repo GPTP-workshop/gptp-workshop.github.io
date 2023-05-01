@@ -16,27 +16,47 @@ dates: "June 01-03, 2023"
 ## Attending
 
 - Michael Affenzeller
-- Wolfgang Banzhaf	 
+- Wolfgang Banzhaf
+- Clifford Bohm
 - Stuart Card
+- Herbie Bradley
+- Kalyanmoy Deb
+- Aman Dhruva
+- Li Ding
 - Emily Dolson
 - James Foster
+- Jose Guadalupe
+- Ritam Guha
 - Christian Haider
+- Nathan Haut
 - Erik Hemberg
-- Inaki Hidalgo
+- Iñaki Hidalgo
 - Talib Hussain
+- Per Kristian
 - Alex Lalijini
 - Joel Lehman
+- Richard Lussier
 - Penousal Machado
+- Una May
+- Nic McPhee
 - Eric Medvet
+- Iliya Miralavy
 - Jason Moore
+- Matthew Andres Moreno
 - Una-May O’Reilly
 - Fabrício Olivetti de França
+- Anselmo Pontes
 - Bill Punch
+- Pedro Ribeiro
+- Nicolas Scalzitti
 - Jory Schossau
+- Shakiba Shahbandegan
 - Moshe Sipper
 - Lisa Soros
 - Lee Spector
 - Kai Staats
+- Richard Wardin
+- Ryan Zhou
 
 ## Organizers
 
