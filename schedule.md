@@ -12,7 +12,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University:
+- 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University:
 **"TITLE"**
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [NN1](https://xxx):
@@ -41,7 +41,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a [Thomas Bäck](https://xxx), Leiden University:
+- 9:15a _Keynote_ by [Thomas Bäck](https://xxx), Leiden University:
 **"TITLE"**
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [NN6](https://xxx):
@@ -70,8 +70,8 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 ### Saturday, June 3, 2023
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a [James Foster](https://xxx):
-- **"TITLE"**
+- 9:15a _Keynote_ by [James Foster](https://xxx): 
+**"TITLE"**
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [NN11](https://xxx):
 **"TITLE"**
