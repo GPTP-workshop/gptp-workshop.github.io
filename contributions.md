@@ -21,3 +21,10 @@ dates: "Jun 01-03, 2023"
 - Oana Carja (Carnegie Mellon University)
 - Thomas Bäck (Universiteit Leiden)
 - James Foster (University of Idaho, retired)
+
+## Sponsors
+We cordially thank our sponsors - without their contributions, this workshop would be impossible!
+- Michael Affenzeller
+- John Koza
+- Jason Moore
+- Stuart Card
