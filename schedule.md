@@ -34,7 +34,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 4:15p [NN5](http://xxx):
 **"TITLE"**
 - 5:00p _Closing Discussion_
-- 6:00p _After meeting social gatherings_
+- 6:30p _Dinner at Kellog Center_
 
 
 ### Friday, June 2, 2023
