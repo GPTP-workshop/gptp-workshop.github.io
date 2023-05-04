@@ -28,8 +28,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:
 - 3:30p [NN_1](https://xxx): *"TITLE"*
-- 3:40p [NN_2](https://xxx): *"TITLE"*
-- 3:50p [NN_3](https://xxx): *"TITLE"*
+- 3:45p [NN_2](https://xxx): *"TITLE"*
 - 4:00a _Break/Discussion/Coffee_
 - 4:15p [NN5](http://xxx):
 **"TITLE"**
@@ -56,9 +55,8 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 **"TITLE"**
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:
-- 3:30p [NN_4](https://xxx): *"TITLE"*
-- 3:40p [NN_5](https://xxx): *"TITLE"*
-- 3:50p [NN_6](https://xxx): *"TITLE"*
+- 3:30p [NN_3](https://xxx): *"TITLE"*
+- 3:45p [NN_4](https://xxx): *"TITLE"*
 - 4:00a _Break/Discussion/Coffee_
 - 4:15p [NN10](http://xxx):
 **"TITLE"**
@@ -73,15 +71,15 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 9:15a _Keynote_ by [James Foster](https://xxx): 
 **"TITLE"**
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [NN11](https://xxx):
+- 10:30a _Lighning Talks_:
+- 10:30a [NN_5](https://xxx): *"TITLE"*
+- 10:45a [NN_6](https://xxx): *"TITLE"*
+- 11:00a [NN11](https://xxx):
 **"TITLE"**
-- 11:15a [NN12](https://xxx): 
+- 11:45a [NN12](https://xxx): 
 **"TITLE"**
-- 12:00p _Discussion_
-- 12:30p [NN13](http://xxx):
-**"TITLE"**
--  1:15p _Closing Discussion & Lunch_
--  2:30p _End of the Workshop_
+-  12:30p _Closing Discussion & Lunch_
+-  13:30p _End of the Workshop_
 
 
 ### For travel preparations
