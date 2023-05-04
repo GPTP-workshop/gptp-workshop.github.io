@@ -15,21 +15,21 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University:
 _"TITLE"_
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [NN1](https://xxx):
+- 10:30a [T1](https://xxx):
 _"TITLE"_
-- 11:15a [NN2](https://xxx):
+- 11:15a [T2](https://xxx):
 _"TITLE"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
-- 1:30p [NN3](http://xxx):
+- 1:30p [T3](http://xxx):
 _"TITLE"_
-- 2:15p [NN4](http://xxx):
+- 2:15p [T4](http://xxx):
 _"TITLE"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:  
-  - 3:30p [NN_1](https://xxx): *"TITLE"*
-  - 3:45p [NN_2](https://xxx): *"TITLE"*
-- 4:00p [NN5](http://xxx):
+  - 3:30p [L1](https://xxx): _"TITLE"_
+  - 3:45p [L2](https://xxx): _"TITLE"_
+- 4:00p [T5](http://xxx):
 _"TITLE"_
 - 4:45p _Closing Discussion_
 - 6:30p _Dinner at Kellog Center_
@@ -42,21 +42,21 @@ _"TITLE"_
 - 9:15a _Keynote_ by [Thomas Bäck](https://xxx), Leiden University:
 _"TITLE"_
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [NN6](https://xxx):
+- 10:30a [T6](https://xxx):
 _"TITLE"_
-- 11:15a [NN7](https://xxx); 
+- 11:15a [T7](https://xxx):
 _"TITLE"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
--  1:30p [NN8](http://xxx):
+-  1:30p [T8](http://xxx):
 _"TITLE"_
-- 2:15p [NN9](http://xxx):
+- 2:15p [T9](http://xxx):
 _"TITLE"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:
-  - 3:30p [NN_3](https://xxx): *"TITLE"*
-  - 3:45p [NN_4](https://xxx): *"TITLE"*
-- 4:00p [NN10](http://xxx):
+  - 3:30p [L3](https://xxx): _"TITLE"_
+  - 3:45p [L4](https://xxx): _"TITLE"_
+- 4:00p [T0](http://xxx):
 _"TITLE"_
 - 4:45p _Closing Discussion_
 - 6:30p _After meeting social gatherings_
@@ -70,11 +70,11 @@ _"TITLE"_
 _"TITLE"_
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a _Lighning Talks_:
-  - 10:30a [NN_5](https://xxx): *"TITLE"*
-  - 10:45a [NN_6](https://xxx): *"TITLE"*
-- 11:00a [NN11](https://xxx):
+  - 10:30a [L5](https://xxx): _"TITLE"_
+  - 10:45a [L6](https://xxx): _"TITLE"_
+- 11:00a [T11](https://xxx):
 _"TITLE"_
-- 11:45a [NN12](https://xxx): 
+- 11:45a [T12](https://xxx): 
 _"TITLE"_
 -  12:30p _Closing Discussion & Lunch_
 -  13:30p _End of the Workshop_
