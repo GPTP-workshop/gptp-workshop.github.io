@@ -12,7 +12,7 @@ We normally start at 9:00 am on the first day, that is June 1, 2023,
 and end after lunch on the last day, that is June 3, 2023.  
 GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convention Center](https://https://kelloggcenter.com/), East Lansing, MI, 219 S. Harrison Rd.
 
-## Thursday, June 1, 2023
+### Thursday, June 1, 2023
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
@@ -20,64 +20,63 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [Jason H. Moore](https://researchers.cedars-sinai.edu/Jason.Moore), Cedars-Sinai Medical Center:
 _"Automated machine learning"_
-- 11:15a [T2](https://xxx):
-_"TITLE"_
+- 11:15a [Joel Lehman, Herbie Bradley](https://Carper.ai), Carper.ai:
+_"The OpenELM Library: Leveraging Progress in Language Models for Novel Evolutionary Algorithms"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
-- 1:30p [T3](http://xxx):
-_"TITLE"_
-- 2:15p [T4](http://xxx):
-_"TITLE"_
+- 1:30p [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/), Michigan State University:
+_"Combinatorics of Neutral Spaces"_
+- 2:15p [Hussain](https://departments.johnabbott.qc.ca/william%20russell%202/talib-hussain/), John Abbott College:
+_"Let’s Evolve Intelligence, Not Solutions"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:  
-  - 3:30p [L1](https://xxx): _"TITLE"_
-  - 3:45p [L2](https://xxx): _"TITLE"_
-- 4:00p [T5](http://xxx):
-_"TITLE"_
+  - 3:30p [Richard Lussier, Nic McPhee](https://academics.morris.umn.edu/nic-mcphee): _"The Impact of Step Limits on Generalization & Stability in PushGP"_
+  - 3:45p [Iñaki Hidalgo](https://www.ucm.es/directorio?id=9382), Universidad Complutense de Madrid: _"Genetic Programming Techniques for Glucose Prediction in people with Diabetes"_
+- 4:00p [Moshe Sipper](https://www.moshesipper.com/), Ben-Gurion University:
+_"Blending EC with DL and ML"_
 - 4:45p _Closing Discussion_
 - 6:30p _Dinner at Kellog Center_
 
 
-## Friday, June 2, 2023
+### Friday, June 2, 2023
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Leiden University:
 _"Automatic Algorithm Configuration for Expensive Optimization Tasks"_
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [T6](https://xxx):
-_"TITLE"_
-- 11:15a [T7](https://xxx):
-_"TITLE"_
+- 10:30a [Lee Spector, Li Ding](https://www.amherst.edu/people/facstaff/lspector), Amherst College and UMass Amherst:
+_"Particularity"_
+- 11:15a [Una May OReilly](https://www.csail.mit.edu/person/una-may-oreilly), MIT CSAIL
 - 12:00p _Discussion_
 - 12:30p _Lunch_
--  1:30p [T8](http://xxx):
-_"TITLE"_
-- 2:15p [T9](http://xxx):
-_"TITLE"_
+-  1:30p [Eric Medvet](https://medvet.inginf.units.it/), University of Trieste:
+_"Evolving graphs with a Prolog-based representation and an adaptive EA"_
+- 2:15p [Christian Haider](https://heal.heuristiclab.com/team/haider), Univ. Applied Sciences Upper Austria, HEAL:
+_"Approaches for Prior Knowledge Integration into Symbolic Regression"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:
-  - 3:30p [L3](https://xxx): _"TITLE"_
-  - 3:45p [L4](https://xxx): _"TITLE"_
-- 4:00p [T0](http://xxx):
-_"TITLE"_
+  - 3:30p [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller), Univ. Applied Sciences Upper Austria, HEAL: _"GP in Prescriptive Analytics"_
+  - 3:45p [Stuart W. Card](https://www.critical.com/index.html), Critical Technologies Inc.: _"Information Theoretic GP of Causal Models"_
+- 4:00p [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm), Grand Valley State University:
+_"Phylogeny-informed fitness estimation"_
 - 4:45p _Closing Discussion_
 - 6:30p _After meeting social gatherings_
 
 
 
-## Saturday, June 3, 2023
+### Saturday, June 3, 2023
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster), Univ. Idaho 
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a _Lighning Talks_:
-  - 10:30a [L5](https://xxx): _"TITLE"_
-  - 10:45a [L6](https://xxx): _"TITLE"_
-- 11:00a [T11](https://xxx):
-_"TITLE"_
-- 11:45a [T12](https://xxx): 
-_"TITLE"_
+  - 10:30a [Lisa Soros](https://cs.barnard.edu/profiles/lisa-soros), Barnard College: _"Exploiting Failure in Evolution"_
+  - 10:45a [Fabricio Olivetti de Franca](https://www.ufabc.edu.br/ensino/docentes/fabricio-olivetti-de-franca), Federal University of ABC: _"Origami: (un)folding the abstraction of recursion schemes for program synthesis"_
+- 11:00a [Emily Dolson](https://www.egr.msu.edu/people/profile/dolsonem), Michigan State University:
+_"A case study of how lexicase selection traverses the eco-evolutionary landscape of a genetic programming problem"_
+- 11:45a [Matthew Andres Moreno](https://directory.natsci.msu.edu/Directory/Profiles/Person/103198), Michigan State University: 
+_"Hereditary stratigraphy methods for phylogenetic inference over distributed EC populations"_
 -  12:30p _Closing Discussion & Lunch_
 -  13:30p _End of the Workshop_
 
