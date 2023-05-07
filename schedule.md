@@ -5,18 +5,21 @@ roman: "XX"
 dates: "June 1-3, 2023"
 ---
 
-### Location
+# Schedule [DRAFT]
+
+This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)  
+We normally start at 9:00 am on the first day, that is June 1, 2023,
+and end after lunch on the last day, that is June 3, 2023.  
 GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convention Center](https://https://kelloggcenter.com/), East Lansing, MI, 219 S. Harrison Rd.
 
-### Thursday, June 1, 2023
+## Thursday, June 1, 2023
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University:
-_"TITLE"_
+- 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [T1](https://xxx):
-_"TITLE"_
+- 10:30a [Jason H. Moore](https://researchers.cedars-sinai.edu/Jason.Moore), Cedars-Sinai Medical Center:
+_"Automated machine learning"_
 - 11:15a [T2](https://xxx):
 _"TITLE"_
 - 12:00p _Discussion_
@@ -35,12 +38,12 @@ _"TITLE"_
 - 6:30p _Dinner at Kellog Center_
 
 
-### Friday, June 2, 2023
+## Friday, June 2, 2023
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [Thomas Bäck](https://xxx), Leiden University:
-_"TITLE"_
+- 9:15a _Keynote_ by [Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Leiden University:
+_"Automatic Algorithm Configuration for Expensive Optimization Tasks"_
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [T6](https://xxx):
 _"TITLE"_
@@ -63,11 +66,10 @@ _"TITLE"_
 
 
 
-### Saturday, June 3, 2023
+## Saturday, June 3, 2023
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [James Foster](https://xxx): 
-_"TITLE"_
+- 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster), Univ. Idaho 
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a _Lighning Talks_:
   - 10:30a [L5](https://xxx): _"TITLE"_
@@ -80,10 +82,9 @@ _"TITLE"_
 -  13:30p _End of the Workshop_
 
 
-### For travel preparations
+<!-- ## For travel preparations -->
 
-We normally start at 9:00 am on the first day, that is June 1, 2023,
-and end after lunch on the last day, that is June 3, 2023.
 
-[This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)]
+
+
 
