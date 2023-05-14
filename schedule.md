@@ -18,7 +18,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html), Carnegie Mellon University
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [Jason H. Moore](https://researchers.cedars-sinai.edu/Jason.Moore), Cedars-Sinai Medical Center: _"Automated machine learning"_
+- 10:30a Pedro Ribeiro, Anil Saini, [Jason H. Moore](https://researchers.cedars-sinai.edu/Jason.Moore), Cedars-Sinai Medical Center: _"Automated machine learning"_
 - 11:15a [Una May OReilly](https://www.csail.mit.edu/person/una-may-oreilly), MIT CSAIL
 - 12:00p _Discussion_
 - 12:30p _Lunch_
