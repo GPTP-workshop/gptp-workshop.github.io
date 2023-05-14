@@ -43,7 +43,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 11:15a [Joel Lehman, Herbie Bradley](https://Carper.ai), Carper.ai: _"The OpenELM Library: Leveraging Progress in Language Models for Novel Evolutionary Algorithms"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
--  1:30p [Eric Medvet](https://medvet.inginf.units.it/), University of Trieste: _"Evolving graphs with a Prolog-based representation and an adaptive EA"_
+-  1:30p [Eric Medvet](https://medvet.inginf.units.it/), University of Trieste: _"GP for Continuous Control: Teacher or Learner? The Case of Simulated Modular Soft Robots"_
 - 2:15p [Christian Haider](https://heal.heuristiclab.com/team/haider), Univ. Applied Sciences Upper Austria, HEAL: _"Approaches for Prior Knowledge Integration into Symbolic Regression"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:
