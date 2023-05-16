@@ -23,13 +23,14 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 - 12:00p _Discussion_
 - 12:30p _Lunch_
 - 1:30p [Nathan Haut](https://www.cse.msu.edu/~hautn/) (Michigan State University): _"Accelerating Image Analysis Research with Active Learning Techniques in Genetic Programming"_
-- 2:15p [Matthew Andres Moreno](https://directory.natsci.msu.edu/Directory/Profiles/Person/103198) (Michigan State University):  _"Hereditary stratigraphy methods for phylogenetic inference over distributed EC populations"_
+- 2:15p [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/) (Michigan State University):  _"Neutrality"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lighning Talks_:  
   - 3:30p [Richard Lussier, Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) (University of Minnesota): _"The Impact of Step Limits on Generalization & Stability in PushGP"_
   - 3:45p [Iñaki Hidalgo](https://www.ucm.es/directorio?id=9382) (Universidad Complutense de Madrid): _"Genetic Programming Techniques for Glucose Prediction in people with Diabetes"_
-- 4:00p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University): _"A Melting Pot of Evolution and Learning"_
-- 4:45p _Closing Discussion_
+  - 4:00p [Matthew Andres Moreno](https://directory.natsci.msu.edu/Directory/Profiles/Person/103198) (Michigan State University):  _"Hereditary stratigraphy methods for phylogenetic inference over distributed EC populations"_
+- 4:15p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University): _"A Melting Pot of Evolution and Learning"_
+- 5:00p _Closing Discussion_
 - 6:30p _Dinner at Kellog Center_
 
 
