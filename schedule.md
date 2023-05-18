@@ -1,11 +1,11 @@
 ---
 layout: default
-updated: "May 1, 2023"
+updated: "May 18, 2023"
 roman: "XX"
 dates: "June 1-3, 2023"
 ---
 
-# Schedule [DRAFT]
+# Schedule
 
 This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)  
 We normally start at 9:00 am on the first day, that is June 1, 2023,
@@ -26,7 +26,7 @@ Coevolutionary Algorithm with Spatial Topology"_
 - 1:30p [Nathan Haut](https://www.cse.msu.edu/~hautn/) (Michigan State University): _"Accelerating Image Analysis Research with Active Learning Techniques in Genetic Programming"_
 - 2:15p [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/) (Michigan State University):  _"Neutrality"_
 - 3:00p _Break/Discussion/Coffee_
-- 3:30p _Lighning Talks_:  
+- 3:30p _Lightning Talks_:  
   - 3:30p [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) (University of Minnesota): _"The Impact of Step Limits on Generalization &
 Stability in Software Synthesis"_
   - 3:45p [Iñaki Hidalgo](https://www.ucm.es/directorio?id=9382) (Universidad Complutense de Madrid): _"Genetic Programming Techniques for Glucose Prediction in people with Diabetes"_
@@ -50,7 +50,7 @@ Stability in Software Synthesis"_
 - 2:15p [Christian Haider](https://heal.heuristiclab.com/team/haider) (Univ. Applied Sciences Upper Austria, HEAL): _"Shape-constrained Symbolic Regression:
 Real-World Applications in Magnetization, Extrusion and Data Validation"_
 - 3:00p _Break/Discussion/Coffee_
-- 3:30p _Lighning Talks_:
+- 3:30p _Lightning Talks_:
   - 3:30p [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (Univ. Applied Sciences Upper Austria, HEAL): _"GP in Prescriptive Analytics"_
   - 3:45p [Stuart W. Card](https://www.critical.com/index.html) (Critical Technologies Inc.): _"Information Theoretic GP of Causal Models"_
 - 4:00p [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm) (Grand Valley State University): _"Phylogeny-informed fitness estimation"_
@@ -64,7 +64,7 @@ Real-World Applications in Magnetization, Extrusion and Data Validation"_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster) (Univ. Idaho) 
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a _Lighning Talks_:
+- 10:30a _Lightning Talks_:
   - 10:30a [Lisa Soros](https://cs.barnard.edu/profiles/lisa-soros) (Barnard College): _"Exploiting Failure in Evolution"_
   - 10:45a [Fabricio Olivetti de Franca](https://www.ufabc.edu.br/ensino/docentes/fabricio-olivetti-de-franca) (Federal University of ABC): _"Origami: (un)folding the abstraction of recursion schemes for program synthesis"_
 - 11:00a [Emily Dolson](https://www.egr.msu.edu/people/profile/dolsonem) (Michigan State University): _"Reachability Analysis for Lexicase Selection via
