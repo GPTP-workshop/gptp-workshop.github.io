@@ -52,7 +52,7 @@ Real-World Applications in Magnetization, Extrusion and Data Validation"_
 - 3:00p _Break/Discussion/Coffee_
 - 3:30p _Lightning Talks_:
   - 3:30p [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (Univ. Applied Sciences Upper Austria, HEAL): _"GP in Prescriptive Analytics"_
-  - 3:45p [Stuart W. Card](https://www.critical.com/index.html) (Critical Technologies Inc.): _"Information Theoretic GP of Causal Models"_
+  - 3:45p [Stuart W. Card](https://www.critical.com/index.html) (Critical Technologies Inc.): _"Towards Information Theoretic GP of Causal Models"_
 - 4:00p [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm) (Grand Valley State University): _"Phylogeny-informed fitness estimation"_
 - 4:45p _Closing Discussion_
 - 6:30p _After meeting social gatherings_
