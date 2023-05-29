@@ -32,7 +32,7 @@ See the [contributions page](contributions.html) for information on preparing pr
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2023`](https://twitter.com/search?f=tweets&q=%23gptp2022) (click to search for recent items)
+- Twitter hashtag: [`#gptp2023`](https://twitter.com/search?f=tweets&q=%23gptp2023) (click to search for recent items)
 
 
 ### Food
