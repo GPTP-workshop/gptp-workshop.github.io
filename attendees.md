@@ -37,7 +37,6 @@ dates: "June 01-03, 2023"
 - Joel Lehman
 - Richard Lussier
 - Penousal Machado
-- Una May
 - Nic McPhee
 - Eric Medvet
 - Iliya Miralavy
