@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 1, 2023"
+updated: "May 29, 2023"
 roman: "XX"
 dates: "June 01-03, 2023"
 ---
@@ -55,6 +55,7 @@ dates: "June 01-03, 2023"
 - Lisa Soros
 - Lee Spector
 - Kai Staats
+- Bill Tozier
 - Richard Wardin
 - Ryan Zhou
 
