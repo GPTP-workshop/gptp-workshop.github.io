@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 18, 2023"
+updated: "May 30, 2023"
 roman: "XX"
 dates: "June 1-3, 2023"
 ---
@@ -16,7 +16,7 @@ GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convent
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html) (Carnegie Mellon University)
+- 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html) (Carnegie Mellon University): _"Topological puzzles in biology: how geometry shapes evolution and applications to designing intelligent collectives"_
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [Pedro Ribeiro](https://www.cedars-sinai.org/) (Cedars-Sinai Medical Center): _"Automated machine learning"_
 - 11:15a [Una May OReilly](https://www.csail.mit.edu/person/una-may-oreilly) (MIT CSAIL): _"Analysis of a Pairwise Dominance
