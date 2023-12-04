@@ -1,8 +1,8 @@
 ---
 layout: default
-updated: "March 31, 2023"
-roman: "XX"
-dates: "June 01-03, 2023"
+updated: "Dec 04, 2023"
+roman: "XXI"
+dates: "June 06-08, 2024"
 ---
 
 <!-- ## GPTP Sandbox 2022 -->
@@ -14,15 +14,15 @@ Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated 
 
 ### Important Dates
 
-- **June 01-03, 2023:** Keynotes, presentations, and discussions
+- **June 06-08, 2024:** Keynotes, presentations, and discussions
 
 ### Organizers for GPTP
 
 (alphabetical order)
 
+- [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/)
 - [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu)
-- [Charles Ofria](https://www.egr.msu.edu/people/profile/ofria)
-- [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+- [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm)
 - [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
 
 ### Information for Speakers and Authors
@@ -32,7 +32,7 @@ See the [contributions page](contributions.html) for information on preparing pr
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2023`](https://twitter.com/search?f=tweets&q=%23gptp2023) (click to search for recent items)
+- Twitter hashtag: [`#gptp2024`](https://twitter.com/search?f=tweets&q=%23gptp2024) (click to search for recent items)
 
 
 ### Food
@@ -43,17 +43,18 @@ Please let us know if you have any dietary restrictions for catered meals.
 
 ### Meeting Location
 
-The 2023 meeting location will be at the Kellogg Hotel and Convention Center, which is located on the west side of the main campus of Michigan State University, located off downtown East Lansing.
-A (for-fee) parking garage is available nearby (see below).
+The 2024 meeting location will be at the main campus of University of Michigan.
+A (for-fee) parking garage is available nearby.
 
+<!--
 ### Accommodations
-
 There is a block of rooms reserved at the meeting location, the Kellogg Hotel and Convention Center, which can be booked at a special rate.
 Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. There are several other options available, including a number of local AirBnB providers.
+-->
 
 ### Transportation
 
-Flights should be scheduled to the Detroit Metro Airport (DTW) or to the (closer) Lansing Capital Airport (LAN). From Detroit, the Michigan Flyer/AirRide shuttle can be arranged which is an affordable and convenient mode of transportation to East Lansing. Travel time on the bus is about 2 hours. Alternatively, you might want to rent a car at DTW. From LAN, you could take a taxi or a ride service. Our workshop location, Kellogg Hotel and Convention Center, provides free on site parking for guests.
+Flights should be scheduled to the Detroit Metro Airport (DTW). From Detroit, the Michigan Flyer/AirRide shuttle can be arranged which is an affordable and convenient mode of transportation to Ann Arbor. Travel time on the bus is about 1 hour. Alternatively, you might want to rent a car at DTW.
 
 
 <!-- Transportation options should be considered before actually embarking on the trip.
