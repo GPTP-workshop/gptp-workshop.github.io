@@ -1,19 +1,22 @@
 ---
 layout: default
-updated: "May 30, 2023"
-roman: "XX"
-dates: "June 1-3, 2023"
+updated: "Dec 04, 2023"
+roman: "XXI"
+dates: "June 6-8, 2024"
 ---
 
 # Schedule
 
 This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)  
-We normally start at 9:00 am on the first day, that is June 1, 2023,
-and end after lunch on the last day, that is June 3, 2023.  
+We normally start at 9:00 am on the first day, that is June 6, 2024,
+and end after lunch on the last day, that is June 8, 2024.  
+<!---
 GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convention Center](https://https://kelloggcenter.com/), East Lansing, MI, 219 S. Harrison Rd.
+-->
 
-### Thursday, June 1, 2023
+### Thursday, June 6, 2024
 
+<!--
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [Oana Carja](https://cbd.cmu.edu/people/carja.html) (Carnegie Mellon University): _"Topological puzzles in biology: how geometry shapes evolution and applications to designing intelligent collectives"_
@@ -34,10 +37,11 @@ Stability in Software Synthesis"_
 - 4:15p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University): _"A Melting Pot of Evolution and Learning"_
 - 5:00p _Closing Discussion_
 - 6:30p _Dinner at Kellog Center_
+-->
 
+### Friday, June 7, 2024
 
-### Friday, June 2, 2023
-
+<!--
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back) (Leiden University): _"Automatic Algorithm Configuration for Expensive Optimization Tasks"_
@@ -56,10 +60,11 @@ Real-World Applications in Magnetization, Extrusion and Data Validation"_
 - 4:00p [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm) (Grand Valley State University): _"Phylogeny-informed fitness estimation"_
 - 4:45p _Closing Discussion_
 - 6:30p _After meeting social gatherings_
+-->
 
 
-
-### Saturday, June 3, 2023
+### Saturday, June 8, 2024
+<!--
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster) (Univ. Idaho) 
@@ -72,7 +77,7 @@ Community Assembly Graphs"_
 - 11:45a [Talib Hussain](https://departments.johnabbott.qc.ca/william%20russell%202/talib-hussain/) (John Abbott College): _"Let’s Evolve Intelligence, Not Solutions"_
 -  12:30p _Closing Discussion & Lunch_
 -  13:30p _End of the Workshop_
-
+-->
 
 <!-- ## For travel preparations -->
 
