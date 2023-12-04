@@ -6,10 +6,10 @@ dates: "June 06-08, 2024"
 ---
 
 <!-- ## GPTP Sandbox 2022 -->
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2023 by the BEACON Center for the Study of Evolution in Action at Michigan State University in East Lansing, MI. This year's conference will be held June 01-03, 2023.
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2024 by the University of Michigan in Ann Arbor, MI. This year's conference will be held June 06-08, 2024.
 
 <!-- Genetic Programming Theory & Practice is a small, invitation-only workshop.
-In June 2023, GPTP will return to Michigan State University, East Lansing, MI.
+In June 2024, GPTP will return to  University of Michigan, Ann Arbor, MI.
 Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated to the work of PhD students working in GP as well as social media activities for promoting genetic programming. -->
 
 ### Important Dates
