@@ -128,7 +128,7 @@ Note: This venue is _definitely not walkable_. You will need to drive in.
 Ann Arbor, MI 48108
 {: .address}
 
-Brand new. Near Briarwood Mall in the south end of town.
+Near Briarwood Mall in the south end of town.
 
 ### [Hyatt Place Ann Arbor](https://annarbor.place.hyatt.com/en/hotel/home.html)
 
@@ -136,4 +136,4 @@ Brand new. Near Briarwood Mall in the south end of town.
 Ann Arbor, MI 48108
 {: .address}
 
-Brand new. Near Briarwood Mall in the south end of town.
+Near Briarwood Mall in the south end of town.
