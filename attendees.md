@@ -14,7 +14,12 @@ dates: "June 06-08, 2024"
 
 ## Attending
 
-tbd
+- Jason Moore
+- Stephen Kelly	
+- Moshe Sipper
+- Ryan Urbanowicz
+- Stu Card
+- and many more!
 
 ## Organizers
 
