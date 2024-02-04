@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 02, 2024"
+updated: "Feb 04, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -9,6 +9,7 @@ dates: "June 06-08, 2024"
 
 ## Keynote Speakers
 
+- [María Rebolleda](https://www.faculty.uci.edu/profile/?facultyId=6976)
 - [Kamaludin Dingle](https://www.dingleresearch.com/)
 - [Allison Earl](https://lsa.umich.edu/psych/people/faculty/anearl.html)
 
