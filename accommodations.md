@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 02, 2024"
+updated: "Feb 16, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -17,7 +17,6 @@ Ann Arbor, MI 48109-1234
 {: .address}
 
 _Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
-There are a few rooms set aside for GPTP at a rate of $199. 
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
