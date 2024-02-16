@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 04, 2024"
+updated: "Feb 16, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -15,11 +15,23 @@ dates: "June 06-08, 2024"
 
 ## Attending
 
+- Alcides Fonseca	
+- Inaki Hidalgo	
+- Bogdan Burlacu
 - Jason Moore
 - Stephen Kelly	
 - Moshe Sipper
 - Ryan Urbanowicz
 - Stu Card
+- Stephen Kelly	
+- Mark Kotanchek
+- Joel Lehman
+- Charles Ofria
+- Fabricio Olivetti de Franca
+- Lukas Sekanina	
+- Lisa Soros
+- Lee Spector
+- Mengjie Zhang
 - and many more!
 
 ## Organizers
