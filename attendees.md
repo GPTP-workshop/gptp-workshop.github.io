@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 23, 2024"
+updated: "Feb 26, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -28,6 +28,7 @@ dates: "June 06-08, 2024"
 - Joel Lehman
 - James McDermott
 - Jason Moore
+- Aidan Murphy
 - Fabricio Olivetti de Franca
 - Charles Ofria
 - Ed Pantridge
