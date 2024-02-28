@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 26, 2024"
+updated: "Feb 28, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -36,6 +36,7 @@ dates: "June 06-08, 2024"
 - Lukas Sekanina	
 - Lisa Soros
 - Lee Spector
+- Bill Tozier
 - Ryan Urbanowicz
 - Mengjie Zhang
 - and many more!
