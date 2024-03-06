@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 28, 2024"
+updated: "Mar 06, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -25,6 +25,7 @@ dates: "June 06-08, 2024"
 - Inaki Hidalgo	
 - Stephen Kelly	
 - Mark Kotanchek
+- Yuri Lavinas
 - Joel Lehman
 - James McDermott
 - Jason Moore
