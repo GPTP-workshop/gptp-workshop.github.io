@@ -43,6 +43,12 @@ Ann Arbor, MI 48108
 
 Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
 
+### [Courtyard by Marriott](https://www.marriott.com/en-us/hotels/arbch-courtyard-ann-arbor/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
+
+3205 Boardwalk\\
+Ann Arbor, MI 48108
+{: .address}
+
 ### [Graduate Ann Arbor](https://graduatehotels.com/ann-arbor)
 
 615 East Huron St \\
@@ -50,6 +56,12 @@ Ann Arbor, MI 48104
 {: .address}
 
 Close to the venue, and walkable.
+
+### [Hyatt place](https://www.hyatt.com/en-US/hotel/michigan/hyatt-place-ann-arbor/)
+
+3223 S. State St.\\
+Ann Arbor, MI 48108
+{: .address}
 
 ### [Kensington Hotel](http://www.kcourtaa.com)
 
@@ -62,6 +74,12 @@ Offers breakfast included.
 
 
 ## Other Downtown (within walking distance, 20 minutes+)
+
+### [The Stone Chalet B&B](https://www.stonechalet.com/) 
+
+1917 Washtenaw Avenue
+Ann Arbor, MI 48104
+{: .address}
 
 ### [Residence Inn by Marriott Ann Arbor Downtown](http://www.marriott.com/hotels/travel/arbdt-residence-inn-ann-arbor-downtown)
 
