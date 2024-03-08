@@ -9,14 +9,23 @@ dates: "June 06-08, 2024"
 
 The following hotels are conveniently close to the workshop venue. Some of them are shown in [this map](https://www.google.com/maps/d/u/0/viewer?mid=1tHcZafajq_R5saxe4Pmtu1RxeUjO-MPX&ll=42.27876251803364%2C-83.7425372108465&z=16)
 
-
 ### [The Executive Residence at the Ross School of Business](https://www.acc-elandconferencecenter.com/)
 
-701 Tappan Street \\
-Ann Arbor, MI 48109-1234
+710 E. University Ave \\
+Ann Arbor, MI 48109
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
+_Super_ close to the workshop venue, literally down the street. Highly regarded by the folks who stayed there last year. 
+There are five rooms blocked for GPTP'ers for less than $200 per night. Please contact [Linda Wood](mailto:linmwood@umich.edu) if you would like to reserve a room!
+
+### [The Bell Tower Hotel](https://www.belltowerhotel.com)
+
+300 S. Thayer Street \\
+Ann Arbor, Michigan 48104
+{: .address}
+
+Close to the venue, and walkable.
+There are three rooms blocked for GPTP'ers for around $239/night (on average). Please contact [Linda Wood](mailto:linmwood@umich.edu) if you would like to reserve a room!
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
@@ -34,6 +43,14 @@ Ann Arbor, MI 48108
 
 Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
 
+### [Graduate Ann Arbor](https://graduatehotels.com/ann-arbor)
+
+615 East Huron St \\
+Ann Arbor, MI 48104
+{: .address}
+
+Close to the venue, and walkable.\\
+
 ### [Kensington Hotel](http://www.kcourtaa.com)
 
 3500 S State St \\
@@ -42,15 +59,6 @@ Ann Arbor, MI 48108
 
 Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. 
 Offers breakfast included.
-
-
-### [The Bell Tower Hotel](https://www.belltowerhotel.com)
-
-300 S. Thayer Street \\
-Ann Arbor, Michigan 48104
-{: .address}
-
-Close to the venue, and walkable. A small block of rooms set aside. Offers breakfast included.
 
 
 ## Other Downtown (within walking distance, 20 minutes+)
