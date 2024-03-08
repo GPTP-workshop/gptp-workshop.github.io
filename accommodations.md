@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Feb 16, 2024"
+updated: "Mar 08, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -49,7 +49,7 @@ Not close to the workshop venue, but convenient to the freeway and offering a sh
 Ann Arbor, MI 48104
 {: .address}
 
-Close to the venue, and walkable.\\
+Close to the venue, and walkable.
 
 ### [Kensington Hotel](http://www.kcourtaa.com)
 
