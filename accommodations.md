@@ -57,7 +57,7 @@ Ann Arbor, MI 48104
 
 Close to the venue, and walkable.
 
-### [Hyatt place](https://www.hyatt.com/en-US/hotel/michigan/hyatt-place-ann-arbor/)
+### [Hyatt place](https://www.hyatt.com/en-US/hotel/michigan/hyatt-place-ann-arbor/dtwza?src=corp_lclb_gmb_seo_dtwza)
 
 3223 S. State St.\\
 Ann Arbor, MI 48108
