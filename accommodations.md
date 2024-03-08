@@ -83,7 +83,8 @@ Ann Arbor, MI  48109-1265
 
 ## Other Satellite Locations
 
-all of these will require a bus or car ride
+all of these will require a bus or car ride; despite the additional features and slight inconvenience of extra travel, these are often _much_ cheaper accommodations than downtown venues
+
 
 ### [Candlewood Suites Ann Arbor](http://www.ihg.com/candlewood/hotels/us/en/ann-arbor/dttaa/hoteldetail)
 
@@ -92,8 +93,6 @@ Ann Arbor, Michigan 48103
 {: .address}
 
 Full kitchen and workspace in every room. Easy walk to several restaurants. Far enough away from the conference venue that you will _definitely_ need to drive or take the bus. There is a bus line right outside the front door that drops you on campus.
-
-(Despite the additional features and slight inconvenience of extra travel, these are often _much_ cheaper accommodations than downtown venues)
 
 ### [Microtel Inn & Suites](http://microtelinn.com)
 
