@@ -2,7 +2,7 @@
 layout: default
 updated: "Dec 04, 2023"
 roman: "XXI"
-dates: "June 6-8, 2024"
+dates: "June 06-08, 2024"
 ---
 
 # Schedule
