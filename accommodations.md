@@ -16,7 +16,7 @@ Ann Arbor, MI 48109
 {: .address}
 
 _Super_ close to the workshop venue, literally down the street. Highly regarded by the folks who stayed there last year. 
-There are five rooms blocked for GPTP'ers for less than $200 per night. Please contact [Linda Wood](mailto:linmwood@umich.edu) if you would like to reserve a room!
+There are five rooms blocked for GPTP'ers; the rate is $167/night (parking is an additional $28.80/day at the Forest Structure), reservations will need to be made by May 15, 2024. If you would like to reserve a room, then please do so [online](https://bookings.travelclick.com/76008?groupID=4273830&hotelID=76008#/guestsandrooms)!
 
 ### [The Bell Tower Hotel](https://www.belltowerhotel.com)
 
