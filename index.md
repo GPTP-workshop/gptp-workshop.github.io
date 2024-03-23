@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "March 15, 2024"
+updated: "March 23, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -16,7 +16,7 @@ Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated 
 
 - **May 15, 2024:** Deadline for draft versions of chapters
 - **June 06-08, 2024:** Keynotes, presentations, and discussions
-- **August 31, 2024:** Deadline for chapters
+- **August 1, 2024:** Deadline for chapters
 
 ### Organizers for GPTP
 
