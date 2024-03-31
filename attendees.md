@@ -19,8 +19,11 @@ dates: "June 06-08, 2024"
 - Geoffrey F. Bomarito 
 - Bogdan Burlacu
 - Stu Card
+- Mauro Castelli
 - Christopher C. Crary
-- Alcides Fonseca	
+- Alcides Fonseca
+- Erik Fredericks
+- Erik Goodman
 - Steven Gustafson
 - Inaki Hidalgo	
 - Stephen Kelly	
@@ -29,18 +32,21 @@ dates: "June 06-08, 2024"
 - Joel Lehman
 - James McDermott
 - Jason Moore
+- Matthew Moreno
 - Aidan Murphy
 - Fabricio Olivetti de Franca
 - Charles Ofria
 - Ed Pantridge
+- Anselmo Pontes
+- Ken Reid
 - Moshe Sipper
 - Lukas Sekanina	
 - Lisa Soros
 - Lee Spector
 - Bill Tozier
 - Ryan Urbanowicz
+- Leonardo Vanneschi
 - Mengjie Zhang
-- and many more!
 
 ## Organizers
 
