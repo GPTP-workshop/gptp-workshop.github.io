@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "March 27, 2024"
+updated: "April 05, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -34,7 +34,7 @@ See the [contributions page](contributions.html) for information on preparing pr
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2024`](https://twitter.com/search?f=tweets&q=%23gptp2024) (click to search for recent items)
+- hashtag: `#gptp2024`
 
 
 ### Food
