@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Mar 06, 2024"
+updated: "April 09, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -30,6 +30,7 @@ dates: "June 06-08, 2024"
 - Mark Kotanchek
 - Yuri Lavinas
 - Joel Lehman
+- Nuno Lourenço
 - James McDermott
 - Jason Moore
 - Matthew Moreno
