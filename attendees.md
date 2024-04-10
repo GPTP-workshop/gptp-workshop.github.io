@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "April 09, 2024"
+updated: "April 10, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -31,6 +31,7 @@ dates: "June 06-08, 2024"
 - Yuri Lavinas
 - Joel Lehman
 - Nuno Lourenço
+- Penousal Machado
 - James McDermott
 - Jason Moore
 - Matthew Moreno
