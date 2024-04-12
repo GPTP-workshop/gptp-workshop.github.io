@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "April 10, 2024"
+updated: "April 12, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -25,6 +25,7 @@ dates: "June 06-08, 2024"
 - Erik Fredericks
 - Erik Goodman
 - Steven Gustafson
+- Erik Hemberg
 - Inaki Hidalgo	
 - Stephen Kelly	
 - Mark Kotanchek
