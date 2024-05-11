@@ -11,7 +11,7 @@ This schedule is subject to  changes, check the latest version by reloading. Spe
 We normally start at 9:00 am on the first day, that is June 6, 2024,
 and end after lunch on the last day, that is June 8, 2024.  
 
-GPTP-2023 will be held at University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
+GPTP-2024 will be held at University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
 
 ### Thursday, June 6, 2024
 
