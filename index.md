@@ -45,7 +45,7 @@ Please let us know if you have any dietary restrictions for catered meals.
 
 ### Meeting Location
 
-The 2024 meeting location will be at the main campus of University of Michigan.
+The 2024 meeting location will be at the main campus of University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
 A (for-fee) parking garage is available nearby.
 
 <!--
