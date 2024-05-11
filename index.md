@@ -18,6 +18,18 @@ Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated 
 - **June 06-08, 2024:** Keynotes, presentations, and discussions
 - **August 1, 2024:** Deadline for chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip))
 
+### Meeting Location
+
+The 2024 meeting location will be at the main campus of University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
+A (for-fee) parking garage is available nearby.
+
+<!--
+### Accommodations
+There is a block of rooms reserved at the meeting location, the Kellogg Hotel and Convention Center, which can be booked at a special rate.
+Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. There are several other options available, including a number of local AirBnB providers.
+-->
+
+
 ### Organizers for GPTP
 
 (alphabetical order)
@@ -36,23 +48,11 @@ See the [contributions page](contributions.html) for information on preparing pr
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
 - hashtag: `#gptp2024`
 
-
 ### Food
 
 A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. 
 Additionally, at the evening of the first day of the workshop, all attendees will be invited for dinner at the conference location.
 Please let us know if you have any dietary restrictions for catered meals.
-
-### Meeting Location
-
-The 2024 meeting location will be at the main campus of University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
-A (for-fee) parking garage is available nearby.
-
-<!--
-### Accommodations
-There is a block of rooms reserved at the meeting location, the Kellogg Hotel and Convention Center, which can be booked at a special rate.
-Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. There are several other options available, including a number of local AirBnB providers.
--->
 
 ### Transportation
 
