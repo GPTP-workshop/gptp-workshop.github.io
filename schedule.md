@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "Dec 04, 2023"
+updated: "May 11, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -10,9 +10,8 @@ dates: "June 06-08, 2024"
 This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)  
 We normally start at 9:00 am on the first day, that is June 6, 2024,
 and end after lunch on the last day, that is June 8, 2024.  
-<!---
-GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convention Center](https://https://kelloggcenter.com/), East Lansing, MI, 219 S. Harrison Rd.
--->
+
+GPTP-2023 will be held at University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
 
 ### Thursday, June 6, 2024
 
