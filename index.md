@@ -20,7 +20,7 @@ Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated 
 
 ### Meeting Location
 
-The 2024 meeting location will be at the main campus of University of Michigan, LSA Building, ground floor, 500 S State St, Ann Arbor.
+The 2024 meeting location will be at the main campus of University of Michigan, Weiser Hall, 10th floor, 500 Church Street, Ann Arbor.
 A (for-fee) parking garage is available nearby.
 
 <!--
