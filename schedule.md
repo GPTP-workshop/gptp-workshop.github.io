@@ -28,12 +28,12 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
   - 2:00p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University of the Negev): _"Deep learning-based operators for evolutionary algorithms"_
   - 2:15p [Nuno Lourenço](https://www.cisuc.uc.pt/en/people/nuno-lourenco) (University of Coimbra, CISUC/LASI, DEI):  _"Automatic design of autoencoders using neuroevolution"_
   - 2:30p [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) (MIT Computer Science and Artificial Intelligence Lab):  _"Survey of genetic programming and large language models"_
-  - 2:45p [Stephen Kelly](https://) ():  _"Evolving Multi-Domain Problem Solvers"_
+  - 2:45p [Stephen Kelly](http://stephenkelly.ca/) (McMaster University):  _"Evolving Multi-Domain Problem Solvers"_
 - 3:00p _Break/Discussion/Coffee_
 - 4:00p _Lightning Talks_:  
   - 4:00p [Edward Pantridge](https://github.com/erp12) (Spindle Health): _"Code building genetic programming is fast"_
-  - 4:15p [Illya Bakurov](https://) (Michigan State University): _"Sharpness-aware minimization in genetic programming"_
-  - 4:30p [Oscar Garnica](https://) (): _"Tree-based grammatical evolution with non-encoding nodes"_
+  - 4:15p [Illya Bakurov](https://msu.edu/) (Michigan State University): _"Sharpness-aware minimization in genetic programming"_
+  - 4:30p [Oscar Garnica](https://informatica.ucm.es/) (Universidad Complutense de Madrid): _"Tree-based grammatical evolution with non-encoding nodes"_
 - 4:45p _Closing Discussion_
 
 ### Friday, June 7, 2024
@@ -42,14 +42,14 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 9:00a _Keynote_ by [Maria Robelleda](https://) (): _"tbd"_
 - 10:00a _Discussion/Coffee/Break_
 - 10:30a [Lukas Sekanina](https://www.fit.vut.cz/person/sekanina/) (Faculty of Information Technology, Brno University of Technology): _"Genetic Programming with Memory for Approximate Data Reconstruction"_
-- 11:00a [Lee Spector](https://) (): _"Ratcheted radom search for self-programming boolean networks"_
+- 11:00a [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Ratcheted radom search for self-programming boolean networks"_
 - 11:30a [Leonardo Vanneschi](https://magic.novaims.unl.pt/en/about-us/organization/governance/leonardo-vanneschi/) (Universidade Nova de Lisboa): _"Exploring Non-Bloating Geometric Semantic Genetic Programming"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
 - 2:00p _Lightning Talks_: 
   - 2:00p [Bogdan Burlacu](https://heal.heuristiclab.com/) (University of Applied Sciences Upper Austria, HEAL): _"Gradient-based Local Search in Symbolic Regression"_
-  - 2:15p [Chris Crary](https://) ():  _"It's Time to Revisit the Use of FPGAs for Genetic Programming"_
-  - 2:30p [Yuri Lavinas](https://) ():  _"Interpretable genetic programming models for real-world biomedical data"_
+  - 2:15p [Chris Crary](https://github.com/christophercrary) (University of Florida):  _"It's Time to Revisit the Use of FPGAs for Genetic Programming"_
+  - 2:30p [Yuri Lavinas](https://yurilavinas.github.io/) (University of Toulouse):  _"Interpretable genetic programming models for real-world biomedical data"_
   - 2:45p [Stephan Winkler](https://bioinformatics.fh-hagenberg.at/) (University of Applied Sciences Upper Austria, Bioinformatics):  _"How to measure explainabiliy and interpretability of machine learning results"_
 - 3:00p _Discussion/Coffee/Break_
 - 4:00p _Lightning Talks_:  
@@ -61,8 +61,8 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Keynote_ by [Kamaludin Dingle](https://) (): _"tbd"_
 - 10:00a _Discussion/Coffee/Break_
-- 10:30a [Jason Moore](https://) (): _"Hidden lexicase selection parameters: varying population size and test case redundancy with diagnostic metrics"_
-- 11:00a [Charles Ofria](https://) (): _"Using lineage age to augment search space exploratin in lexicase selection"_
+- 10:30a [Jason Moore](https://www.cedars-sinai.edu/research/labs/moore.html) (Cedars-Sinai): _"Hidden lexicase selection parameters: varying population size and test case redundancy with diagnostic metrics"_
+- 11:00a [Charles Ofria](https://ofria.com/) (Michigan State University): _"Using lineage age to augment search space exploratin in lexicase selection"_
 - 11:30a _Closing Discussion_
 - 12:30p _Lunch_
 
