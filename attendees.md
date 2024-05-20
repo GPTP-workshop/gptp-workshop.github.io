@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "April 12, 2024"
+updated: "May 20, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -19,7 +19,6 @@ dates: "June 06-08, 2024"
 - Geoffrey F. Bomarito 
 - Bogdan Burlacu
 - Stu Card
-- Mauro Castelli
 - Christopher C. Crary
 - Alcides Fonseca
 - Erik Fredericks
@@ -47,7 +46,6 @@ dates: "June 06-08, 2024"
 - Lisa Soros
 - Lee Spector
 - Bill Tozier
-- Ryan Urbanowicz
 - Leonardo Vanneschi
 - Mengjie Zhang
 
