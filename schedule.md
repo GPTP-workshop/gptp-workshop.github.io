@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 18, 2024"
+updated: "May 23, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -61,7 +61,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Keynote_ by [Kamaludin Dingle](https://www.gust.edu.kw/faculty-staff/Dingle.K) (Gulf University for Science & Technology): _"Simplicity Bias, Algorithmic Probability, and Biological Evolution"_
 - 10:00a _Discussion/Coffee/Break_
-- 10:30a [Jason Moore](https://www.cedars-sinai.edu/research/labs/moore.html) (Cedars-Sinai): _"Hidden lexicase selection parameters: varying population size and test case redundancy with diagnostic metrics"_
+- 10:30a [- Jose Guadalupe Hernandez](https://www.cedars-sinai.edu/research/labs/moore.html) (Cedars-Sinai): _"Hidden lexicase selection parameters: varying population size and test case redundancy with diagnostic metrics"_
 - 11:00a [Charles Ofria](https://ofria.com/) (Michigan State University): _"Using lineage age to augment search space exploratin in lexicase selection"_
 - 11:30a _Closing Discussion_
 - 12:30p _Lunch_
