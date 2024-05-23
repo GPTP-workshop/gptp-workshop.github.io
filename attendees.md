@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 20, 2024"
+updated: "May 23, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -23,6 +23,7 @@ dates: "June 06-08, 2024"
 - Alcides Fonseca
 - Erik Fredericks
 - Erik Goodman
+- Jose Guadalupe Hernandez
 - Steven Gustafson
 - Erik Hemberg
 - Inaki Hidalgo	
