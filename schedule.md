@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 23, 2024"
+updated: "May 30, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -19,7 +19,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 9:00a _Opening Remarks_
 - 9:15a _Keynote_ by [Allison Earl](https://lsa.umich.edu/psych/people/faculty/anearl.html) (University of Michigan, Psychology): _"TBD"_
 - 10:00a _Break/Discussion/Coffee_
-- 10:30a [Mark Kotanchek](https://evolved-analytics.com/) (Evolved Analytics): _"Representation and reachability: assumtion impact in data modeling"_
+- 10:30a [Mark Kotanchek](https://evolved-analytics.com/) (Evolved Analytics): _"Representation and reachability: assumption impact in data modeling"_
 - 11:00a [Mengjie Zhang](https://people.wgtn.ac.nz/Mengjie.Zhang) (Victoria University of Wellington): _"EvoFeat: genetic programming-based feature engineering approach to tabular data classification"_
 - 11:30a [James McDermott](http://www.jmmcd.net/) (University of Galway): _"Evolving to Extinction: a Case Study in Population Dynamics"_
 - 12:00p _Discussion_
@@ -42,7 +42,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 9:00a _Keynote_ by [Maria Robelleda](https://) (): _"TBD"_
 - 10:00a _Discussion/Coffee/Break_
 - 10:30a [Lukas Sekanina](https://www.fit.vut.cz/person/sekanina/) (Faculty of Information Technology, Brno University of Technology): _"Genetic Programming with Memory for Approximate Data Reconstruction"_
-- 11:00a [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Ratcheted radom search for self-programming boolean networks"_
+- 11:00a [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Ratcheted random search for self-programming boolean networks"_
 - 11:30a [Leonardo Vanneschi](https://magic.novaims.unl.pt/en/about-us/organization/governance/leonardo-vanneschi/) (Universidade Nova de Lisboa): _"Exploring Non-Bloating Geometric Semantic Genetic Programming"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
@@ -50,7 +50,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
   - 2:00p [Bogdan Burlacu](https://heal.heuristiclab.com/) (University of Applied Sciences Upper Austria, HEAL): _"Gradient-based Local Search in Symbolic Regression"_
   - 2:15p [Chris Crary](https://github.com/christophercrary) (University of Florida):  _"It's Time to Revisit the Use of FPGAs for Genetic Programming"_
   - 2:30p [Yuri Lavinas](https://yurilavinas.github.io/) (University of Toulouse):  _"Interpretable genetic programming models for real-world biomedical data"_
-  - 2:45p [Stephan Winkler](https://bioinformatics.fh-hagenberg.at/) (University of Applied Sciences Upper Austria, Bioinformatics):  _"How to measure explainabiliy and interpretability of machine learning results"_
+  - 2:45p [Stephan Winkler](https://bioinformatics.fh-hagenberg.at/) (University of Applied Sciences Upper Austria, Bioinformatics):  _"How to measure explainability and interpretability of machine learning results"_
 - 3:00p _Discussion/Coffee/Break_
 - 4:00p _Lightning Talks_:  
   - 4:00p [Erik Fredericks](https://efredericks.github.io/) (Grand Valley State University): _"Crafting generative art through genetic improvement: managing creative outputs in diverse fitness landscape"_
