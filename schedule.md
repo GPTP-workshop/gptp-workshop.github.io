@@ -1,6 +1,6 @@
 ---
 layout: default
-updated: "May 30, 2024"
+updated: "May 31, 2024"
 roman: "XXI"
 dates: "June 06-08, 2024"
 ---
@@ -17,7 +17,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [Allison Earl](https://lsa.umich.edu/psych/people/faculty/anearl.html) (University of Michigan, Psychology): _"TBD"_
+- 9:15a _Keynote_ by [Allison Earl](https://lsa.umich.edu/psych/people/faculty/anearl.html) (University of Michigan, Psychology): _"Principles of Persuasion: What changes minds"_
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [Mark Kotanchek](https://evolved-analytics.com/) (Evolved Analytics): _"Representation and reachability: assumption impact in data modeling"_
 - 11:00a [Mengjie Zhang](https://people.wgtn.ac.nz/Mengjie.Zhang) (Victoria University of Wellington): _"EvoFeat: genetic programming-based feature engineering approach to tabular data classification"_
@@ -39,7 +39,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 ### Friday, June 7, 2024
 
 - 8:30a _Coffee, juice, pastries, fruit_
-- 9:00a _Keynote_ by [Maria Robelleda](https://) (): _"TBD"_
+- 9:00a _Keynote_ by [Maria Rebolleda](https://ecoevo.bio.uci.edu/people/faculty/maria-rebolleda-gomez/) (University of California, Irvine): _"Engineering ecology, shaping the environment to shape microbial function"_
 - 10:00a _Discussion/Coffee/Break_
 - 10:30a [Lukas Sekanina](https://www.fit.vut.cz/person/sekanina/) (Faculty of Information Technology, Brno University of Technology): _"Genetic Programming with Memory for Approximate Data Reconstruction"_
 - 11:00a [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Ratcheted random search for self-programming boolean networks"_
