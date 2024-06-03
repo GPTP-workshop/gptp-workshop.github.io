@@ -21,15 +21,15 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a [Mark Kotanchek](https://evolved-analytics.com/) (Evolved Analytics): _"Representation and reachability: assumption impact in data modeling"_
 - 11:00a [Mengjie Zhang](https://people.wgtn.ac.nz/Mengjie.Zhang) (Victoria University of Wellington): _"EvoFeat: genetic programming-based feature engineering approach to tabular data classification"_
-- 11:30a [James McDermott](http://www.jmmcd.net/) (University of Galway): _"Evolving to Extinction: a Case Study in Population Dynamics"_
+- 11:30a _Lightning Talks_: 
+  - 11:30a [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) (MIT Computer Science and Artificial Intelligence Lab):  _"Survey of genetic programming and large language models"_
+  - 11:45a [Stephen Kelly](http://stephenkelly.ca/) (McMaster University):  _"Evolving Multi-Domain Problem Solvers"_
 - 12:00p _Discussion_
 - 12:30p _Lunch_
 - 2:00p _Lightning Talks_: 
   - 2:00p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University of the Negev): _"Deep learning-based operators for evolutionary algorithms"_
   - 2:15p [Nuno Lourenço](https://www.cisuc.uc.pt/en/people/nuno-lourenco) (University of Coimbra, CISUC/LASI, DEI):  _"Automatic design of autoencoders using neuroevolution"_
-  - 2:30p [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) (MIT Computer Science and Artificial Intelligence Lab):  _"Survey of genetic programming and large language models"_
-  - 2:45p [Stephen Kelly](http://stephenkelly.ca/) (McMaster University):  _"Evolving Multi-Domain Problem Solvers"_
-- 3:00p _Break/Discussion/Coffee_
+- 2:30p _Break/Discussion/Coffee_
 - 4:00p _Lightning Talks_:  
   - 4:00p [Edward Pantridge](https://github.com/erp12) (Spindle Health): _"Code building genetic programming is fast"_
   - 4:15p [Illya Bakurov](https://msu.edu/) (Michigan State University): _"Sharpness-aware minimization in genetic programming"_
