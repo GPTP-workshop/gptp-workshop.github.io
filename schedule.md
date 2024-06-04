@@ -29,7 +29,7 @@ GPTP-2024 will be held at the main campus of University of Michigan, Weiser Hall
 - 2:00p _Lightning Talks_: 
   - 2:00p [Moshe Sipper](https://www.moshesipper.com/) (Ben-Gurion University of the Negev): _"Deep learning-based operators for evolutionary algorithms"_
   - 2:15p [Nuno Lourenço](https://www.cisuc.uc.pt/en/people/nuno-lourenco) (University of Coimbra, CISUC/LASI, DEI):  _"Automatic design of autoencoders using neuroevolution"_
-- 2:30p _Break/Discussion/Coffee_
+- 2:30p _Discussion: Universal GP implementations; Standards for GP components; GP and Deep Learning_
 - 4:00p _Lightning Talks_:  
   - 4:00p [Edward Pantridge](https://github.com/erp12) (Spindle Health): _"Code building genetic programming is fast"_
   - 4:15p [Illya Bakurov](https://msu.edu/) (Michigan State University): _"Sharpness-aware minimization in genetic programming"_
