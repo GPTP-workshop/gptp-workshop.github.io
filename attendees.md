@@ -22,18 +22,16 @@ dates: "June 06-08, 2024"
 - Christopher C. Crary
 - Alcides Fonseca
 - Erik Fredericks
-- Erik Goodman
+- Oscar Garnica
 - Jose Guadalupe Hernandez
 - Steven Gustafson
 - Erik Hemberg
-- Inaki Hidalgo	
 - Stephen Kelly	
 - Mark Kotanchek
 - Yuri Lavinas
 - Joel Lehman
 - Nuno Lourenço
 - Penousal Machado
-- James McDermott
 - Jason Moore
 - Matthew Moreno
 - Aidan Murphy
@@ -44,7 +42,6 @@ dates: "June 06-08, 2024"
 - Ken Reid
 - Moshe Sipper
 - Lukas Sekanina	
-- Lisa Soros
 - Lee Spector
 - Bill Tozier
 - Leonardo Vanneschi
