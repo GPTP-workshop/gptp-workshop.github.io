@@ -1,27 +1,29 @@
 ---
 layout: default
-updated: "May 16, 2024"
-roman: "XXI"
-dates: "June 06-08, 2024"
+updated: "January 18, 2025"
+roman: "XXII"
+dates: "June 04-06, 2025"
 ---
 
-<!-- ## GPTP Sandbox 2022 -->
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2024 by the University of Michigan in Ann Arbor, MI. This year's conference will be held June 06-08, 2024.
-
-<!-- Genetic Programming Theory & Practice is a small, invitation-only workshop.
-In June 2024, GPTP will return to  University of Michigan, Ann Arbor, MI.
-Fall 2022 will see the premiere of GPTP Sandbox, an online GPTP event dedicated to the work of PhD students working in GP as well as social media activities for promoting genetic programming. -->
+Genetic Programming Theory & Practice (GPTP) is a small, invitation-only workshop.
+This year's GPTP will be hosted by Michigan State University in East Lansing, MI on June 04-06, 2025.
 
 ### Important Dates
 
-- **May 15, 2024:** Deadline for draft versions of chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip))
-- **June 06-08, 2024:** Keynotes, presentations, and discussions
-- **August 1, 2024:** Deadline for chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip))
+<!-- - **May 15, 2024:** Deadline for draft versions of chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip)) -->
+- **June 04-06, 2025:** Keynotes, presentations, and discussions
+<!-- - **August 1, 2024:** Deadline for chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip)) -->
+
+More important dates coming soon!
 
 ### Meeting Location
 
-The 2024 meeting location will be at the main campus of University of Michigan, Weiser Hall, 10th floor, 500 Church Street, Ann Arbor.
-A (for-fee) parking garage is available nearby.
+The 2025 meeting will be held on the main campus of Michigan State University in the [Interdisciplinary Science and Technology building](https://maps.app.goo.gl/gCQAdK981z6yGJwa6) on the first floor in Room 1404.
+
+Building address: Michigan State University, 766 Service Rd, East Lansing, MI 48823
+
+<!-- Parking? -->
+
 
 <!--
 ### Accommodations
@@ -35,28 +37,34 @@ Additionally, a list of bed-and-breakfast inns, hotels and motels is provided. T
 (alphabetical order)
 
 - [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/)
-- [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu)
-- [Alexander Lalejini](https://www.gvsu.edu/computing/lalejini-alexander-111.htm)
-- [Stephan Winkler](http://bioinformatics.fh-hagenberg.at/site/index.php?id=36)
+- [Bogdan Burlacu](https://heal.heuristiclab.com/team/burlacu)
+- [Stephen Kelly](http://creativealgorithms.ca/)
+- [Alexander Lalejini](https://lalejini.com)
+- [Fabricio Olivetti](https://folivetti.github.io/)
 
 ### Information for Speakers and Authors
 
-See the [contributions page](contributions.html) for information on preparing presentations and publications, and the [schedule page](schedule.html) for the detailed workshop schedule. See the restaurant page for information on local restaurants for informal meetings in the evening.
+See the [contributions page](contributions.html) for information on preparing presentations and publications, and the [schedule page](schedule.html) for the detailed workshop schedule.
+See the restaurant page for information on local restaurants for informal meetings in the evening.
 
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- hashtag: `#gptp2024`
+- Workshop hashtag: `#gptp2025`
 
-### Food
+<!-- ### Food
 
-A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. 
+A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants.
 Additionally, at the evening of the first day of the workshop, all attendees will be invited for dinner at the conference location.
-Please let us know if you have any dietary restrictions for catered meals.
+Please let us know if you have any dietary restrictions for catered meals. -->
 
 ### Transportation
 
-Flights should be scheduled to the Detroit Metro Airport (DTW). From Detroit, the Michigan Flyer/AirRide shuttle can be arranged which is an affordable and convenient mode of transportation to Ann Arbor. Travel time on the bus is about 1 hour. Alternatively, you might want to rent a car at DTW.
+Flights can be scheduled to the [Detroit Metro Airport (DTW)](https://www.metroairport.com/) or the [Capital Region International Airport (LAN)](https://www.flylansing.com/) in Lansing.
+
+From Detroit, the [Michigan Flyer/AirRide shuttle](https://www.michiganflyer.com/) can be arranged, which is an affordable and convenient mode of transportation to Michigan State. Travel time on the bus is about 1 hour. Alternatively, you might want to rent a car at DTW.
+
+The Lansing airport is an approximately 15-minute drive from the Michigan State University campus.
 
 
 <!-- Transportation options should be considered before actually embarking on the trip.
