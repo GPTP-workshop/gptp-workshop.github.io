@@ -3,6 +3,7 @@ layout: default
 updated: "January 18, 2025"
 roman: "XXII"
 dates: "June 04-06, 2025"
+university: Michigan State University
 ---
 
 Genetic Programming Theory & Practice (GPTP) is a small, invitation-only workshop.
