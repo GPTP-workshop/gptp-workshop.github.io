@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 17, 2021"
-roman: "XVIII"
-dates: "May 19-21, 2021"
+layout: old
+year: 2021
 ---
 
 ## GPTP 2021 is held online - Please use Zoom to join in
@@ -28,7 +26,7 @@ Due to the online character of the 2021 GPTP Workshop, days will run only from 1
 
 ## Proceedings Volume
 
-- **May 15, 2021:** In order to minimize delays with the book coming out of the workshop, we ask contributors to provide their friendly review in writing to the authors of papers they reviewed.  
+- **May 15, 2021:** In order to minimize delays with the book coming out of the workshop, we ask contributors to provide their friendly review in writing to the authors of papers they reviewed.
 - **August 1, 2021:** Revised papers are due.
 - **September 1, 2021:** Submission to Springer Production
 - **February 1, 2022:** Anticipated date of publication of the volume
@@ -40,9 +38,9 @@ The GPTP 2021 formatting instructions are similar to those of earlier editions: 
 
 
 ## Keynote Talks
-[Randolph Nesse](https://www.randolphnesse.com/) Research Professor of Life Sciences, and Founding Director (2014-2019), 
+[Randolph Nesse](https://www.randolphnesse.com/) Research Professor of Life Sciences, and Founding Director (2014-2019),
 The Center for Evolution and Medicine, Arizona State University:
-**"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"** 
+**"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"**
 
 [Elizabeth Barnes](https://www.atmos.colostate.edu/people/faculty/barnes/), Associate Professor, Dept. of Atmospheric Science, Colorado State University:
 **"Viewing Anthropogenic Change Through an AI Lens"**
@@ -51,7 +49,7 @@ The Center for Evolution and Medicine, Arizona State University:
 **"GP considered Dangerous"**
 
 
-## Regular Presentations 
+## Regular Presentations
 [W.B. Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/), Professor, Dept. of Computer Science, University College London:
 **"Fitness First"**
 
@@ -79,7 +77,7 @@ The Center for Evolution and Medicine, Arizona State University:
 [Lee Spector](http://faculty.hampshire.edu/lspector/), Professor, Hampshire College:
 **"Analysis of GLEAM: Genetic Learning by Extraction and Absorption of Modules"**
 
-[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU: 
+[Emily Dolson](https://cse.msu.edu/~dolsonem/), Assistant Prof, MSU:
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
 
 [Mark Kotanchek](https://www.researchgate.net/profile/Mark-Kotanchek) Evolved Analytics LLC:

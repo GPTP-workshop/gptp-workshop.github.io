@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "January 29, 2018"
-roman: "XV"
-dates: "May 18–20, 2017"
+year: 2017
 ---
 # Accommodations
 

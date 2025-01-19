@@ -1,0 +1,50 @@
+
+workshop:
+  gptp2025:
+    roman: "XXII"
+    dates: "June 04-06, 2025"
+    venue: Michigan State University
+  gptp2024:
+    updated: "Mar 08, 2024"
+    roman: "XXI"
+    dates: "June 06-08, 2024"
+    venue: University of Michigan
+  gptp2023:
+    updated: "March 31, 2023"
+    roman: "XX"
+    dates: "Jun 01-03, 2023"
+    venue: Michigan State University
+  gptp2022:
+    updated: "Apr 5, 2022"
+    roman: "XIX"
+    dates: "June 2-4, 2022"
+    venue: University of Michigan
+  gptp2021:
+    updated: "May 4, 2021"
+    roman: "XVIII"
+    dates: "May 19-21, 2021"
+    venue: Online
+  gptp2019:
+    updated: "March 17, 2019"
+    roman: "XVII"
+    dates: "May 16-19, 2019"
+    venue: Michigan State University
+  gptp2018:
+    updated: "February 28, 2018"
+    roman: "XVI"
+    dates: "May 17-20, 2018"
+    venue: University of Michigan
+  gptp2017:
+    updated: "January 29, 2018"
+    roman: "XV"
+    dates: "May 18–20, 2017"
+    venue: University of Michigan
+  gptp2016:
+    updated: "June 1, 2016"
+    roman: "XIV"
+    dates: "May 19–21, 2016"
+    venue: University of Michigan
+  default:
+    updated: ""
+    roman: ""
+    dates: ""

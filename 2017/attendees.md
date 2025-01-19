@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "April 24, 2017"
-roman: "XV"
-dates: "May 18–20, 2017"
+year: 2017
 ---
 
 # Participants

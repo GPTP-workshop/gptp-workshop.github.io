@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "June 2, 2022"
-roman: "XIX"
-dates: "June 2-4, 2022"
+layout: old
+year: 2022
 ---
 
 ### Location
@@ -16,9 +14,9 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 - 9:15a [Frank Crary](https://lasp.colorado.edu/home/mop/home/people/), University of Colorado Boulder
 **"Exploration of the solar system by robotic spacecraft: What is happening, what the software on these spacecraft is like, and how more sophisticated software could help"**
 - 10:15a _Break/Discussion/Coffee_
-- 10:45a [Jason Moore](https://en.wikipedia.org/wiki/Jason_H._Moore) 
+- 10:45a [Jason Moore](https://en.wikipedia.org/wiki/Jason_H._Moore)
 **"Genetic programming as an innovation engine for automated machine learning"**
-- 11:30a [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/) 
+- 11:30a [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/)
 **"STREAMLINE - A Rigorous Automated Machine Learning Comparative Analysis Pipeline"**
 - 12:15p _Discussion_
 - 12:45p _Lunch in Room_
@@ -68,9 +66,9 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 - 11:30a [Erik Hemberg](https://alfagroup.csail.mit.edu/erik) / [Una-May O'Reilly](https://www.csail.mit.edu/person/una-may-oreilly)
 **"GUI-Based, Efficient Genetic Programming For Unity3D"**
 - 12:15p _Break/Discussion/Coffee_
-- 12:45p [Penousal Machado](https://cdv.dei.uc.pt/authors/penousal-machado/) 
+- 12:45p [Penousal Machado](https://cdv.dei.uc.pt/authors/penousal-machado/)
 **"GP-Based Generative Adversarial Models"**
-- 1:30p _Closing Discussion_ 
+- 1:30p _Closing Discussion_
 - 2:00p OFFICIAL END OF WORKSHOP
 - After 2:00p _Potentially reconvene informally at various lunch or coffee places in town_
 
@@ -78,7 +76,7 @@ GPTP-2022 will be held at the University of Michigan, in [Weiser Hall](https://s
 ### For travel preparations
 
 We normally start at 9:00 am on the first day, that is June 2, 2022,
-and end after lunch on the last day, that is June 4, 2022. Please plan 
+and end after lunch on the last day, that is June 4, 2022. Please plan
 to arrive a few minutes early to take a COVID test prior to being seated.
 
 [This schedule is subject to minor changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)]

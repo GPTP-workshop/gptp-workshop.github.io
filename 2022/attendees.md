@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "Jun 11, 2022"
-roman: "XIX"
-dates: "June 2-4, 2022"
+layout: old
+year: 2022
 ---
 
 

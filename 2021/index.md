@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "Mar 31, 2021"
-roman: "XVIII"
-dates: "May 19-21, 2021"
+layout: old
+year: 2021
 ---
 ## ANNOUNCEMENT
 ## The GPTP Workshop 2021 will be held online, Wed 19 to Fri 21, 12:00 pm - 5:00 pm EDT!

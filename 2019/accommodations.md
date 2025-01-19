@@ -1,8 +1,6 @@
 ---
 layout: default
-updated: "March 17, 2019"
-roman: "XVII"
-dates: "May 16-19, 2019"
+year: 2019
 ---
 
 # Accommodations
@@ -30,7 +28,7 @@ _Relatively_ close. Discount details available on the lodging channel of slack.
 East Lansing, MI 48824
 {: .address}
 
-Spacious hotel, downtown East Lansing. 
+Spacious hotel, downtown East Lansing.
 
 
 
@@ -40,7 +38,7 @@ Spacious hotel, downtown East Lansing.
 East Lansing, MI 48823
 {: .address}
 
-Spacious hotel, close to university campus, in walking distance. 
+Spacious hotel, close to university campus, in walking distance.
 
 
 ### [Residence Inn by Marriott](https://www.marriott.com/reservation/rateListMenu.mi)
@@ -49,7 +47,7 @@ Spacious hotel, close to university campus, in walking distance.
 East Lansing, MI 48823
 {: .address}
 
-Spacious hotel, close to university campus, in walking distance. 
+Spacious hotel, close to university campus, in walking distance.
 
 
 
@@ -66,7 +64,7 @@ Lansing, MI 48912
 ### [Comfort Inn Okemos - East Lansing](https://www.choicehotels.com/michigan/okemos/comfort-inn-hotels/mi306?source=gyxt)
 
 2187 University Park Dr.\\
-Okemos, MI 48864 
+Okemos, MI 48864
 {: .address}
 
 8 miles from campus. On bus route.
@@ -75,7 +73,7 @@ Okemos, MI 48864
 ### [Hyatt Place, Lansing, Eastwood Towne Center](https://www.hyatt.com/en-US/hotel/michigan/hyatt-place-lansing-eastwood-towne-center/lanzl)
 
 2401 Showtime Dr.\\
-Lansing, MI 48912 
+Lansing, MI 48912
 {: .address}
 
 Lansing Mall area, easily reachable by car.

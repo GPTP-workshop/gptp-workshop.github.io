@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "May 18, 2017"
-roman: "XV"
-dates: "May 18–20, 2017"
+year: 2017
 ---
 
 ## Detailed schedule and presentation titles

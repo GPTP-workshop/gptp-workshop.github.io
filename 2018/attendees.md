@@ -1,8 +1,6 @@
 ---
 layout: default
-updated: "May 5, 2018"
-roman: "XVI"
-dates: "May 17-20, 2018"
+year: 2018
 ---
 \[see [schedule](schedule.html) for details]
 

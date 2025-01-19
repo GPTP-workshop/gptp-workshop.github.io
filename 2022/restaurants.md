@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 30, 2022"
-roman: "XIX"
-dates: "June 2-4, 2022"
+layout: old
+year: 2022
 ---
 
 
@@ -17,7 +15,7 @@ Jolly Pumpkin on Main Street is a great brewery with fun food. They also have a 
 
 -[Knights](https://knightsrestaurants.com/), 600 E. Liberty St, Ann Arbor
 
-Knights on Liberty, near State, is of course great for eating and drinking - would reserve but probably don't need to on a Wednesday night. 
+Knights on Liberty, near State, is of course great for eating and drinking - would reserve but probably don't need to on a Wednesday night.
 
 -[SAVA's](https://www.savasannarbor.com/), 216 S. State St, Ann Arbor
 
@@ -61,8 +59,8 @@ Pacific Rim is another other high end favorite
 
 -[The Blue Llama](https://www.bluellamaclub.com/), 314 S. Main St, Ann Arbor
 
-The Blue Llama is high end jazz club, new on Main Street 
+The Blue Llama is high end jazz club, new on Main Street
 
 -[The Last Word](https://thelastwordbar.com/food-menu), 301 W. Huron St, Ann Arbor
 
-If you are looking for a cool 'speakeasy' with fabulous cocktails and a nice selection of small plates check out The Last Word (behind an unmarked door) 
+If you are looking for a cool 'speakeasy' with fabulous cocktails and a nice selection of small plates check out The Last Word (behind an unmarked door)

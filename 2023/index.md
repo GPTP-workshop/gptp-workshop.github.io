@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "March 31, 2023"
-roman: "XX"
-dates: "June 01-03, 2023"
+layout: old
+year: 2023
 ---
 
 <!-- ## GPTP Sandbox 2022 -->
@@ -37,7 +35,7 @@ See the [contributions page](contributions.html) for information on preparing pr
 
 ### Food
 
-A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. 
+A light breakfast of pastries, fresh fruit, meats, cream cheese, yoghurt and coffee will be provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants.
 Additionally, at the evening of the first day of the workshop, all attendees will be invited for dinner at the conference location.
 Please let us know if you have any dietary restrictions for catered meals.
 

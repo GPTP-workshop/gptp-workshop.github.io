@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "March 31, 2023"
-roman: "XX"
-dates: "Jun 01-03, 2023"
+layout: old
+year: 2023
 ---
 
 # Contributions

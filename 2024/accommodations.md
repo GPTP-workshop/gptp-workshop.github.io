@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "Mar 08, 2024"
-roman: "XXI"
-dates: "June 06-08, 2024"
+layout: old
+year: 2024
 ---
 
 # Accommodations
@@ -15,7 +13,7 @@ The following hotels are conveniently close to the workshop venue. Some of them 
 Ann Arbor, MI 48109
 {: .address}
 
-_Super_ close to the workshop venue, literally down the street. Highly regarded by the folks who stayed there last year. 
+_Super_ close to the workshop venue, literally down the street. Highly regarded by the folks who stayed there last year.
 There are five rooms blocked for GPTP'ers; the rate is $167/night (parking is an additional $28.80/day at the Forest Structure), reservations will need to be made by May 15, 2024. If you would like to reserve a room, then please do so [online](https://bookings.travelclick.com/76008?groupID=4273830&hotelID=76008#/guestsandrooms)!
 
 ### [The Bell Tower Hotel](https://www.belltowerhotel.com)
@@ -33,7 +31,7 @@ There are three rooms blocked for GPTP'ers for around $239/night (on average). P
 Ann Arbor, MI 48104
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. 
+Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years.
 
 ### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
 
@@ -41,7 +39,7 @@ Very small venue, but extremely convenient to the workshop location, and a favor
 Ann Arbor, MI 48108
 {: .address}
 
-Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
+Not close to the workshop venue, but convenient to the freeway and offering a shuttle service.
 
 ### [Courtyard by Marriott](https://www.marriott.com/en-us/hotels/arbch-courtyard-ann-arbor/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
@@ -69,13 +67,13 @@ Ann Arbor, MI 48108
 Ann Arbor, MI 48108
 {: .address}
 
-Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. 
+Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable.
 Offers breakfast included.
 
 
 ## Other Downtown (within walking distance, 20 minutes+)
 
-### [The Stone Chalet B&B](https://www.stonechalet.com/) 
+### [The Stone Chalet B&B](https://www.stonechalet.com/)
 
 1917 Washtenaw Avenue
 Ann Arbor, MI 48104

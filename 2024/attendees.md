@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 23, 2024"
-roman: "XXI"
-dates: "June 06-08, 2024"
+layout: old
+year: 2024
 ---
 
 # Participants
@@ -16,7 +14,7 @@ dates: "June 06-08, 2024"
 ## Attending
 
 - Illya Bakurov
-- Geoffrey F. Bomarito 
+- Geoffrey F. Bomarito
 - Bogdan Burlacu
 - Stu Card
 - Christopher C. Crary
@@ -26,7 +24,7 @@ dates: "June 06-08, 2024"
 - Jose Guadalupe Hernandez
 - Steven Gustafson
 - Erik Hemberg
-- Stephen Kelly	
+- Stephen Kelly
 - Mark Kotanchek
 - Yuri Lavinas
 - Joel Lehman
@@ -41,7 +39,7 @@ dates: "June 06-08, 2024"
 - Anselmo Pontes
 - Ken Reid
 - Moshe Sipper
-- Lukas Sekanina	
+- Lukas Sekanina
 - Lee Spector
 - Bill Tozier
 - Leonardo Vanneschi

@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "June 1, 2016"
-roman: "XIV"
-dates: "May 19–21, 2016"
+year: 2016
 ---
 
 ## Important Dates

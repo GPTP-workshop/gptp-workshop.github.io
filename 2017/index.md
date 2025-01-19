@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "January 29, 2018"
-roman: "XV"
-dates: "May 18-20, 2017"
+year: 2017
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan in Ann Arbor, MI. This year's conference will be held {{page.dates}}.
 

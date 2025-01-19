@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "Apr 5, 2022"
-roman: "XIX"
-dates: "June 2-4, 2022"
+layout: old
+year: 2022
 ---
 
 # Accommodations
@@ -16,8 +14,8 @@ The following hotels are conveniently close to the workshop venue. Some of them 
 Ann Arbor, MI 48109-1234
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. 
-There are a few rooms set aside for GPTP at a rate of $199. 
+_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year.
+There are a few rooms set aside for GPTP at a rate of $199.
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
@@ -25,7 +23,7 @@ There are a few rooms set aside for GPTP at a rate of $199.
 Ann Arbor, MI 48104
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. 
+Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years.
 
 ### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
 
@@ -33,7 +31,7 @@ Very small venue, but extremely convenient to the workshop location, and a favor
 Ann Arbor, MI 48108
 {: .address}
 
-Not close to the workshop venue, but convenient to the freeway and offering a shuttle service. 
+Not close to the workshop venue, but convenient to the freeway and offering a shuttle service.
 
 ### [Kensington Hotel](http://www.kcourtaa.com)
 
@@ -41,7 +39,7 @@ Not close to the workshop venue, but convenient to the freeway and offering a sh
 Ann Arbor, MI 48108
 {: .address}
 
-Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable. 
+Recently renovated. Near Briarwood Mall in the south end of town, and therefore not walkable.
 Offers breakfast included.
 
 

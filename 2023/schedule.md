@@ -1,15 +1,13 @@
 ---
-layout: default
-updated: "May 30, 2023"
-roman: "XX"
-dates: "June 1-3, 2023"
+layout: old
+year: 2023
 ---
 
 # Schedule
 
-This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)  
+This schedule is subject to  changes, check the latest version by reloading. Speakers: Should you need to request a change, please post to the contribution channel on [Slack!](https://gptp-workshops.slack.com)
 We normally start at 9:00 am on the first day, that is June 1, 2023,
-and end after lunch on the last day, that is June 3, 2023.  
+and end after lunch on the last day, that is June 3, 2023.
 GPTP-2023 will be held at Michigan State University, in [Kellogg Hotel & Convention Center](https://https://kelloggcenter.com/), East Lansing, MI, 219 S. Harrison Rd.
 
 ### Thursday, June 1, 2023
@@ -26,7 +24,7 @@ Coevolutionary Algorithm with Spatial Topology"_
 - 1:30p [Nathan Haut](https://www.cse.msu.edu/~hautn/) (Michigan State University): _"Accelerating Image Analysis Research with Active Learning Techniques in Genetic Programming"_
 - 2:15p [Wolfgang Banzhaf](https://www.cse.msu.edu/~banzhafw/) (Michigan State University):  _"Neutrality"_
 - 3:00p _Break/Discussion/Coffee_
-- 3:30p _Lightning Talks_:  
+- 3:30p _Lightning Talks_:
   - 3:30p [Nic McPhee](https://academics.morris.umn.edu/nic-mcphee) (University of Minnesota): _"The Impact of Step Limits on Generalization &
 Stability in Software Synthesis"_
   - 3:45p [Iñaki Hidalgo](https://www.ucm.es/directorio?id=9382) (Universidad Complutense de Madrid): _"Genetic Programming Techniques for Glucose Prediction in people with Diabetes"_
@@ -62,7 +60,7 @@ Real-World Applications in Magnetization, Extrusion and Data Validation"_
 ### Saturday, June 3, 2023
 - 8:30a _Coffee, juice, pastries, fruit_
 - 9:00a _Opening Remarks_
-- 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster) (Univ. Idaho) 
+- 9:15a _Keynote_ by [James Foster](https://www.uidaho.edu/sci/biology/people/faculty/foster) (Univ. Idaho)
 - 10:00a _Break/Discussion/Coffee_
 - 10:30a _Lightning Talks_:
   - 10:30a [Lisa Soros](https://cs.barnard.edu/profiles/lisa-soros) (Barnard College): _"Exploiting Failure in Evolution"_

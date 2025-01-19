@@ -18,12 +18,33 @@
 </head>
   <body>
     {% include header.liquid %}
-
+    {% if page.year %}
+      {% assign year = "gptp" | append: page.year %}
+    {% else %}
+      {% assign year = "default" %}
+    {% endif %}
     <div class="container">
       <div class="col-sm-12">
- <!--        <h1><a href="index.html">Genetic Programming Theory & Practice - Sandbox {{page.roman}}</a></h1>  -->
-        <h1><a href="index.html">Genetic Programming Theory & Practice {{page.roman}}</a></h1>
-        <div class="dateline">{{page.university}} • {{page.dates}} <hr /></div>
+        <h1><a href="index.html">
+          Genetic Programming Theory & Practice
+          {% if page.roman %}
+            {{ page.roman }}
+          {% elsif site.data.info.workshop[year].roman %}
+            {{ site.data.info.workshop[year].roman }}
+          {% endif %}
+        </a></h1>
+        <div class="dateline">
+          {% if page.venue %}
+            {{ page.venue }} •
+          {% elsif site.data.info.workshop[year].venue %}
+            {{ site.data.info.workshop[year].venue }} •
+          {% endif %}
+          {% if page.dates %}
+            {{ page.dates }}
+          {% elsif site.data.info.workshop[year].dates %}
+            {{ site.data.info.workshop[year].dates }}
+          {% endif %}
+          <hr /></div>
         <div class="col-sm-12">
         {{ content }}
         </div>

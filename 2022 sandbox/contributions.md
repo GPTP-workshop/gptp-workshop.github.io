@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: old
 updated: "Oct 17, 2022"
 roman: "XIX"
 dates: "Nov 17-18, 2022"
@@ -17,7 +17,7 @@ dates: "Nov 17-18, 2022"
 **All presentations and interactions will be online.**
 
 There are two invited keynote lectures, one at the beginning of each of the two days of the workshop. Keynotes will be scheduled for one hour each, with some
-leeway for adding time for questions and discussion. 
+leeway for adding time for questions and discussion.
 
 Presentations by PhD students  will be scheduled for 15 minutes each, with an additional 15 minutes time for feedback and discussion immediately following.
 
@@ -28,7 +28,7 @@ On the second day, there will be group discussions dedicated to promoting GP onl
 - Bill Langdon
 - Holly Bik
 
-## PhD Student Presentations 
+## PhD Student Presentations
 
 - Itai Tzruia (supervised by Moshe Sipper)
 - Tomer Halperin (supervised by Moshe Sipper)

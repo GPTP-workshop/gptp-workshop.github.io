@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "Feb 04, 2024"
-roman: "XXI"
-dates: "June 06-08, 2024"
+layout: old
+year: 2024
 ---
 
 # Contributions

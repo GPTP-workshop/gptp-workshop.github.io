@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 4, 2021"
-roman: "XVIII"
-dates: "May 19-21, 2021"
+layout: old
+year: 2021
 ---
 
 

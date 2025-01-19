@@ -1,8 +1,6 @@
 ---
 layout: default
-updated: "May 13, 2019"
-roman: "XVII"
-dates: "May 16-19, 2019"
+year: 2019
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2019 by the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/) at Michigan State University in East Lansing, MI. This year's conference will be held May 16-19, 2019.
 

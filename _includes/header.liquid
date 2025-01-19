@@ -1,3 +1,9 @@
+{% if page.year %}
+  {% assign year = "gptp" | append: page.year %}
+{% else %}
+  {% assign year = "default" %}
+{% endif %}
+
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -13,7 +19,15 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="index.html">GPTP {{page.roman}}<span class="sr-only">(current)</span></a></li>
+        <li><a href="index.html">
+          GPTP
+          {% if page.roman %}
+            {{ page.roman }}
+          {% elsif site.data.info.workshop[year].roman %}
+            {{ site.data.info.workshop[year].roman }}
+          {% endif %}
+          <span class="sr-only">(current)</span>
+        </a></li>
         <li><a href="accommodations.html">Accommodations</a></li>
 	<li><a href="restaurants.html">Restaurants</a></li>
         <li><a href="attendees.html">Participants</a></li>

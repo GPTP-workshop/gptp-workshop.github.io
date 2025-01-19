@@ -1,8 +1,6 @@
 ---
 layout: default
-updated: "May 6, 2019"
-roman: "XVII"
-dates: "May 16-19, 2019"
+year: 2019
 ---
 
 ## Important Dates

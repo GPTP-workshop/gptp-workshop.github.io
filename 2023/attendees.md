@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 29, 2023"
-roman: "XX"
-dates: "June 01-03, 2023"
+layout: old
+year: 2023
 ---
 
 # Participants

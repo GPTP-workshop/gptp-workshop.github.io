@@ -1,8 +1,6 @@
 ---
 layout: old
-updated: "April 24, 2017"
-roman: "XV"
-dates: "May 18–20, 2017"
+year: 2017
 ---
 
 ## Important Dates
@@ -23,7 +21,7 @@ We will also _try_ to leave an hour for two or three short "lightning" presentat
 
 ## Proceedings Volume
 
-- **June 1, 2017:** In order to minimize delays with the book coming out of the workshop, we ask contributors to provide their friendly review in writing to the authors of papers they reviewed.  
+- **June 1, 2017:** In order to minimize delays with the book coming out of the workshop, we ask contributors to provide their friendly review in writing to the authors of papers they reviewed.
 - **August 1, 2017:** Revised papers are due.
 - **September 1, 2017:** Submission to Springer Production
 - **March 1, 2018:** Anticipated date of publication of the volume

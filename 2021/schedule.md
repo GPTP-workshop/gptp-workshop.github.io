@@ -1,8 +1,6 @@
 ---
-layout: default
-updated: "May 21, 2021"
-roman: "XVIII"
-dates: "May 19-21, 2021"
+layout: old
+year: 2021
 ---
 
 
@@ -32,9 +30,9 @@ dates: "May 19-21, 2021"
 ### Thursday 20 May, 2021
 - 11:45a _Welcome and Social Mingling_
 - 12:00p [Randolph Nesse](https://www.randolphnesse.com/) The Center for Evolution and Medicine, Arizona State University
-**"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"** 
+**"Why Evolved Systems Fail and the Mystery of Health - The Perspective of Evolutionary Medicine"**
 - 1:00p _Break/Discussion/Coffee_
-- 1:15p **Talk 1:** [Emily Dolson](https://cse.msu.edu/~dolsonem/): 
+- 1:15p **Talk 1:** [Emily Dolson](https://cse.msu.edu/~dolsonem/):
 **"What can phylogenetic metrics tell us about useful diversity in evolutionary algorithms?"**
 - 1:30p **Talk 2:** [Jose Guadalupe Hernandez](), [Alex Lalejini](https://lalejini.com/) and [Charles Ofria](https://ofria.com/):
 **"An Exploration of Exploration: Measuring the ability of lexicase selection to find obscure pathways to optimality"**
