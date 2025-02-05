@@ -17,10 +17,3 @@ url: "http://gptp-workshop.com" # the base hostname & protocol for your site
 markdown: kramdown
 
 exclude: ['config.ru', 'vendor','Gemfile', 'Gemfile.lock',  'Rakefile', 'README.md']
-
-plugins:
-  - kramdown
-  - jekyll-last-modified-at
-
-last-modified-at:
-    date-format: '%d-%b-%y'
