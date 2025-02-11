@@ -4,7 +4,7 @@ year: 2025
 ---
 
 Genetic Programming Theory & Practice (GPTP) is a small, invitation-only workshop.
-This year's GPTP will be hosted by Michigan State University in East Lansing, MI on June 04-06, 2025.
+This year's GPTP will be hosted by Michigan State University in East Lansing, MI on June 05-07, 2025.
 
 ### Important Dates
 
