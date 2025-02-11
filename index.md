@@ -9,7 +9,7 @@ This year's GPTP will be hosted by Michigan State University in East Lansing, MI
 ### Important Dates
 
 <!-- - **May 15, 2024:** Deadline for draft versions of chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip)) -->
-- **June 04-06, 2025:** Keynotes, presentations, and discussions
+- **June 05-07, 2025:** Keynotes, presentations, and discussions
 <!-- - **August 1, 2024:** Deadline for chapters (please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2024.zip)) -->
 
 More important dates coming soon!

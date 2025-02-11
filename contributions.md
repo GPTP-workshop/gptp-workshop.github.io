@@ -9,7 +9,7 @@ year: 2025
 
 <!-- - **Jan 2024:** Invitation of keynote speakers
 - **Jan-Mar 2024:** Invitation of workshop participants -->
-- **June 04-06, 2025:** Keynotes, presentations, and discussions
+- **June 05-07, 2025:** Keynotes, presentations, and discussions
 
 *More important dates coming soon!*
 
