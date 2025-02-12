@@ -11,7 +11,13 @@ year: 2025
 
 ## Attending
 
-*Coming soon!*
+- Erik Fredericks
+- Pablo Giuliani
+- Malcolm Heywood
+- Moshe Sipper
+- Leonardo Trujillo
+- Jason Moore
+- ... and more!
 
 ## Organizers
 
