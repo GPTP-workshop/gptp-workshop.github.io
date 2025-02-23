@@ -11,12 +11,18 @@ year: 2025
 
 ## Attending
 
+- Michael	Affenzeller
+- Stuart Card
 - Erik Fredericks
 - Pablo Giuliani
 - Malcolm Heywood
-- Moshe Sipper
-- Leonardo Trujillo
 - Jason Moore
+- Sanaz	Mostaghim
+- Giorgia	Nadizar
+- Charles	Ofria
+- Moshe Sipper
+- Lee Spector
+- Leonardo Trujillo
 - ... and more!
 
 ## Organizers
