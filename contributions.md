@@ -7,11 +7,10 @@ year: 2025
 
 ## Important Dates
 
-<!-- - **Jan 2024:** Invitation of keynote speakers
-- **Jan-Mar 2024:** Invitation of workshop participants -->
+- **May 05, 2025:** Deadline for talk titles/topics from presenters
+- **May 12, 2025:** Deadline for contribution drafts from presenters
+- **May 26, 2025:** Deadline for contribution reviews
 - **June 05-07, 2025:** Keynotes, presentations, and discussions
-
-*More important dates coming soon!*
 
 ## Keynote Talks
 
