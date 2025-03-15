@@ -7,14 +7,17 @@ year: 2025
 
 ## Keynote Speakers
 
+- [Chris Adami](https://adami.natsci.msu.edu/)
 - [Shubho Sengupta](https://shubho.github.io/)
 - [Richard Watson](https://www.richardawatson.com/)
-
 
 ## Attending
 
 - Michael	Affenzeller
+- Clifford Bohm
 - Stuart Card
+- Sylvain Cussat-Blanc
+- Chris Crary
 - Travis Desell
 - Emily Dolson
 - Alcides Fonseca
@@ -23,19 +26,28 @@ year: 2025
 - Daniel Hernandez
 - Jose Hernandez
 - Malcolm Heywood
+- Ting Hu
+- Arend Hintze
 - Mark Kotanchek
 - Yuri Lavinas
+- Nuno Lourenço
+- Penousal Machado
 - James McDermott
 - Jason Moore
 - Sanaz	Mostaghim
 - Giorgia	Nadizar
 - Charles	Ofria
+- Una-May O'Reilly
+- Anselmo Pontes
+- Julie Rolla
 - Anil Saini
 - Moshe Sipper
 - Lee Spector
 - Alberto Tonda
+- Bill Tozier
 - Leonardo Trujillo
-- ... and more!
+- Quentin Vacher
+- Bing Xue
 
 ## Organizers
 
