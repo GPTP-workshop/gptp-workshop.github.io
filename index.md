@@ -20,8 +20,14 @@ The 2025 meeting will be held on the main campus of Michigan State University in
 
 Building address: Michigan State University, 766 Service Rd, East Lansing, MI 48823
 
-<!-- Parking? -->
+A map of Michigan State University's campus: <https://maps.msu.edu/interactive/index.php> (which includes available parking lots).
 
+#### Parking
+
+For more information about parking on Michigan State University's campus, [see here](https://parking.msu.edu/visitor-parking/).
+See the map linked above for the locations of different parking lots.
+Lot 91 is nearby and is free to park in over the summer (see <https://parking.msu.edu/visitor-parking/complimentary-parking>).
+Lot 100 has visitor parking that is slightly closer to the meeting location but is not free to park.
 
 <!--
 ### Accommodations
