@@ -7,7 +7,7 @@ year: 2025
 
 ## Important Dates
 
-- **May 05, 2025:** Deadline for talk titles/topics from presenters
+- **As soon as possible:** Presenters provide contribution titles and/or topic area
 - **May 12, 2025:** Deadline for contribution drafts from presenters
 - **May 26, 2025:** Deadline for contribution reviews
 - **June 05-07, 2025:** Keynotes, presentations, and discussions
