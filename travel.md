@@ -25,3 +25,11 @@ For more information about parking on Michigan State University's campus, [see h
 See the map linked above for the locations of different parking lots.
 Lot 91 is nearby and is free to park in over the summer (see <https://parking.msu.edu/visitor-parking/complimentary-parking>).
 Lot 100 has visitor parking that is slightly closer to the meeting location but is not free to park.
+
+### Buses
+
+There is a bus service on campus.
+Information can be found here: <https://www.cata.org/Routes-Schedules/Where-can-I-Ride/MSU-Campus>
+
+Note that campus bus routes / availability may change over the summer.
+We'll post more details as the bus service updates their summer schedule.
