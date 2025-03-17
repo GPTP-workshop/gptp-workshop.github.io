@@ -34,7 +34,8 @@ Lot 100 has visitor parking that is slightly closer to the meeting location but 
 There is a bus service on campus.
 Information can be found here: <https://www.cata.org/Routes-Schedules/Where-can-I-Ride/MSU-Campus>
 
-Note that campus bus routes / availability may change over the summer.
+Note that campus bus routes / availability will change over the summer.
+Many campus routes do not run during the summer, so be sure to plan accordingly.
 We'll post more details as the bus service updates their summer schedule.
 
 <!--
