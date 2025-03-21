@@ -55,4 +55,4 @@ year: 2025
 - [Bogdan Burlacu](https://heal.heuristiclab.com/team/burlacu)
 - [Stephen Kelly](http://creativealgorithms.ca/)
 - [Alexander Lalejini](https://lalejini.com)
-- [Fabricio Olivetti](https://folivetti.github.io/)
+- [Fabricio Olivetti de França](https://folivetti.github.io/)

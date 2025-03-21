@@ -11,6 +11,8 @@ From Detroit, the [Michigan Flyer/AirRide shuttle](https://www.michiganflyer.com
 
 The Lansing airport is an approximately 15-minute drive from the Michigan State University campus.
 
+If you need an official invitation letter for any reason, contact us (on slack or via email), and we can send you one. Please include all of the organizers when you do to make sure that we see your message quickly!
+
 ## Meeting Location
 
 The 2025 meeting will be held on the main campus of Michigan State University in the [Interdisciplinary Science and Technology building](https://maps.app.goo.gl/gCQAdK981z6yGJwa6) on the first floor in Room 1404.
