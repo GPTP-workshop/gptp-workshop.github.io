@@ -14,6 +14,8 @@ year: 2025
 ## Attending
 
 - Michael	Affenzeller
+- Guilherme Aldeia
+- Illya Bakuov
 - Clifford Bohm
 - Stuart Card
 - Sylvain Cussat-Blanc
@@ -23,18 +25,22 @@ year: 2025
 - Alcides Fonseca
 - Erik Fredericks
 - Pablo Giuliani
+- Nathan Haut
 - Daniel Hernandez
 - Jose Hernandez
 - Malcolm Heywood
 - Ting Hu
 - Arend Hintze
+- Steven Jorgensen
 - Mark Kotanchek
 - Yuri Lavinas
 - Nuno Lourenço
 - Penousal Machado
 - James McDermott
+- Ryan McKendrick
 - Jason Moore
 - Sanaz	Mostaghim
+- Aidan Murphy
 - Giorgia	Nadizar
 - Charles	Ofria
 - Una-May O'Reilly
