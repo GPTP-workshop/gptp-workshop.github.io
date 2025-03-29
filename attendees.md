@@ -36,6 +36,7 @@ year: 2025
 - Yuri Lavinas
 - Nuno Lourenço
 - Penousal Machado
+- Bryce MacInnis
 - James McDermott
 - Ryan McKendrick
 - Jason Moore
@@ -53,6 +54,7 @@ year: 2025
 - Bill Tozier
 - Leonardo Trujillo
 - Quentin Vacher
+- Bernhard Werth
 - Bing Xue
 
 ## Organizers
