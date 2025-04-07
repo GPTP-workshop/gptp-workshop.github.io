@@ -86,3 +86,8 @@ The Lansing airport is an approximately 15-minute drive from the Michigan State 
 <!-- Transportation options should be considered before actually embarking on the trip.
 There is very little chance of street parking on weekdays on the University campus, but there is a pay-by-use parking close to the College of Engineering. -->
 
+### Sponsors
+
+![Autogenetics logo](logos/autogenetics_logo_two_color.png){:width="250"}
+<br/>
+**Autogenetics** is a private research lab pursuing general intelligence for robots and other automated systems. Visit them at: <https://autogenetics.ai>
