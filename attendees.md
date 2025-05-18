@@ -34,6 +34,7 @@ year: 2025
 - Steven Jorgensen
 - Mark Kotanchek
 - Yuri Lavinas
+- Nam Le
 - Nuno Lourenço
 - Penousal Machado
 - Bryce MacInnis
