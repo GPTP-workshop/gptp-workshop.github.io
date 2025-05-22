@@ -33,6 +33,7 @@ year: 2025
 - Arend Hintze
 - Steven Jorgensen
 - Mark Kotanchek
+- Kelvin Kotanchek
 - Yuri Lavinas
 - Nam Le
 - Nuno Lourenço
