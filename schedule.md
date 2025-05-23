@@ -24,7 +24,7 @@ year: 2025
 - 2:45p [Cliff Bohm](https://cliffbohm.weebly.com/) (Michigan State University) and [Arend Hintze](https://www.du.se/en/profile-page/?userId=1998846580) (Dalarna University): _"The Evolution of Heterogeneous Logic: An Analysis of the Buffet Method"_ (lightning talk)
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
-- 4:00p Stuart Card: _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
+- 4:00p [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
 - 4:30p [Illya Bakurov](https://engineering.msu.edu/faculty/Illya-Bakurov) (Michigan State University): _"Grammar Evolution, Linear, Tree and Cartesian GP in a single Python-based API: General Purpose Optimization Library (GPOL)"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
@@ -55,7 +55,7 @@ year: 2025
 - 8:30a _Coffee_
 - 9:00a _Keynote_ by Shubho Sengupta
 - 10:00a _Discussion/Coffee_
-- 10:30a [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
+- 10:30a Stuart Card: _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
 - 11:00a [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (University of Applied Sciences Upper Austria): _"On the Effects of Continuous Pruning on Symbolic Regression for Different Variants of Evolutionary Search"_
 - 11:30a [Bing Xue](https://people.wgtn.ac.nz/Bing.Xue) (Victoria University of Wellington): _"Complementarity-Guided Epsilon Lexicase Selection for Genetic Programming in Symbolic Regression"_
 - 12:00p _Closing discussion_
