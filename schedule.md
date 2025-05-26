@@ -55,7 +55,7 @@ year: 2025
 - 8:30a _Coffee_
 - 9:00a _Keynote_ by Shubho Sengupta
 - 10:00a _Discussion/Coffee_
-- 10:30a Stuart Card: _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
+- 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
 - 11:00a [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (University of Applied Sciences Upper Austria): _"On the Effects of Continuous Pruning on Symbolic Regression for Different Variants of Evolutionary Search"_
 - 11:30a [Bing Xue](https://people.wgtn.ac.nz/Bing.Xue) (Victoria University of Wellington): _"Complementarity-Guided Epsilon Lexicase Selection for Genetic Programming in Symbolic Regression"_
 - 12:00p _Closing discussion_
