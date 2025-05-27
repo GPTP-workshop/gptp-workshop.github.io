@@ -24,7 +24,7 @@ year: 2025
 - 2:45p [Cliff Bohm](https://cliffbohm.weebly.com/) (Michigan State University) and [Arend Hintze](https://www.du.se/en/profile-page/?userId=1998846580) (Dalarna University): _"The Evolution of Heterogeneous Logic: An Analysis of the Buffet Method"_ (lightning talk)
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
-- 4:00p [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
+- 4:00p [Mark Kotanchek](https://evolved-analytics.com/about-us/) (Evolved Analytics): _"To Smoothly Go Where No Model has Gone Before Pareto Tournaments, Model Curvature and Alternating Objectives"_
 - 4:30p [Illya Bakurov](https://engineering.msu.edu/faculty/Illya-Bakurov) (Michigan State University): _"Grammar Evolution, Linear, Tree and Cartesian GP in a single Python-based API: General Purpose Optimization Library (GPOL)"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
@@ -46,7 +46,7 @@ year: 2025
 - 2:45p [Alcides Fonseca](https://wiki.alcidesfonseca.com/about/) (University of Lisbon): _"Bridging Genetic Programming and Programming Languages Research"_ (lightning talk)
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
-- 4:00p [Mark Kotanchek](https://evolved-analytics.com/about-us/) (Evolved Analytics): _"To Smoothly Go Where No Model has Gone Before Pareto Tournaments, Model Curvature and Alternating Objectives"_
+- 4:00p [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
 - 4:30p [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php) (University of Toulouse): _"On Interpretability in Multimodal Biomedical Image Analysis"_ (lightning talk)
 - 4:45p _Closing discussion_
 
