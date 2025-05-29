@@ -15,8 +15,8 @@ year: 2025
 - 10:30a [Charles Ofria](https://ofria.com/) (Michigan State University): _"Tips on Effective Theory and Practice of Genetic Programming"_
 - 11:00a [James McDermott](http://www.jmmcd.net/me.html) (University of Galway): _"Evolving Programs in the Lambda Calculus using Program Trace Optimisation"_ (lightning talk)
 - 11:15a [Quentin Vacher](https://scholar.google.com/citations?user=rTBz_k4AAAAJ&hl=en&oi=ao) (INSA of Rennes): _"Advancing Machine Learning with Tangled Program Graphs: The Gegelati Framework for Efficient and Reproducible Solutions"_ (lightning talk)
-- 11:30a [Anil Saini](https://theaksaini.github.io/) (Cedars-Sinai Medical Center): _"Agentic-GP: A Theoretical Framework for the Development of Genetic Programming Systems Via Agentic AI"_ (lightning talk)
-- 11:45a [Jose Guadalupe Hernandez](https://jgh9094.github.io/) (Cedars-Sinai Medical Center): _"GP and LLMs for Program Synthesis with Varying Number of Input-Output Examples"_ (lightning talk)
+- 11:30a [Jose Guadalupe Hernandez](https://jgh9094.github.io/) (Cedars-Sinai Medical Center): _"GP and LLMs for Program Synthesis with Varying Number of Input-Output Examples"_ (lightning talk)
+- 11:45a [Anil Saini](https://theaksaini.github.io/) (Cedars-Sinai Medical Center): _"Agentic-GP: A Theoretical Framework for the Development of Genetic Programming Systems Via Agentic AI"_ (lightning talk)
 - 12:00p _Discussion_
 - 12:45p _Lunch_
 - 2:00p [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Evolution of novel neural network architectures"_
@@ -31,7 +31,7 @@ year: 2025
 ### Friday (June 6, 2025)
 
 - 8:30a _Coffee_
-- 9:00a _Keynote_ by [Chris Adami](https://adami.natsci.msu.edu/)
+- 9:00a _Keynote_ by [Chris Adami](https://adami.natsci.msu.edu/): _"How evolution creates complexity: From viruses to brains"_
 - 10:00a _Discussion/Coffee_
 - 10:15am _Break_
 - 10:30a [Leonardo Trujillo](https://sites.google.com/site/leonardotrujillogp/) (Instituto Tecnológico de Tijuana): _"Heeding good advise for research in genetic programming"_
