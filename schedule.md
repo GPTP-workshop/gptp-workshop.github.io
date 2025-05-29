@@ -7,7 +7,7 @@ year: 2025
 
 ### Thursday (June 5, 2025)
 
-- 8:30a _Coffee_
+- 8:30a _Breakfast + Coffee_
 - 9:00a _Opening remarks_
 - 9:15a _Keynote_ by [Richard Watson](https://www.richardawatson.com/) (University of Southampton)
 - 10:00a _Discussion/Coffee_
@@ -30,7 +30,7 @@ year: 2025
 
 ### Friday (June 6, 2025)
 
-- 8:30a _Coffee_
+- 8:30a _Breakfast + Coffee_
 - 9:00a _Keynote_ by [Chris Adami](https://adami.natsci.msu.edu/): _"How evolution creates complexity: From viruses to brains"_
 - 10:00a _Discussion/Coffee_
 - 10:15am _Break_
@@ -52,7 +52,7 @@ year: 2025
 
 ### Saturday (June 7, 2025)
 
-- 8:30a _Coffee_
+- 8:30a _Breakfast + Coffee_
 - 9:00a _Keynote_ by Shubho Sengupta
 - 10:00a _Discussion/Coffee_
 - 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
