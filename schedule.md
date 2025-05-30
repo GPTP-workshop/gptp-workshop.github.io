@@ -9,7 +9,7 @@ year: 2025
 
 - 8:30a _Breakfast + Coffee_
 - 9:00a _Opening remarks_
-- 9:15a _Keynote_ by [Richard Watson](https://www.richardawatson.com/) (University of Southampton)
+- 9:15a _Keynote_ by [Richard Watson](https://www.richardawatson.com/) (Southampton University): _"Cognition-First Evolution"_
 - 10:00a _Discussion/Coffee_
 - 10:15am _Break_
 - 10:30a [Charles Ofria](https://ofria.com/) (Michigan State University): _"Tips on Effective Theory and Practice of Genetic Programming"_
