@@ -53,7 +53,7 @@ year: 2025
 ### Saturday (June 7, 2025)
 
 - 8:30a _Breakfast + Coffee_
-- 9:00a _Keynote_ by Shubho Sengupta
+- 9:00a _Keynote_ by [Shubho Sengupta](https://shubho.github.io/): _"Building Scalable Automated Software Test Systems with LLMs"_
 - 10:00a _Discussion/Coffee_
 - 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
 - 11:00a [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (University of Applied Sciences Upper Austria): _"On the Effects of Continuous Pruning on Symbolic Regression for Different Variants of Evolutionary Search"_
