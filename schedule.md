@@ -47,7 +47,7 @@ year: 2025
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
 - 4:00p [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
-- 4:30p [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php) (University of Toulouse): _"On Interpretability in Multimodal Biomedical Image Analysis"_ (lightning talk)
+- 4:30p 
 - 4:45p _Closing discussion_
 
 ### Saturday (June 7, 2025)
@@ -57,5 +57,5 @@ year: 2025
 - 10:00a _Discussion/Coffee_
 - 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few — Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
 - 11:00a [Michael Affenzeller](https://heal.heuristiclab.com/team/affenzeller) (University of Applied Sciences Upper Austria): _"On the Effects of Continuous Pruning on Symbolic Regression for Different Variants of Evolutionary Search"_
-- 11:30a [Bing Xue](https://people.wgtn.ac.nz/Bing.Xue) (Victoria University of Wellington): _"Complementarity-Guided Epsilon Lexicase Selection for Genetic Programming in Symbolic Regression"_
+- 11:30a [Sylvain Cussat-Blanc](https://www.irit.fr/~Sylvain.Cussat-Blanc/index_en.php) (University of Toulouse): _"On Interpretability in Multimodal Biomedical Image Analysis"_
 - 12:00p _Closing discussion_
