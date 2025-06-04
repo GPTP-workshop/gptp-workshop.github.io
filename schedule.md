@@ -19,7 +19,7 @@ year: 2025
 - 11:45a [Anil Saini](https://theaksaini.github.io/) (Cedars-Sinai Medical Center): _"Agentic-GP: A Theoretical Framework for the Development of Genetic Programming Systems Via Agentic AI"_ (lightning talk)
 - 12:00p _Discussion_
 - 12:45p _Lunch_
-- 2:00p [Lee Spector](https://www.amherst.edu/people/facstaff/lspector) (Amherst College): _"Evolution of novel neural network architectures"_
+- 2:00p [Lee Spector](https://www.amherst.edu/people/facstaff/lspector), Ryan Bahlous-Boldi, Paul Vander Vort, and Niko Lorantos (Amherst College and the University of Massachusetts, Amherst): _"Evolution of Artificial Intelligence, Continued"_
 - 2:30p [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory): _"Applications of Genetic Programming for Instrument Design"_ (lightning talk)
 - 2:45p [Cliff Bohm](https://cliffbohm.weebly.com/) (Michigan State University) and [Arend Hintze](https://www.du.se/en/profile-page/?userId=1998846580) (Dalarna University): _"The Evolution of Heterogeneous Logic: An Analysis of the Buffet Method"_ (lightning talk)
 - 3:00p _Discussion/Coffee_
