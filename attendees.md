@@ -15,11 +15,12 @@ year: 2025
 
 - Michael	Affenzeller
 - Guilherme Aldeia
-- Illya Bakuov
+- Illya Bakurov
 - Clifford Bohm
 - Stuart Card
 - Sylvain Cussat-Blanc
 - Chris Crary
+- Kalyanmoy Deb
 - Travis Desell
 - Emily Dolson
 - Alcides Fonseca
@@ -29,21 +30,16 @@ year: 2025
 - Daniel Hernandez
 - Jose Hernandez
 - Malcolm Heywood
-- Ting Hu
 - Arend Hintze
 - Steven Jorgensen
 - Mark Kotanchek
 - Kelvin Kotanchek
 - Yuri Lavinas
 - Nam Le
-- Nuno Lourenço
-- Penousal Machado
 - Bryce MacInnis
 - James McDermott
 - Ryan McKendrick
 - Jason Moore
-- Sanaz	Mostaghim
-- Aidan Murphy
 - Giorgia	Nadizar
 - Charles	Ofria
 - Una-May O'Reilly
@@ -57,7 +53,6 @@ year: 2025
 - Leonardo Trujillo
 - Quentin Vacher
 - Bernhard Werth
-- Bing Xue
 
 ## Organizers
 
