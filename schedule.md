@@ -25,7 +25,7 @@ year: 2025
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
 - 4:00p [Mark Kotanchek](https://evolved-analytics.com/about-us/) (Evolved Analytics): _"To Smoothly Go Where No Model has Gone Before Pareto Tournaments, Model Curvature and Alternating Objectives"_
-- 4:30p [Illya Bakurov](https://engineering.msu.edu/faculty/Illya-Bakurov) (Michigan State University): _"Grammar Evolution, Linear, Tree and Cartesian GP in a single Python-based API: General Purpose Optimization Library (GPOL)"_ (lightning talk)
+- 4:30p [Illya Bakurov](https://engineering.msu.edu/faculty/Illya-Bakurov) (Michigan State University): _"Analyzing Fitness Aggregation Strategies for Symbolic Regression Problem-Solving"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
 ### Friday (June 6, 2025)
