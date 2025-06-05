@@ -42,12 +42,12 @@ year: 2025
 - 12:00p _Discussion_
 - 12:45p _Lunch_
 - 2:00p [Malcom Heywood](https://www.dal.ca/faculty/computerscience/faculty-staff/malcolm-heywood.html) (Dalhousie University): _"Offline reinforcement learning: A new challenge for symbolic regression?"_
-- 2:30p [Giorgia Nazidar](https://giorgia-nadizar.github.io/#/biography) (University of Trieste): _"Interpretable Control with Graph-based Genetic Programming"_ (lightning talk)
+- 2:30p [Giorgia Nadizar](https://giorgia-nadizar.github.io/#/biography) (University of Trieste): _"Interpretable Control with Graph-based Genetic Programming"_ (lightning talk)
 - 2:45p [Alcides Fonseca](https://wiki.alcidesfonseca.com/about/) (University of Lisbon): _"Bridging Genetic Programming and Programming Languages Research"_ (lightning talk)
 - 3:00p _Discussion/Coffee_
 - 3:30p _Break_
 - 4:00p [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"CANTS-GP: A Nature-Inspired Metaheuristic for Graph Based Genetic Programs"_
-- 4:30p 
+- 4:30p
 - 4:45p _Closing discussion_
 
 ### Saturday (June 7, 2025)
