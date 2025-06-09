@@ -46,6 +46,7 @@ year: 2025
 - Anselmo Pontes
 - Julie Rolla
 - Anil Saini
+- Guilherme Seidyo
 - Moshe Sipper
 - Lee Spector
 - Alberto Tonda
