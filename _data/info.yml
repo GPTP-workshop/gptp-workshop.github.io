@@ -1,5 +1,10 @@
 
 workshop:
+  gptp2026:
+    updated: "Jan 28, 2026"
+    roman: "XXIII"
+    dates: "June 04-06, 2026"
+    venue: University of Michigan
   gptp2025:
     roman: "XXII"
     dates: "June 05-07, 2025"

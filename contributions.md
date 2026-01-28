@@ -1,16 +1,22 @@
 ---
 layout: default
-year: 2025
+year: 2026
 ---
 
 # Contributions
 
+Please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2026.zip) to prepare you contributions.
+
+*More information coming soon!*
+
+<!--
 ## Important Dates
 
 - **As soon as possible:** Presenters provide contribution titles and/or topic area
 - **May 12, 2025:** Deadline for contribution drafts from presenters
 - **May 26, 2025:** Deadline for contribution reviews
 - **June 05-07, 2025:** Keynotes, presentations, and discussions
+-->
 
 ## Keynote Talks
 
@@ -22,5 +28,5 @@ year: 2025
 
 ## Sponsors
 
-We are actively looking for sponsors for 2025.
-If you're interested in sponsoring GPTP 2025, contact [Alexander Lalejini](https://lalejini.com) at lalejina [at] gvsu [dot] edu!
+We are actively looking for sponsors for 2026.
+If you're interested in sponsoring GPTP 2026, contact [Stephen Kelly](https://creativealgorithms.ca) at spkelly [at] mcmaster [dot] ca!
