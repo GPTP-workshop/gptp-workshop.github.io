@@ -6,11 +6,11 @@ year: 2026
 Genetic Programming Theory & Practice (GPTP) is a small, invitation-only workshop.
 This year's GPTP will be hosted by University of Michigan in Ann Arbor, MI on June 04-06, 2026.
 
+More info coming soon!
+
 ### Important Dates
 
 - **June 04-06, 2026:** Keynotes, presentations, and discussions
-
-More important dates coming soon!
 
 ### Organizers for GPTP
 
