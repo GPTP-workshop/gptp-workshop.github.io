@@ -92,3 +92,8 @@ a.btn-primary {
 ::-moz-selection {
   background: palegoldenrod; /* Firefox */
 }
+
+.blue-text {
+  color: #1f4fa3;
+}
+
