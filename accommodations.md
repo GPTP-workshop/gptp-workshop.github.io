@@ -5,7 +5,9 @@ year: 2026
 
 # Accommodations
 
-We have 25 rooms blocked in the Graduate by Hilton hotel, accessible [at this link](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401).
+### [The Graduate Ann Arbor](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401)
+
+We have 25 rooms blocked in the Graduate, accessible [at this link](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401).
 
 615 East Huron St \\
 Ann Arbor, MI 48104
