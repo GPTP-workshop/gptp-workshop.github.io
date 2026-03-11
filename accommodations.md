@@ -7,7 +7,7 @@ year: 2026
 
 ### [The Graduate Ann Arbor](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401)
 
-We have 25 rooms blocked in the Graduate, accessible [here](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401).
+We have 25 rooms blocked in the Graduate, accessible [here](https://book.passkey.com/e/51215831?utm_source=50919754&utm_medium=email&utm_campaign=299843360&trkid=611756285&linkid=3966363401). Please **book by May 4** to reserve one of these rooms.
 
 615 East Huron St \\
 Ann Arbor, MI 48104
