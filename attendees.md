@@ -13,14 +13,19 @@ year: 2026
 
 ## Attending
 
+- Mathew Andres Moreno
 - Stuart Card
 - Qi Chen
 - Emily Dolson
 - Erik Fredericks
 - Nathan Haut
+- Mark Kotanchek
 - Alex Lalejini
+- Patrick Leser
 - Jason Moore
+- Charles Ofria
 - Anselmo Pontes
+- Katya Rodriguez
 - Julie Rolla
 - Moshe Sipper
 - Giovanni Squillero

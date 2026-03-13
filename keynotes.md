@@ -17,4 +17,12 @@ Loris D’Antoni is a Jacobs Faculty Scholar and Associate Professor in the Depa
 He is the recipient of an NSF CAREER Award and a Microsoft Research Faculty Fellowship, and was selected as a Vilas Associate at the University of Wisconsin-Madison. He has also received Google, Amazon, and Meta Faculty Awards, and the Morris and Dorothy Rubinoff Dissertation Award. His papers have earned several best paper awards and nominations, including at TACAS, ESOP, ICDCN, and SBES.
 Loris received his B.S. and M.S. in Computer Science from the University of Torino, and his Ph.D. in Computer Science from the University of Pennsylvania. Before joining UC San Diego, he was a faculty member at the University of Wisconsin–Madison.
 
+***
 
+<span class="blue-text">**Adam Wilkins**</span>
+
+Humboldt Universität zu Berlin
+
+**Animal domestication: Some new perspectives on the oldest problem in genetics**
+
+Charles Darwin was the first person to look at the phenomenon of domestication of mammals as a problem of genetics. He concluded that there was some general hereditary process underlying the taming and domestication of many different animal species, which had occurred independently of each other. However, he was writing in 1868, long before Mendelian genetics had been rediscovered, hence he could not answer what was a hard genetics question. Nor has it been fully answered in more than 150 years since then. However, Darwin had produced some valuable clues. Furthermore, a lot of relevant data have accumulated since his work. In this talk, I will describe a genetic idea that two friend-colleagues and I first published in 2014. It invokes a possibly crucial role that the neural crest cells play in domestication in mammals and birds (though it potentially applies to all vertebrates).  I will explain it, then discuss its strengths and limits, what needs to be done to definitively test it, and what more is needed beyond it to explain domestication.
