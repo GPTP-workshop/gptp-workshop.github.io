@@ -14,6 +14,7 @@ year: 2026
 ## Attending
 
 - Mathew Andres Moreno
+- Ilya Basin
 - Stuart Card
 - Qi Chen
 - Emily Dolson
