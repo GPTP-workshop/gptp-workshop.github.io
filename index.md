@@ -12,6 +12,16 @@ More info coming soon!
 
 - **June 04-06, 2026:** Keynotes, presentations, and discussions
 
+### Meeting Location
+
+The 2026 meeting location will be at the main campus of University of Michigan.
+
+Thursday: 411 West Hall, 1085 S University Ave, Ann Arbor.
+Friday: 411 West Hall, 1085 S University Ave, Ann Arbor.
+Saturday: Weiser Hall, 10th Floor, 500 Church Street, Ann Arbor.
+
+A (for-fee) parking garage is available nearby.
+
 ### Organizers for GPTP
 
 (alphabetical order)
