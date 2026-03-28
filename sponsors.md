@@ -3,7 +3,7 @@ layout: default
 year: 2026
 ---
 
-# 2026 Sponsors
+#Sponsors
 ***
 
 [![Evolved analytics logo](logos/evolved-analytics-logo.png){:width="250"}](https://evolved-analytics.com/)
