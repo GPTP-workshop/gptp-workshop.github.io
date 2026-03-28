@@ -43,3 +43,4 @@ See the restaurant page for information on local restaurants for informal meetin
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
 - Workshop hashtag: `#gptp2026`
+
