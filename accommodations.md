@@ -22,8 +22,7 @@ Ann Arbor, Michigan 48104
 {: .address}
 
 Contact: Karen Grimm, Reservations Manager, Bell Tower hotel
-(800) 562-3559
-(734) 769-3010
+(800) 562-3559, (734) 769-3010
 reservations@belltowerhotel.com
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
