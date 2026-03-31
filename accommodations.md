@@ -15,26 +15,16 @@ Ann Arbor, MI 48104
 
 Close to the venue, and walkable.
 
-
-The following hotels are also conveniently close to the workshop venue. Some of them are shown in [this map](https://www.google.com/maps/d/u/0/viewer?mid=1tHcZafajq_R5saxe4Pmtu1RxeUjO-MPX&ll=42.27876251803364%2C-83.7425372108465&z=16)
-
-### [The Executive Residence at the Ross School of Business](https://www.acc-elandconferencecenter.com/)
-
-710 E. University Ave \\
-Ann Arbor, MI 48109
-{: .address}
-
-_Super_ close to the workshop venue, literally down the street. Highly regarded by the folks who stayed there last year.
-There are five rooms blocked for GPTP'ers; the rate is $167/night (parking is an additional $28.80/day at the Forest Structure), reservations will need to be made by May 15, 2024. If you would like to reserve a room, then please do so [online](https://bookings.travelclick.com/76008?groupID=4273830&hotelID=76008#/guestsandrooms)!
-
 ### [The Bell Tower Hotel](https://www.belltowerhotel.com)
 
 300 S. Thayer Street \\
 Ann Arbor, Michigan 48104
 {: .address}
 
-Close to the venue, and walkable.
-There are three rooms blocked for GPTP'ers for around $239/night (on average). Please contact [Linda Wood](mailto:linmwood@umich.edu) if you would like to reserve a room!
+Contact: Karen Grimm, Reservations Manager, Bell Tower hotel
+(800) 562-3559
+(734) 769-3010
+reservations@belltowerhotel.com
 
 ### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
 
