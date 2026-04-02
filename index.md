@@ -17,7 +17,9 @@ More info coming soon!
 The 2026 meeting location will be at the main campus of University of Michigan.
 
 Thursday: 411 West Hall, 1085 S University Ave, Ann Arbor.
+
 Friday: 411 West Hall, 1085 S University Ave, Ann Arbor.
+
 Saturday: Weiser Hall, 10th Floor, 500 Church Street, Ann Arbor.
 
 A (for-fee) parking garage is available nearby.
