@@ -27,6 +27,8 @@ Humboldt Universität zu Berlin
 
 Charles Darwin was the first person to look at the phenomenon of domestication of mammals as a problem of genetics. He concluded that there was some general hereditary process underlying the taming and domestication of many different animal species, which had occurred independently of each other. However, he was writing in 1868, long before Mendelian genetics had been rediscovered, hence he could not answer what was a hard genetics question. Nor has it been fully answered in more than 150 years since then. However, Darwin had produced some valuable clues. Furthermore, a lot of relevant data have accumulated since his work. In this talk, I will describe a genetic idea that two friend-colleagues and I first published in 2014. It invokes a possibly crucial role that the neural crest cells play in domestication in mammals and birds (though it potentially applies to all vertebrates).  I will explain it, then discuss its strengths and limits, what needs to be done to definitively test it, and what more is needed beyond it to explain domestication.
 
+***
+
 <span class="blue-text">**Krzysztof Krawiec**</span>
 
 Institute of Computing Science, Poznan University of Technology
