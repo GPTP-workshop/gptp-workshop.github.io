@@ -15,11 +15,15 @@ year: 2026
 
 - Mathew Andres Moreno
 - Ilya Basin
+- Cliff Bohm
 - Stuart Card
 - Qi Chen
+- Travis Desell
 - Emily Dolson
 - Erik Fredericks
+- Pablo Giuliani
 - Nathan Haut
+- Inaki Hidalgo
 - Mark Kotanchek
 - Alex Lalejini
 - Patrick Leser
@@ -30,6 +34,8 @@ year: 2026
 - Julie Rolla
 - Moshe Sipper
 - Giovanni Squillero
+- Kai Staats
+- Bill Tozier
 - Ryan Urbanowicz
 
 ## Organizers
