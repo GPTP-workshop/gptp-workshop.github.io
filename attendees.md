@@ -34,7 +34,6 @@ year: 2026
 - Julie Rolla
 - Moshe Sipper
 - Giovanni Squillero
-- Kai Staats
 - Bill Tozier
 - Ryan Urbanowicz
 
