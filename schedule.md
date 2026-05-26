@@ -29,7 +29,6 @@ year: 2026
 - 8:30a _Breakfast + Coffee_
 - 9:00a _Keynote_ by [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/) (University of California San Diego): _"Constraining Chaos: Toward Faithful and Semantic Decoding in Language Models"_
 - 10:00a _Discussion/Coffee_
-- 10:15a _Break_
 - 10:30a [Giovanni Squillero](https://staff.polito.it/giovanni.squillero/) (Politecnico di Torino): _"GP and The Quest for AGI — When Goodhart’s Law Turned Out to Be Useful"_
 - 11:00a [Charles Ofria](https://ofria.com/) (Michigan State University): _"An Analysis of Pareto Fronts and Lexicase Selection"_ 
 - 11:30a [Matthew Andres Moreno](https://mmore500.com/research/) (University of Michigan): _"Trust, but Verify: Rigorously Profiling Best-Effort High-Performance Computing for Digital Evolution"_ (lightning talk)
