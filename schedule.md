@@ -11,10 +11,10 @@ year: 2026
 - 9:00a _Opening remarks_
 - 9:15a _Keynote_ by [Adam Wilkins](https://www.wiko-berlin.de/en/fellows/academic-year/2009/wilkins-adam-s) (Humboldt Universität zu Berlin): _"Animal domestication: Some new perspectives on the oldest problem in genetics"_
 - 10:15a _Discussion/Coffee_
-- 10:30a [Jason Moore](https://en.wikipedia.org/wiki/Jason_H._Moore) (Cedars-Sinai Medical Center): _"Agentic AI for autonomous data science"_
-- 11:00a [Nathan Haut](https://www.cse.msu.edu/~hautn/) (Michigan State University): _"Genetic Programming, Time-Series Data Processing, and Dynamical Systems"_
-- 11:30a [Alex Lalejini](https://lalejini.com/) (Grand Valley State University): _"Identifying Potentiating Events in an Evolutionary Search Using Replay Experiments"_
-- 12:00p _Discussion_
+- 10:45a [Jason Moore](https://en.wikipedia.org/wiki/Jason_H._Moore) (Cedars-Sinai Medical Center): _"Agentic AI for autonomous data science"_
+- 11:15a [Nathan Haut](https://www.cse.msu.edu/~hautn/) (Michigan State University): _"Genetic Programming, Time-Series Data Processing, and Dynamical Systems"_
+- 11:45a [Alex Lalejini](https://lalejini.com/) (Grand Valley State University): _"Identifying Potentiating Events in an Evolutionary Search Using Replay Experiments"_
+- 12:15p _Discussion_
 - 12:45p _Lunch_
 - 2:00p [Emily Dolson](https://www.egr.msu.edu/people/profile/dolsonem) (Michigan State University): _"Analyzing the Fitness Landscape of a Challenging Real-World Antenna Design Problem: A Case Study"_
 - 2:30p [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/) (University of Pennsylvania): _"STREAMLINE 3.0 – An Expanded Automated Machine Learning Framework for Data Mining, Modeling, and Algorithm Benchmarking"_ (lightning talk)
