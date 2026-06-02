@@ -7,24 +7,16 @@ year: 2026
 
 Please use this [template](http://gptp-workshop.com/GPTPChapterTemplate2026.zip) to prepare you contributions.
 
-*More information coming soon!*
 
-<!--
 ## Important Dates
 
-- **As soon as possible:** Presenters provide contribution titles and/or topic area
-- **May 12, 2025:** Deadline for contribution drafts from presenters
-- **May 26, 2025:** Deadline for contribution reviews
-- **June 05-07, 2025:** Keynotes, presentations, and discussions
--->
+- **May 30, 2026:** Deadline for contribution reviews
+- **June 04-06, 2026:** Keynotes, presentations, and discussions
 
 ## Keynote Talks
 
 - Each day of the workshop there will be a keynote talk given by an expert either of our field or of a field that is inspiring for the GPTP community. Each keynote presenter will be allowed to talk for 45 minutes, followed by Q&A and discussion.
 
-## Presentations
-
-*More information coming soon!*
 
 ## Sponsors
 
