@@ -18,24 +18,32 @@ year: 2026
 - Cliff Bohm
 - Stuart Card
 - Qi Chen
+- Amy Connolly
 - Travis Desell
 - Emily Dolson
+- Max Foreback
 - Erik Fredericks
 - Pablo Giuliani
+- Thad Greiner
 - Nathan Haut
 - Inaki Hidalgo
+- Rachel Kocherovsky
 - Mark Kotanchek
 - Alex Lalejini
 - Patrick Leser
 - Jason Moore
+- Ali Naqvi
 - Charles Ofria
 - Anselmo Pontes
+- Sara Rezaeimanesh
 - Katya Rodriguez
 - Julie Rolla
 - Moshe Sipper
+- Elijah Smith
 - Giovanni Squillero
 - Bill Tozier
 - Ryan Urbanowicz
+- Joey Wagner
 
 ## Organizers
 
