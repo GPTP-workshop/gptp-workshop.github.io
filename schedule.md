@@ -20,7 +20,7 @@ year: 2026
 - 2:30p [Ryan Urbanowicz](https://www.med.upenn.edu/urbslab/) (University of Pennsylvania): _"STREAMLINE 3.0 – An Expanded Automated Machine Learning Framework for Data Mining, Modeling, and Algorithm Benchmarking"_ (lightning talk)
 - 2:45p _Discussion/Coffee_
 - 3:30p _Break_
-- 4:00p [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory)
+- 4:00p [Mark Kotanchek](https://evolved-analytics.com/about-us/) (Evolved Analytics): _"Getting Categorical: Moving from Symbolic Regression to Classification"_
 - 4:30p [Erik Fredericks](https://efredericks.github.io/) (Grand Valley State University): _"Every Map an Evolution, Every Room a Generation: Co-Evolution in a Procedurally-Generated Video Game"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
@@ -48,6 +48,6 @@ year: 2026
 - 9:00a _Keynote_ by [Krzysztof Krawiec](https://www.cs.put.poznan.pl/kkrawiec/) (Poznan University of Technology): _"Beyond Pattern Matching: Achieving Algorithmic Intelligence through Neurosymbolic and Physics-Aware Integration"_
 - 10:00a _Discussion/Coffee_
 - 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few - Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
-- 11:00a [Mark Kotanchek](https://evolved-analytics.com/about-us/) (Evolved Analytics): _"Getting Categorical: Moving from Symbolic Regression to Classification"_
+- 11:00a [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory)
 - 11:30a [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"From Individual Populations to Islands to Cells: Population Dyanmics While Evolving Parameterized Quantum Circuits"_
 - 12:00p _Closing discussion_
