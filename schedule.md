@@ -51,3 +51,4 @@ year: 2026
 - 11:00a [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory): _"Evolutionary Algorithm Optimization of Spacecraft Designs for Very Low Earth Orbit (VLEO)"_
 - 11:30a [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"From Individual Populations to Islands to Cells: Population Dyanmics While Evolving Parameterized Quantum Circuits"_
 - 12:00p _Closing discussion_
+- 1:00p _Brownbag Lunch_
