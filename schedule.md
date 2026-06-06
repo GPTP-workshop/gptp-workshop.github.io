@@ -5,7 +5,7 @@ year: 2026
 
 # Schedule
 
-### Thursday (June 4, 2026)
+### Thursday (June 4, 2026): West Hall
 
 - 8:30a _Breakfast + Coffee_
 - 9:00a _Opening remarks_
@@ -24,7 +24,7 @@ year: 2026
 - 4:30p [Erik Fredericks](https://efredericks.github.io/) (Grand Valley State University): _"Every Map an Evolution, Every Room a Generation: Co-Evolution in a Procedurally-Generated Video Game"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
-### Friday (June 5, 2026)
+### Friday (June 5, 2026): West Hall
 
 - 8:30a _Breakfast + Coffee_
 - 9:00a _Keynote_ by [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/) (University of California San Diego): _"Constraining Chaos: Toward Faithful and Semantic Decoding in Language Models"_
@@ -42,12 +42,12 @@ year: 2026
 - 4:30p [Inaki Hidalgo](https://scholar.google.com/citations?user=u0-tP94AAAAJ&hl=en) (Universidad Complutense de Madrid): _"Managing Numerical and Categorical Features by Context-Aware Grammars in GP"_ (lightning talk)
 - 4:45p _Closing Discussion_
 
-### Saturday (June 6, 2026)
+### Saturday (June 6, 2026): Weiser Hall
 
 - 8:30a _Breakfast + Coffee_
 - 9:00a _Keynote_ by [Krzysztof Krawiec](https://www.cs.put.poznan.pl/kkrawiec/) (Poznan University of Technology): _"Beyond Pattern Matching: Achieving Algorithmic Intelligence through Neurosymbolic and Physics-Aware Integration"_
 - 10:00a _Discussion/Coffee_
 - 10:30a [Stuart Card](http://www.critical.com/): _"The Needs of the Few - Information Theory Aided Ensemble Selection for Robustly Generalizing Causal Models"_
-- 11:00a [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory)
+- 11:00a [Julie Rolla](https://scholar.google.com/citations?user=cv3tCVsAAAAJ&hl=en) (NASA Jet Propulsion Laboratory): _"Evolutionary Algorithm Optimization of Spacecraft Designs for Very Low Earth Orbit (VLEO)"_
 - 11:30a [Travis Desell](https://www.rit.edu/directory/tjdvse-travis-desell) (Rochester Institute of Technology): _"From Individual Populations to Islands to Cells: Population Dyanmics While Evolving Parameterized Quantum Circuits"_
 - 12:00p _Closing discussion_
