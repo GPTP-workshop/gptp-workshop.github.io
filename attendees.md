@@ -36,14 +36,11 @@ year: 2026
 - Charles Ofria
 - Anselmo Pontes
 - Sara Rezaeimanesh
-- Katya Rodriguez
 - Julie Rolla
 - Moshe Sipper
-- Elijah Smith
 - Giovanni Squillero
 - Bill Tozier
 - Ryan Urbanowicz
-- Joey Wagner
 
 ## Organizers
 
